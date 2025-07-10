@@ -1,22 +1,13 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
   <head>
-    <meta charset="utf-8">
-    <title>Redirecting...</title>
-    <script>
-      const segment = 1;
-      const l = window.location;
-      l.replace(
-        l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
-        (l.pathname.split('/')[0] || '') + 
-        '/tanngoAPP' + 
-        l.pathname.slice(l.pathname.split('/').slice(0, segment + 1).join('/').length) + 
-        l.search + 
-        l.hash
-      );
-    </script>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + React</title>
   </head>
   <body>
-    <h1>Redirecting...</h1>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
