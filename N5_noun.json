@@ -1,0 +1,397 @@
+{
+    "category": "名詞",
+    "total": 30,
+    "words": [
+      {
+        "id": 1,
+        "jlptLevel": "N5",
+        "word": "学校",
+        "reading": "がっこう",
+        "meaning": "學校",
+        "example": {
+          "jp": "毎日学校に行きます。",
+          "zh": "每天去學校。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 2,
+        "jlptLevel": "N5",
+        "word": "先生",
+        "reading": "せんせい",
+        "meaning": "老師",
+        "example": {
+          "jp": "先生に質問します。",
+          "zh": "向老師提問。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 3,
+        "jlptLevel": "N5",
+        "word": "新聞",
+        "reading": "しんぶん",
+        "meaning": "報紙",
+        "example": {
+          "jp": "新聞を読みます。",
+          "zh": "看報紙。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 4,
+        "jlptLevel": "N5",
+        "word": "電車",
+        "reading": "でんしゃ",
+        "meaning": "電車",
+        "example": {
+          "jp": "電車で行きます。",
+          "zh": "搭電車去。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 5,
+        "jlptLevel": "N5",
+        "word": "病院",
+        "reading": "びょういん",
+        "meaning": "醫院",
+        "example": {
+          "jp": "病院へ行く。",
+          "zh": "去醫院。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 6,
+        "jlptLevel": "N5",
+        "word": "猫",
+        "reading": "ねこ",
+        "meaning": "貓",
+        "example": {
+          "jp": "猫が好きです。",
+          "zh": "我喜歡貓。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 7,
+        "jlptLevel": "N5",
+        "word": "水",
+        "reading": "みず",
+        "meaning": "水",
+        "example": {
+          "jp": "水を飲みます。",
+          "zh": "喝水。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 8,
+        "jlptLevel": "N5",
+        "word": "友達",
+        "reading": "ともだち",
+        "meaning": "朋友",
+        "example": {
+          "jp": "友達と遊びます。",
+          "zh": "和朋友玩。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 9,
+        "jlptLevel": "N5",
+        "word": "山",
+        "reading": "やま",
+        "meaning": "山",
+        "example": {
+          "jp": "山に登る。",
+          "zh": "爬山。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 10,
+        "jlptLevel": "N5",
+        "word": "本",
+        "reading": "ほん",
+        "meaning": "書",
+        "example": {
+          "jp": "本を読む。",
+          "zh": "讀書。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 11,
+        "jlptLevel": "N5",
+        "word": "日本",
+        "reading": "にほん",
+        "meaning": "日本",
+        "example": {
+          "jp": "日本に行きたいです。",
+          "zh": "想去日本。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 12,
+        "jlptLevel": "N5",
+        "word": "車",
+        "reading": "くるま",
+        "meaning": "車",
+        "example": {
+          "jp": "新しい車を買いました。",
+          "zh": "買了新車。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 13,
+        "jlptLevel": "N5",
+        "word": "仕事",
+        "reading": "しごと",
+        "meaning": "工作",
+        "example": {
+          "jp": "仕事が忙しいです。",
+          "zh": "工作很忙。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 14,
+        "jlptLevel": "N5",
+        "word": "天気",
+        "reading": "てんき",
+        "meaning": "天氣",
+        "example": {
+          "jp": "今日はいい天気ですね。",
+          "zh": "今天天氣真好。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 15,
+        "jlptLevel": "N5",
+        "word": "学生",
+        "reading": "がくせい",
+        "meaning": "學生",
+        "example": {
+          "jp": "私は学生です。",
+          "zh": "我是學生。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 16,
+        "jlptLevel": "N5",
+        "word": "家族",
+        "reading": "かぞく",
+        "meaning": "家庭",
+        "example": {
+          "jp": "家族と旅行します。",
+          "zh": "和家人旅行。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 17,
+        "jlptLevel": "N5",
+        "word": "店",
+        "reading": "みせ",
+        "meaning": "商店",
+        "example": {
+          "jp": "この店は安いです。",
+          "zh": "這家店很便宜。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 18,
+        "jlptLevel": "N5",
+        "word": "音楽",
+        "reading": "おんがく",
+        "meaning": "音樂",
+        "example": {
+          "jp": "音楽を聞きます。",
+          "zh": "聽音樂。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 19,
+        "jlptLevel": "N5",
+        "word": "映画",
+        "reading": "えいが",
+        "meaning": "電影",
+        "example": {
+          "jp": "映画を見に行きます。",
+          "zh": "去看電影。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 20,
+        "jlptLevel": "N5",
+        "word": "部屋",
+        "reading": "へや",
+        "meaning": "房間",
+        "example": {
+          "jp": "部屋を掃除します。",
+          "zh": "打掃房間。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 21,
+        "jlptLevel": "N5",
+        "word": "写真",
+        "reading": "しゃしん",
+        "meaning": "照片",
+        "example": {
+          "jp": "写真を撮ります。",
+          "zh": "拍照。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 22,
+        "jlptLevel": "N5",
+        "word": "料理",
+        "reading": "りょうり",
+        "meaning": "料理",
+        "example": {
+          "jp": "日本料理が好きです。",
+          "zh": "喜歡日本料理。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 23,
+        "jlptLevel": "N5",
+        "word": "朝",
+        "reading": "あさ",
+        "meaning": "早上",
+        "example": {
+          "jp": "朝ごはんを食べます。",
+          "zh": "吃早餐。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 24,
+        "jlptLevel": "N5",
+        "word": "夜",
+        "reading": "よる",
+        "meaning": "晚上",
+        "example": {
+          "jp": "夜に勉強します。",
+          "zh": "晚上讀書。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 25,
+        "jlptLevel": "N5",
+        "word": "駅",
+        "reading": "えき",
+        "meaning": "車站",
+        "example": {
+          "jp": "駅で会いましょう。",
+          "zh": "在車站碰面吧。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 26,
+        "jlptLevel": "N5",
+        "word": "教師",
+        "reading": "きょうし",
+        "meaning": "教師",
+        "example": {
+          "jp": "兄は高校の先生です。",
+          "zh": "哥哥是高中老師。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 27,
+        "jlptLevel": "N5",
+        "word": "道",
+        "reading": "みち",
+        "meaning": "道路",
+        "example": {
+          "jp": "道に迷いました。",
+          "zh": "迷路了。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 28,
+        "jlptLevel": "N5",
+        "word": "財布",
+        "reading": "さいふ",
+        "meaning": "錢包",
+        "example": {
+          "jp": "財布を忘れました。",
+          "zh": "忘了帶錢包。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 29,
+        "jlptLevel": "N5",
+        "word": "手紙",
+        "reading": "てがみ",
+        "meaning": "信",
+        "example": {
+          "jp": "手紙を書きます。",
+          "zh": "寫信。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 30,
+        "jlptLevel": "N5",
+        "word": "花",
+        "reading": "はな",
+        "meaning": "花",
+        "example": {
+          "jp": "花が咲いています。",
+          "zh": "花開了。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      }
+    ]
+  }
+  
