@@ -1,0 +1,2428 @@
+{
+    "category": "動詞",
+    "total": 66,
+    "words": [
+      {
+        "id": 1,
+        "jlptLevel": "N4",
+        "word": "合う",
+        "reading": "あう",
+        "meaning": "符合、相符、合適",
+        "example": { "jp": "答えが合わない。", "zh": "答案不對。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 2,
+        "jlptLevel": "N4",
+        "word": "空く",
+        "reading": "あく",
+        "meaning": "空出、空著",
+        "example": { "jp": "空いた席に座る。", "zh": "坐在空位上。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 3,
+        "jlptLevel": "N4",
+        "word": "集まる",
+        "reading": "あつまる",
+        "meaning": "聚集、集合",
+        "example": { "jp": "みんな集まってください。", "zh": "請大家集合。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 4,
+        "jlptLevel": "N4",
+        "word": "集める",
+        "reading": "あつめる",
+        "meaning": "收集、蒐集",
+        "example": { "jp": "切手を集める。", "zh": "收集郵票。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 5,
+        "jlptLevel": "N4",
+        "word": "謝る",
+        "reading": "あやまる",
+        "meaning": "道歉、賠罪",
+        "example": { "jp": "待たせたことを謝る。", "zh": "抱歉讓你久等了。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 6,
+        "jlptLevel": "N4",
+        "word": "生きる",
+        "reading": "いきる",
+        "meaning": "生存、活著、生活",
+        "example": { "jp": "100歳まで生きる。", "zh": "活到100歲。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 7,
+        "jlptLevel": "N4",
+        "word": "いじめる",
+        "reading": "いじめる",
+        "meaning": "欺負、虐待",
+        "example": { "jp": "動物をいじめてはいけない。", "zh": "不可以欺負動物。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 8,
+        "jlptLevel": "N4",
+        "word": "急ぐ",
+        "reading": "いそぐ",
+        "meaning": "急忙、趕快",
+        "example": { "jp": "急いで家に帰る。", "zh": "急忙回家。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 9,
+        "jlptLevel": "N4",
+        "word": "致す",
+        "reading": "いたす",
+        "meaning": "做、致（「する」的謙讓語）",
+        "example": { "jp": "これで失礼致します。", "zh": "那麼先告辭了。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 10,
+        "jlptLevel": "N4",
+        "word": "いただく",
+        "reading": "いただく",
+        "meaning": "(謙讓語)領受、得到(もらう)；吃、喝(たべる)",
+        "example": { "jp": "プレゼントをいただく。", "zh": "收到禮物。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 11,
+        "jlptLevel": "N4",
+        "word": "祈る",
+        "reading": "いのる",
+        "meaning": "祈禱、祝福",
+        "example": { "jp": "合格(ごうかく)を祈る。", "zh": "祈求及格。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 12,
+        "jlptLevel": "N4",
+        "word": "いらっしゃる",
+        "reading": "いらっしゃる",
+        "meaning": "來（くる）、去（いく）、在（いる）尊敬語",
+        "example": { "jp": "明日はお宅にいらっしゃいますか。", "zh": "明天您在家嗎？" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 13,
+        "jlptLevel": "N4",
+        "word": "祝う",
+        "reading": "いわう",
+        "meaning": "祝賀、慶祝",
+        "example": { "jp": "入学を祝う。", "zh": "祝賀入學。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 14,
+        "jlptLevel": "N4",
+        "word": "植える",
+        "reading": "うえる",
+        "meaning": "種植",
+        "example": { "jp": "木を植える。", "zh": "種樹。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 15,
+        "jlptLevel": "N4",
+        "word": "うかがう",
+        "reading": "うかがう",
+        "meaning": "聽（きく）、問（とう）、拜訪（たずねる）（謙讓語）",
+        "example": { "jp": "話をうかがう。", "zh": "請教事情。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 16,
+        "jlptLevel": "N4",
+        "word": "受ける",
+        "reading": "うける",
+        "meaning": "接受、承接",
+        "example": { "jp": "注文を受ける。", "zh": "接受訂貨。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 17,
+        "jlptLevel": "N4",
+        "word": "動く",
+        "reading": "うごく",
+        "meaning": "動、移動、運轉",
+        "example": { "jp": "車が動く。", "zh": "車子行駛。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 18,
+        "jlptLevel": "N4",
+        "word": "打つ",
+        "reading": "うつ",
+        "meaning": "打、敲、擊",
+        "example": { "jp": "キーボードを打つ。", "zh": "敲鍵盤。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 19,
+        "jlptLevel": "N4",
+        "word": "写す",
+        "reading": "うつす",
+        "meaning": "抄寫、謄寫、拍攝",
+        "example": { "jp": "ノートに写す。", "zh": "抄寫筆記。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 20,
+        "jlptLevel": "N4",
+        "word": "選ぶ",
+        "reading": "えらぶ",
+        "meaning": "挑選、選擇",
+        "example": { "jp": "プレゼントを選ぶ。", "zh": "挑選禮物。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 21,
+        "jlptLevel": "N4",
+        "word": "おいでになる",
+        "reading": "おいでになる",
+        "meaning": "來、去、在（尊敬語）",
+        "example": { "jp": "どちらへおいでになりますか。", "zh": "請問您要去哪裡？" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 22,
+        "jlptLevel": "N4",
+        "word": "送る",
+        "reading": "おくる",
+        "meaning": "寄送、送出",
+        "example": { "jp": "メールを送る。", "zh": "寄電子郵件。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 23,
+        "jlptLevel": "N4",
+        "word": "遅れる",
+        "reading": "おくれる",
+        "meaning": "遲到、耽擱",
+        "example": { "jp": "電車が遅れる。", "zh": "電車誤點。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 24,
+        "jlptLevel": "N4",
+        "word": "起こす",
+        "reading": "おこす",
+        "meaning": "引起、喚起；扶起",
+        "example": { "jp": "事故を起こす。", "zh": "引發事故。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 25,
+        "jlptLevel": "N4",
+        "word": "怒る",
+        "reading": "おこる",
+        "meaning": "生氣、責備",
+        "example": { "jp": "母は小さいことでよく怒る。", "zh": "媽媽常為小事生氣。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 26,
+        "jlptLevel": "N4",
+        "word": "落ちる",
+        "reading": "おちる",
+        "meaning": "掉落、落下",
+        "example": { "jp": "財布が落ちている。", "zh": "錢包掉了。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 27,
+        "jlptLevel": "N4",
+        "word": "おっしゃる",
+        "reading": "おっしゃる",
+        "meaning": "說、講（尊敬語）",
+        "example": { "jp": "先生がおっしゃる。", "zh": "老師說。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 28,
+        "jlptLevel": "N4",
+        "word": "落とす",
+        "reading": "おとす",
+        "meaning": "掉落、弄丟、降低",
+        "example": { "jp": "財布を落とす。", "zh": "弄丟錢包。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 29,
+        "jlptLevel": "N4",
+        "word": "踊る",
+        "reading": "おどる",
+        "meaning": "跳舞",
+        "example": { "jp": "子供たちが踊っている。", "zh": "孩子們在跳舞。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 30,
+        "jlptLevel": "N4",
+        "word": "驚く",
+        "reading": "おどろく",
+        "meaning": "驚訝、吃驚",
+        "example": { "jp": "大きな音に驚く。", "zh": "被很大聲音嚇到。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 31,
+        "jlptLevel": "N4",
+        "word": "思い出す",
+        "reading": "おもいだす",
+        "meaning": "回想、想起",
+        "example": { "jp": "昔のことを思い出す。", "zh": "憶起往事。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 32,
+        "jlptLevel": "N4",
+        "word": "思う",
+        "reading": "おもう",
+        "meaning": "想、認為、覺得",
+        "example": { "jp": "親を大切に思う。", "zh": "我認為要珍惜父母。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 33,
+        "jlptLevel": "N4",
+        "word": "お休みになる",
+        "reading": "おやすみになる",
+        "meaning": "睡、休息（尊敬語）",
+        "example": { "jp": "よくお休みになれましたか。", "zh": "您有好好休息嗎？" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 34,
+        "jlptLevel": "N4",
+        "word": "下りる",
+        "reading": "おりる",
+        "meaning": "下降、下來、下山",
+        "example": { "jp": "山を下りる。", "zh": "下山。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 35,
+        "jlptLevel": "N4",
+        "word": "おる",
+        "reading": "おる",
+        "meaning": "在、居於（謙讓語）",
+        "example": { "jp": "6時までは会社におります。", "zh": "六點前我會在公司。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 36,
+        "jlptLevel": "N4",
+        "word": "折れる",
+        "reading": "おれる",
+        "meaning": "折斷、轉彎",
+        "example": { "jp": "木が折れる。", "zh": "樹斷了。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 37,
+        "jlptLevel": "N4",
+        "word": "飼う",
+        "reading": "かう",
+        "meaning": "飼養",
+        "example": { "jp": "犬を飼う。", "zh": "養狗。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 38,
+        "jlptLevel": "N4",
+        "word": "変える",
+        "reading": "かえる",
+        "meaning": "改變、更換",
+        "example": { "jp": "予定を変える。", "zh": "變更預定。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 39,
+        "jlptLevel": "N4",
+        "word": "かける",
+        "reading": "かける",
+        "meaning": "掛上、懸掛；打（電話）；(電器)啟動",
+        "example": { "jp": "壁に絵を掛ける。", "zh": "把畫掛在牆上。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 40,
+        "jlptLevel": "N4",
+        "word": "飾る",
+        "reading": "かざる",
+        "meaning": "裝飾、點綴",
+        "example": { "jp": "玄関に花を飾る。", "zh": "在玄關擺花(裝飾)。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 41,
+        "jlptLevel": "N4",
+        "word": "片づける",
+        "reading": "かたづける",
+        "meaning": "收拾、整理",
+        "example": { "jp": "机の上を片づける。", "zh": "整理桌面。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 42,
+        "jlptLevel": "N4",
+        "word": "勝つ",
+        "reading": "かつ",
+        "meaning": "勝利、取勝",
+        "example": { "jp": "試合に勝つ。", "zh": "比賽獲勝。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 43,
+        "jlptLevel": "N4",
+        "word": "がまんする",
+        "reading": "がまんする",
+        "meaning": "忍耐、克制",
+        "example": { "jp": "飲みたい酒をがまんする。", "zh": "忍住不喝(想喝的)酒。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 44,
+        "jlptLevel": "N4",
+        "word": "噛む",
+        "reading": "かむ",
+        "meaning": "咬、嚼",
+        "example": { "jp": "ガムを噛む。", "zh": "咀嚼口香糖。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 45,
+        "jlptLevel": "N4",
+        "word": "通う",
+        "reading": "かよう",
+        "meaning": "往返、通學、通勤",
+        "example": { "jp": "自転車で学校に通う。", "zh": "騎自行車上學。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 46,
+        "jlptLevel": "N4",
+        "word": "乾く",
+        "reading": "かわく",
+        "meaning": "乾、乾燥",
+        "example": { "jp": "洗濯物が乾く。", "zh": "洗好的衣服乾了。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 47,
+        "jlptLevel": "N4",
+        "word": "変わる",
+        "reading": "かわる",
+        "meaning": "變化、改變",
+        "example": { "jp": "雨が雪に変わる。", "zh": "雨變成雪。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 48,
+        "jlptLevel": "N4",
+        "word": "考える",
+        "reading": "かんがえる",
+        "meaning": "思考、考慮",
+        "example": { "jp": "よく考えてから返事をする。", "zh": "仔細思考後回答。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 49,
+        "jlptLevel": "N4",
+        "word": "がんばる",
+        "reading": "がんばる",
+        "meaning": "努力、加油、堅持",
+        "example": { "jp": "成功(せいこう)するまでがんばる。", "zh": "努力到成功為止。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 50,
+        "jlptLevel": "N4",
+        "word": "気がある",
+        "reading": "きがある",
+        "meaning": "有興趣、有意思",
+        "example": { "jp": "彼は彼女に気がある。", "zh": "他對那位女生有意思。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 51,
+        "jlptLevel": "N4",
+        "word": "聞こえる",
+        "reading": "きこえる",
+        "meaning": "聽得見、聽起來",
+        "example": { "jp": "テレビの音がよく聞こえない。", "zh": "電視聲聽不清楚。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 52,
+        "jlptLevel": "N4",
+        "word": "気に入る",
+        "reading": "きにいる",
+        "meaning": "中意、喜歡",
+        "example": { "jp": "この服は気に入らない。", "zh": "我不喜歡這件衣服。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 53,
+        "jlptLevel": "N4",
+        "word": "決まる",
+        "reading": "きまる",
+        "meaning": "決定、規定",
+        "example": { "jp": "規則が決まる。", "zh": "制定規則。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 54,
+        "jlptLevel": "N4",
+        "word": "決める",
+        "reading": "きめる",
+        "meaning": "決定、斷定",
+        "example": { "jp": "合格者を決める。", "zh": "決定合格者。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 55,
+        "jlptLevel": "N4",
+        "word": "切る",
+        "reading": "きる",
+        "meaning": "切、裁剪",
+        "example": { "jp": "はさみで紙を切る。", "zh": "用剪刀剪紙。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 56,
+        "jlptLevel": "N4",
+        "word": "着る",
+        "reading": "きる",
+        "meaning": "穿（上半身衣物）",
+        "example": { "jp": "シャツを着る。", "zh": "穿襯衫。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 57,
+        "jlptLevel": "N4",
+        "word": "下さる",
+        "reading": "くださる",
+        "meaning": "給我（尊敬語）",
+        "example": { "jp": "先生が本を下さった。", "zh": "老師給我書。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 58,
+        "jlptLevel": "N4",
+        "word": "曇る",
+        "reading": "くもる",
+        "meaning": "變陰、陰天",
+        "example": { "jp": "空が曇っている。", "zh": "天空是陰天。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 59,
+        "jlptLevel": "N4",
+        "word": "比べる",
+        "reading": "くらべる",
+        "meaning": "比較、對比",
+        "example": { "jp": "二人の背の高さを比べる。", "zh": "比較兩人的身高。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 60,
+        "jlptLevel": "N4",
+        "word": "くれる",
+        "reading": "くれる",
+        "meaning": "給我、送我",
+        "example": { "jp": "友だちがプレゼントをくれた。", "zh": "朋友送我禮物。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 61,
+        "jlptLevel": "N4",
+        "word": "暮れる",
+        "reading": "くれる",
+        "meaning": "天黑、日暮",
+        "example": { "jp": "冬は日が暮れるのが早い。", "zh": "冬天日落得早。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 62,
+        "jlptLevel": "N4",
+        "word": "ござる",
+        "reading": "ござる",
+        "meaning": "在、有（鄭重用語）",
+        "example": { "jp": "お願いがございます。", "zh": "我有個請求。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 63,
+        "jlptLevel": "N4",
+        "word": "込む",
+        "reading": "こむ",
+        "meaning": "擁擠、混雜",
+        "example": { "jp": "電車が込んでいる。", "zh": "電車很擁擠。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 64,
+        "jlptLevel": "N4",
+        "word": "ご覧になる",
+        "reading": "ごらんになる",
+        "meaning": "看、觀看（尊敬語）",
+        "example": { "jp": "今朝のニュースをご覧になりましたか。", "zh": "您看今天早上的新聞了嗎？" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 65,
+        "jlptLevel": "N4",
+        "word": "転ぶ",
+        "reading": "ころぶ",
+        "meaning": "跌倒、摔倒",
+        "example": { "jp": "階段で転ぶ。", "zh": "在樓梯跌倒。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 66,
+        "jlptLevel": "N4",
+        "word": "壊す",
+        "reading": "こわす",
+        "meaning": "弄壞、破壞",
+        "example": { "jp": "時計を壊してしまう。", "zh": "把時鐘弄壞了。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 67,
+        "jlptLevel": "N4",
+        "word": "壊れる",
+        "reading": "こわれる",
+        "meaning": "壞掉",
+        "example": {
+          "jp": "壊れた車を修理する。",
+          "zh": "修理壞掉的車子。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 68,
+        "jlptLevel": "N4",
+        "word": "探す",
+        "reading": "さがす",
+        "meaning": "尋找",
+        "example": {
+          "jp": "映画館で空いた席を探す。",
+          "zh": "在電影院尋找空位。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 69,
+        "jlptLevel": "N4",
+        "word": "下がる",
+        "reading": "さがる",
+        "meaning": "下降、降低",
+        "example": {
+          "jp": "気温が下がる。",
+          "zh": "氣溫下降。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 70,
+        "jlptLevel": "N4",
+        "word": "下げる",
+        "reading": "さげる",
+        "meaning": "降低、掛",
+        "example": {
+          "jp": "値段を下げる。",
+          "zh": "降低價錢。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 71,
+        "jlptLevel": "N4",
+        "word": "差し上げる",
+        "reading": "さしあげる",
+        "meaning": "（謙讓語）給、敬贈",
+        "example": {
+          "jp": "この花を差し上げます。",
+          "zh": "這花送給你。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 72,
+        "jlptLevel": "N4",
+        "word": "さす",
+        "reading": "さす",
+        "meaning": "撐（傘）",
+        "example": {
+          "jp": "傘をさす。",
+          "zh": "撐傘。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 73,
+        "jlptLevel": "N4",
+        "word": "騒ぐ",
+        "reading": "さわぐ",
+        "meaning": "吵鬧、騷動",
+        "example": {
+          "jp": "子供が騒ぐ。",
+          "zh": "小孩在吵鬧。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 74,
+        "jlptLevel": "N4",
+        "word": "触る",
+        "reading": "さわる",
+        "meaning": "觸碰、觸摸",
+        "example": {
+          "jp": "ヒーターに触らないでください。",
+          "zh": "請不要觸碰電暖氣。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 75,
+        "jlptLevel": "N4",
+        "word": "叱る",
+        "reading": "しかる",
+        "meaning": "責備、斥責",
+        "example": {
+          "jp": "子供を叱る。",
+          "zh": "斥責小孩。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 76,
+        "jlptLevel": "N4",
+        "word": "しまう",
+        "reading": "しまう",
+        "meaning": "結束、做完、收起來",
+        "example": {
+          "jp": "仕事をしてしまう。本をしまう。",
+          "zh": "把工作做完。把書收起來。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 77,
+        "jlptLevel": "N4",
+        "word": "知らせる",
+        "reading": "しらせる",
+        "meaning": "通知",
+        "example": {
+          "jp": "メールで予定を知らせる。",
+          "zh": "用電子郵件通知預約。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 78,
+        "jlptLevel": "N4",
+        "word": "調べる",
+        "reading": "しらべる",
+        "meaning": "調查、查閱",
+        "example": {
+          "jp": "辞書で調べる。",
+          "zh": "用字典查閱。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 79,
+        "jlptLevel": "N4",
+        "word": "知る",
+        "reading": "しる",
+        "meaning": "知道、察覺、認識",
+        "example": {
+          "jp": "この問題の答えを知っていますか。",
+          "zh": "你知道這個問題的答案嗎？"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 80,
+        "jlptLevel": "N4",
+        "word": "過ぎる",
+        "reading": "すぎる",
+        "meaning": "（時間）經過、過於",
+        "example": {
+          "jp": "入学して１年が過ぎた。",
+          "zh": "入學後也經過１年了。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 81,
+        "jlptLevel": "N4",
+        "word": "すく",
+        "reading": "すく",
+        "meaning": "少、空、空曠",
+        "example": {
+          "jp": "道がすいている。",
+          "zh": "路上人車很少。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 82,
+        "jlptLevel": "N4",
+        "word": "進む",
+        "reading": "すすむ",
+        "meaning": "前進、進行、進展",
+        "example": {
+          "jp": "工事が進む。",
+          "zh": "進行施工。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 83,
+        "jlptLevel": "N4",
+        "word": "捨てる",
+        "reading": "すてる",
+        "meaning": "丟棄、捨棄",
+        "example": {
+          "jp": "要(い)らないものを捨てる。",
+          "zh": "丟棄不要的物品。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 84,
+        "jlptLevel": "N4",
+        "word": "滑る",
+        "reading": "すべる",
+        "meaning": "滑、滑溜、滑倒",
+        "example": {
+          "jp": "足が滑って転ぶ。",
+          "zh": "腳滑了一下後跌倒了。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 85,
+        "jlptLevel": "N4",
+        "word": "育てる",
+        "reading": "そだてる",
+        "meaning": "養育",
+        "example": {
+          "jp": "子供を育てる。",
+          "zh": "養育小孩。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 86,
+        "jlptLevel": "N4",
+        "word": "存じる",
+        "reading": "ぞんじる",
+        "meaning": "（知る的謙讓語）知道、認為",
+        "example": {
+          "jp": "何も存じません。こちらの方がよいと存じます。",
+          "zh": "我們什麼都不知道。我認為這個比較好。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 87,
+        "jlptLevel": "N4",
+        "word": "倒れる",
+        "reading": "たおれる",
+        "meaning": "倒、倒塌、倒閉",
+        "example": {
+          "jp": "自転車が倒れる。",
+          "zh": "腳踏車倒了。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 88,
+        "jlptLevel": "N4",
+        "word": "足す",
+        "reading": "たす",
+        "meaning": "加、補上",
+        "example": {
+          "jp": "１に２を足すと３になる。",
+          "zh": "1 加 2 等於 3。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 89,
+        "jlptLevel": "N4",
+        "word": "訪ねる",
+        "reading": "たずねる",
+        "meaning": "尋找、訪問",
+        "example": {
+          "jp": "田中先生の家を訪ねる。",
+          "zh": "尋找田中老師的家。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 90,
+        "jlptLevel": "N4",
+        "word": "建つ",
+        "reading": "たつ",
+        "meaning": "建、蓋",
+        "example": {
+          "jp": "高いビルが建つ。",
+          "zh": "蓋高樓大廈。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 91,
+        "jlptLevel": "N4",
+        "word": "建てる",
+        "reading": "たてる",
+        "meaning": "建造、創立",
+        "example": {
+          "jp": "新しい家を建てる。",
+          "zh": "建造新家房子。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 92,
+        "jlptLevel": "N4",
+        "word": "頼む",
+        "reading": "たのむ",
+        "meaning": "請求、委託、依靠、點（餐）",
+        "example": {
+          "jp": "食堂でうどんを頼んだ。",
+          "zh": "在餐廳點了烏龍麵。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 93,
+        "jlptLevel": "N4",
+        "word": "足りる",
+        "reading": "たりる",
+        "meaning": "足夠",
+        "example": {
+          "jp": "電車代は千円あれば足りる。",
+          "zh": "電車費只要一千日元就夠了。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 94,
+        "jlptLevel": "N4",
+        "word": "違う",
+        "reading": "ちがう",
+        "meaning": "不同、不一樣",
+        "example": {
+          "jp": "みんなの考えが違う。",
+          "zh": "大家的想法不同。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 95,
+        "jlptLevel": "N4",
+        "word": "捕まえる",
+        "reading": "つかまえる",
+        "meaning": "抓住、捉住",
+        "example": {
+          "jp": "警察がどろぼうを捕まえる。",
+          "zh": "警察捉小偷。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 96,
+        "jlptLevel": "N4",
+        "word": "疲れる",
+        "reading": "つかれる",
+        "meaning": "疲勞、疲累",
+        "example": {
+          "jp": "仕事で疲れる。",
+          "zh": "工作很累。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 97,
+        "jlptLevel": "N4",
+        "word": "付く",
+        "reading": "つく",
+        "meaning": "附有、附帶",
+        "example": {
+          "jp": "ランチにサラダが付く。",
+          "zh": "午餐有附贈沙拉。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 98,
+        "jlptLevel": "N4",
+        "word": "着く",
+        "reading": "つく",
+        "meaning": "抵達、到達",
+        "example": {
+          "jp": "東京に着いたら連絡してください。",
+          "zh": "到達東京請聯絡。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 99,
+        "jlptLevel": "N4",
+        "word": "付ける",
+        "reading": "つける",
+        "meaning": "安上、裝上、別上、縫上",
+        "example": {
+          "jp": "服にボタンを付ける。",
+          "zh": "在衣服縫上扣子。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 100,
+        "jlptLevel": "N4",
+        "word": "伝える",
+        "reading": "つたえる",
+        "meaning": "傳達、傳達",
+        "example": {
+          "jp": "電話で用件を伝える。",
+          "zh": "用電話傳達要事。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 101,
+        "jlptLevel": "N4",
+        "word": "続く",
+        "reading": "つづく",
+        "meaning": "繼續、連續",
+        "example": {
+          "jp": "いい天気が続く。",
+          "zh": "好天氣一直持續。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 102,
+        "jlptLevel": "N4",
+        "word": "続ける",
+        "reading": "つづける",
+        "meaning": "繼續、連續",
+        "example": {
+          "jp": "午後も会議を続ける。",
+          "zh": "下午也繼續開會。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 103,
+        "jlptLevel": "N4",
+        "word": "包む",
+        "reading": "つつむ",
+        "meaning": "包上、包圍",
+        "example": {
+          "jp": "プレゼントを包む。",
+          "zh": "包裝禮物。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 104,
+        "jlptLevel": "N4",
+        "word": "勤める",
+        "reading": "つとめる",
+        "meaning": "工作、努力",
+        "example": {
+          "jp": "銀行に勤めている。",
+          "zh": "在銀行工作。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 105,
+        "jlptLevel": "N4",
+        "word": "積もる",
+        "reading": "つもる",
+        "meaning": "堆積、累積",
+        "example": {
+          "jp": "雪が積もる。",
+          "zh": "積雪。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 106,
+        "jlptLevel": "N4",
+        "word": "釣る",
+        "reading": "つる",
+        "meaning": "釣魚、釣",
+        "example": {
+          "jp": "川で魚を釣る。",
+          "zh": "在河邊釣魚。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 107,
+        "jlptLevel": "N4",
+        "word": "連れる",
+        "reading": "つれる",
+        "meaning": "帶、領、跟隨",
+        "example": {
+          "jp": "犬を連れて散歩する。",
+          "zh": "帶狗去散步。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 108,
+        "jlptLevel": "N4",
+        "word": "出かける",
+        "reading": "でかける",
+        "meaning": "出門、外出",
+        "example": {
+          "jp": "買い物に出かける。",
+          "zh": "外出購物。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 109,
+        "jlptLevel": "N4",
+        "word": "できる",
+        "reading": "できる",
+        "meaning": "能夠、完成、做到、形成",
+        "example": {
+          "jp": "スポーツなら何でもできる。/ 料理ができたらすぐ食べよう。 / 家の近くにスーパーができた。",
+          "zh": "(如果是運動的話)我什麼運動都會 / 菜煮好時話說馬上來吃吧！ / 我家附近有一間新開的超市。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 110,
+        "jlptLevel": "N4",
+        "word": "手伝う",
+        "reading": "てつだう",
+        "meaning": "幫忙・協助",
+        "example": {
+          "jp": "掃除を手伝う。",
+          "zh": "幫忙打掃。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 111,
+        "jlptLevel": "N4",
+        "word": "通る",
+        "reading": "とおる",
+        "meaning": "經過・穿過・暢通",
+        "example": {
+          "jp": "銀行の前を通る。",
+          "zh": "經過銀行前面。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 112,
+        "jlptLevel": "N4",
+        "word": "閉じる",
+        "reading": "とじる",
+        "meaning": "關閉・蓋・結束",
+        "example": {
+          "jp": "目を閉じて考える。",
+          "zh": "閉上眼睛思考。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 113,
+        "jlptLevel": "N4",
+        "word": "届く",
+        "reading": "とどく",
+        "meaning": "收到・送到・周密",
+        "example": {
+          "jp": "荷物が届く。",
+          "zh": "行李送達。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 114,
+        "jlptLevel": "N4",
+        "word": "届ける",
+        "reading": "とどける",
+        "meaning": "送到・通知・報告",
+        "example": {
+          "jp": "警察に報告書を届ける。",
+          "zh": "將報告書送到警察署。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 115,
+        "jlptLevel": "N4",
+        "word": "泊まる",
+        "reading": "とまる",
+        "meaning": "留宿・停泊",
+        "example": {
+          "jp": "友達の家に泊まる。",
+          "zh": "住在朋友家。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 116,
+        "jlptLevel": "N4",
+        "word": "止まる",
+        "reading": "とまる",
+        "meaning": "停止・堵塞",
+        "example": {
+          "jp": "電車が駅に止まる。",
+          "zh": "電車停在車站。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 117,
+        "jlptLevel": "N4",
+        "word": "泊める",
+        "reading": "とめる",
+        "meaning": "留宿・停泊",
+        "example": {
+          "jp": "客を泊める。",
+          "zh": "請客人住下來。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 118,
+        "jlptLevel": "N4",
+        "word": "止める",
+        "reading": "とめる",
+        "meaning": "停止・停住・取消",
+        "example": {
+          "jp": "駅前に自転車を止める。",
+          "zh": "把腳踏車停在車站前。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 119,
+        "jlptLevel": "N4",
+        "word": "取り替える",
+        "reading": "とりかえる",
+        "meaning": "更換・交換",
+        "example": {
+          "jp": "カーテンを取り替える。",
+          "zh": "更換窗簾。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 120,
+        "jlptLevel": "N4",
+        "word": "取る",
+        "reading": "とる",
+        "meaning": "拿・取・操作",
+        "example": {
+          "jp": "その本を取ってください。",
+          "zh": "請幫我拿那本書。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 121,
+        "jlptLevel": "N4",
+        "word": "直す",
+        "reading": "なおす",
+        "meaning": "修理・改正・修正",
+        "example": {
+          "jp": "壊れたテレビを直す。",
+          "zh": "修理壞掉的電視。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 122,
+        "jlptLevel": "N4",
+        "word": "治す",
+        "reading": "なおす",
+        "meaning": "醫治",
+        "example": {
+          "jp": "風邪を治す。",
+          "zh": "醫治感冒。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 123,
+        "jlptLevel": "N4",
+        "word": "直る",
+        "reading": "なおる",
+        "meaning": "改正・修理・復原",
+        "example": {
+          "jp": "パソコンが早く直らないと困る。",
+          "zh": "電腦不快點修好的話，很不方便。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 124,
+        "jlptLevel": "N4",
+        "word": "治る",
+        "reading": "なおる",
+        "meaning": "痊癒・病癒",
+        "example": {
+          "jp": "けがが治る。",
+          "zh": "受傷痊癒。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 125,
+        "jlptLevel": "N4",
+        "word": "流れる",
+        "reading": "ながれる",
+        "meaning": "流・流動・播放",
+        "example": {
+          "jp": "川が流れる。",
+          "zh": "河川流動。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 126,
+        "jlptLevel": "N4",
+        "word": "泣く",
+        "reading": "なく",
+        "meaning": "哭泣",
+        "example": {
+          "jp": "大きな声で泣く。",
+          "zh": "放聲大哭。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 127,
+        "jlptLevel": "N4",
+        "word": "無くす",
+        "reading": "なくす",
+        "meaning": "喪失・丟失・消除",
+        "example": {
+          "jp": "勉強に自信を無くす。",
+          "zh": "對讀書沒有信心。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 128,
+        "jlptLevel": "N4",
+        "word": "亡くなる",
+        "reading": "なくなる",
+        "meaning": "死亡",
+        "example": {
+          "jp": "病気で亡くなる。",
+          "zh": "因生病死亡。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 129,
+        "jlptLevel": "N4",
+        "word": "無くなる",
+        "reading": "なくなる",
+        "meaning": "消失",
+        "example": {
+          "jp": "かばんが無くなる。",
+          "zh": "包包不見了。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 130,
+        "jlptLevel": "N4",
+        "word": "投げる",
+        "reading": "なげる",
+        "meaning": "丟・擲",
+        "example": {
+          "jp": "ボールを投げて遊ぶ。",
+          "zh": "丟球玩。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 131,
+        "jlptLevel": "N4",
+        "word": "なさる",
+        "reading": "なさる",
+        "meaning": "（する的尊敬語）做",
+        "example": {
+          "jp": "ご注文は何になさいますか。",
+          "zh": "請問您要點些什麼呢？"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 132,
+        "jlptLevel": "N4",
+        "word": "並ぶ",
+        "reading": "ならぶ",
+        "meaning": "排隊、排列、比得上",
+        "example": { "jp": "店の前に客が並んでいる。", "zh": "店門口有客人在排隊。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 133,
+        "jlptLevel": "N4",
+        "word": "並べる",
+        "reading": "ならべる",
+        "meaning": "排列、擺放",
+        "example": { "jp": "いすを並べる。", "zh": "把椅子排好。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 134,
+        "jlptLevel": "N4",
+        "word": "鳴る",
+        "reading": "なる",
+        "meaning": "鳴響、響",
+        "example": { "jp": "玄関のベルが鳴る。", "zh": "大門的門鈴響了。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 135,
+        "jlptLevel": "N4",
+        "word": "慣れる",
+        "reading": "なれる",
+        "meaning": "習慣、適應",
+        "example": { "jp": "日本での生活に慣れる。", "zh": "習慣在日本的生活。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 136,
+        "jlptLevel": "N4",
+        "word": "似合う",
+        "reading": "にあう",
+        "meaning": "合適、適合",
+        "example": { "jp": "この服は私に似合わない。", "zh": "這件衣服不適合我。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 137,
+        "jlptLevel": "N4",
+        "word": "逃げる",
+        "reading": "にげる",
+        "meaning": "逃跑、逃走",
+        "example": { "jp": "安全なところへ逃げる。", "zh": "逃到安全的地方。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 138,
+        "jlptLevel": "N4",
+        "word": "似る",
+        "reading": "にる",
+        "meaning": "相似、像",
+        "example": { "jp": "私は父に顔が似ている。", "zh": "我和父親長得很像。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 139,
+        "jlptLevel": "N4",
+        "word": "脱ぐ",
+        "reading": "ぬぐ",
+        "meaning": "脫（衣帽等）",
+        "example": { "jp": "帽子を脱いであいさつする。", "zh": "脫下帽子問候。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 140,
+        "jlptLevel": "N4",
+        "word": "盗む",
+        "reading": "ぬすむ",
+        "meaning": "偷竊、搶劫、背著做",
+        "example": { "jp": "お金を盗んで逃げる。", "zh": "偷錢後逃跑。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 141,
+        "jlptLevel": "N4",
+        "word": "塗る",
+        "reading": "ぬる",
+        "meaning": "塗抹、塗上",
+        "example": { "jp": "壁にペンキを塗る。", "zh": "在牆壁上漆上油漆。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 142,
+        "jlptLevel": "N4",
+        "word": "濡れる",
+        "reading": "ぬれる",
+        "meaning": "淋濕、濕潤",
+        "example": { "jp": "道が雨に濡れている。", "zh": "道路被雨淋濕。" },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 143,
+        "jlptLevel": "N4",
+        "word": "願う",
+        "reading": "ねがう",
+        "meaning": "希望、祈求、要求",
+        "example": {
+          "jp": "成功を心から願う。",
+          "zh": "由衷地祈求成功。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 144,
+        "jlptLevel": "N4",
+        "word": "眠る",
+        "reading": "ねむる",
+        "meaning": "睡覺、睡眠",
+        "example": {
+          "jp": "一日７時間眠る。",
+          "zh": "一天睡七個鐘頭。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 145,
+        "jlptLevel": "N4",
+        "word": "残る",
+        "reading": "のこる",
+        "meaning": "殘餘、剩下、留下",
+        "example": {
+          "jp": "会社に残って仕事を続ける。",
+          "zh": "留在公司繼續工作。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 146,
+        "jlptLevel": "N4",
+        "word": "乗り換える",
+        "reading": "のりかえる",
+        "meaning": "轉乘",
+        "example": {
+          "jp": "電車からバスに乗り換える。",
+          "zh": "電車轉搭公車。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 147,
+        "jlptLevel": "N4",
+        "word": "拝見する",
+        "reading": "はいけんする",
+        "meaning": "（看、讀的謙讓語）讀、看",
+        "example": {
+          "jp": "お手紙を拝見しました。",
+          "zh": "看了您的來信。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 148,
+        "jlptLevel": "N4",
+        "word": "はく",
+        "reading": "はく",
+        "meaning": "（下半身的衣物）穿",
+        "example": {
+          "jp": "ズボンをはく。靴をはく。",
+          "zh": "穿褲子。穿鞋子。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 149,
+        "jlptLevel": "N4",
+        "word": "運ぶ",
+        "reading": "はこぶ",
+        "meaning": "搬運",
+        "example": {
+          "jp": "荷物を運ぶ。",
+          "zh": "搬運行李。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 150,
+        "jlptLevel": "N4",
+        "word": "始める",
+        "reading": "はじめる",
+        "meaning": "開始",
+        "example": {
+          "jp": "ジョギングを始める。",
+          "zh": "開始慢跑。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 151,
+        "jlptLevel": "N4",
+        "word": "走る",
+        "reading": "はしる",
+        "meaning": "跑",
+        "example": {
+          "jp": "犬が走ってくる。",
+          "zh": "狗跑過來。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 152,
+        "jlptLevel": "N4",
+        "word": "働く",
+        "reading": "はたらく",
+        "meaning": "工作",
+        "example": {
+          "jp": "工場で働く。",
+          "zh": "在工廠工作。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 153,
+        "jlptLevel": "N4",
+        "word": "払う",
+        "reading": "はらう",
+        "meaning": "支付",
+        "example": {
+          "jp": "代金をカードで払う。",
+          "zh": "以卡片支付貨款。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 154,
+        "jlptLevel": "N4",
+        "word": "はる",
+        "reading": "はる",
+        "meaning": "貼、黏貼、貼上",
+        "example": {
+          "jp": "教室に地図がはってある。",
+          "zh": "教室貼著地圖。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 155,
+        "jlptLevel": "N4",
+        "word": "晴れる",
+        "reading": "はれる",
+        "meaning": "放晴",
+        "example": {
+          "jp": "明日はよく晴れるらしい。",
+          "zh": "明天好像天氣很好。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 156,
+        "jlptLevel": "N4",
+        "word": "冷える",
+        "reading": "ひえる",
+        "meaning": "變冷、放涼、變得冷淡",
+        "example": {
+          "jp": "冷えたビールを飲む。",
+          "zh": "喝冰涼的啤酒。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 157,
+        "jlptLevel": "N4",
+        "word": "光る",
+        "reading": "ひかる",
+        "meaning": "發光、發亮",
+        "example": {
+          "jp": "星が光っている。",
+          "zh": "星星閃閃發亮。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 158,
+        "jlptLevel": "N4",
+        "word": "引く",
+        "reading": "ひく",
+        "meaning": "拉、牽",
+        "example": {
+          "jp": "ドアを引いて開ける。",
+          "zh": "把門拉開。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 159,
+        "jlptLevel": "N4",
+        "word": "弾く",
+        "reading": "ひく",
+        "meaning": "彈奏",
+        "example": {
+          "jp": "ピアノを弾く。",
+          "zh": "彈鋼琴。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 160,
+        "jlptLevel": "N4",
+        "word": "引っ越す",
+        "reading": "ひっこす",
+        "meaning": "搬家",
+        "example": {
+          "jp": "もっと広い家に引っ越したい。",
+          "zh": "想搬到更大的房子。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 161,
+        "jlptLevel": "N4",
+        "word": "開く",
+        "reading": "ひらく",
+        "meaning": "開、打開、開始",
+        "example": {
+          "jp": "店を開く。",
+          "zh": "開店。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 162,
+        "jlptLevel": "N4",
+        "word": "拾う",
+        "reading": "ひろう",
+        "meaning": "撿、拾",
+        "example": {
+          "jp": "公園のごみを拾う。",
+          "zh": "撿拾公園的垃圾。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 163,
+        "jlptLevel": "N4",
+        "word": "増える",
+        "reading": "ふえる",
+        "meaning": "增加",
+        "example": {
+          "jp": "人が増える。",
+          "zh": "人數增加。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 164,
+        "jlptLevel": "N4",
+        "word": "吹く",
+        "reading": "ふく",
+        "meaning": "吹",
+        "example": {
+          "jp": "風が吹く。",
+          "zh": "風吹。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 165,
+        "jlptLevel": "N4",
+        "word": "ぶつかる",
+        "reading": "ぶつかる",
+        "meaning": "碰撞、遇上",
+        "example": {
+          "jp": "バスとトラックがぶつかる。",
+          "zh": "巴士與卡車相撞。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 166,
+        "jlptLevel": "N4",
+        "word": "太る",
+        "reading": "ふとる",
+        "meaning": "胖、肥",
+        "example": {
+          "jp": "甘い物を食べると太りやすい。",
+          "zh": "吃甜的食物容易變胖。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 167,
+        "jlptLevel": "N4",
+        "word": "踏む",
+        "reading": "ふむ",
+        "meaning": "踩、踏",
+        "example": {
+          "jp": "電車の中で足を踏まれた。",
+          "zh": "在電車內被踩到腳。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 168,
+        "jlptLevel": "N4",
+        "word": "ほめる",
+        "reading": "ほめる",
+        "meaning": "讚美、誇獎",
+        "example": {
+          "jp": "先生が生徒をほめる。",
+          "zh": "老師誇獎學生。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 169,
+        "jlptLevel": "N4",
+        "word": "参る",
+        "reading": "まいる",
+        "meaning": "來或去（謙遜語）",
+        "example": {
+          "jp": "明日また参ります。",
+          "zh": "明天還會再來。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 170,
+        "jlptLevel": "N4",
+        "word": "負ける",
+        "reading": "まける",
+        "meaning": "輸、敗、屈服",
+        "example": {
+          "jp": "試合に負ける。",
+          "zh": "比賽輸了。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 171,
+        "jlptLevel": "N4",
+        "word": "間違える",
+        "reading": "まちがえる",
+        "meaning": "錯誤、搞錯",
+        "example": {
+          "jp": "答えを間違える。",
+          "zh": "答案錯誤。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 172,
+        "jlptLevel": "N4",
+        "word": "間に合う",
+        "reading": "まにあう",
+        "meaning": "來得及、趕上",
+        "example": {
+          "jp": "会議の時間に間に合う。",
+          "zh": "趕上開會時間。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 173,
+        "jlptLevel": "N4",
+        "word": "守る",
+        "reading": "まもる",
+        "meaning": "遵守、保護",
+        "example": {
+          "jp": "約束を守る。",
+          "zh": "遵守約定。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 174,
+        "jlptLevel": "N4",
+        "word": "回る",
+        "reading": "まわる",
+        "meaning": "旋轉、回轉、巡迴、轉移",
+        "example": {
+          "jp": "有名なところを見て回る。",
+          "zh": "去有名的地方看各種風景。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 175,
+        "jlptLevel": "N4",
+        "word": "見える",
+        "reading": "みえる",
+        "meaning": "看得見",
+        "example": {
+          "jp": "窓から海が見える。",
+          "zh": "從窗戶可以看到海。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 176,
+        "jlptLevel": "N4",
+        "word": "見つかる",
+        "reading": "みつかる",
+        "meaning": "被看到、被發現、被找到",
+        "example": {
+          "jp": "いい方法が見つかる。",
+          "zh": "找到好方法。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 177,
+        "jlptLevel": "N4",
+        "word": "見つける",
+        "reading": "みつける",
+        "meaning": "看到、發現、找到",
+        "example": {
+          "jp": "落し物を見つける。",
+          "zh": "找到遺失物。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 178,
+        "jlptLevel": "N4",
+        "word": "迎える",
+        "reading": "むかえる",
+        "meaning": "迎接",
+        "example": {
+          "jp": "駅まで友人を迎える。",
+          "zh": "到車站迎接朋友。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 179,
+        "jlptLevel": "N4",
+        "word": "召し上がる",
+        "reading": "めしあがる",
+        "meaning": "（敬語）吃、喝",
+        "example": {
+          "jp": "何を召し上がりますか。",
+          "zh": "請問您要吃什麼？"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 180,
+        "jlptLevel": "N4",
+        "word": "申し上げる",
+        "reading": "もうしあげる",
+        "meaning": "（中等的謙讓語）說、提起",
+        "example": {
+          "jp": "ご説明申し上げます。",
+          "zh": "敬致說明。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 181,
+        "jlptLevel": "N4",
+        "word": "申す",
+        "reading": "もうす",
+        "meaning": "（謙讓語）說、叫做、做",
+        "example": {
+          "jp": "私は田中と申します。",
+          "zh": "我叫田中。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 182,
+        "jlptLevel": "N4",
+        "word": "戻す",
+        "reading": "もどす",
+        "meaning": "歸還、退回、恢復",
+        "example": {
+          "jp": "本を本棚に戻す。",
+          "zh": "把書放回書架。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 183,
+        "jlptLevel": "N4",
+        "word": "戻る",
+        "reading": "もどる",
+        "meaning": "返回、回家",
+        "example": {
+          "jp": "急いで会社に戻る。",
+          "zh": "急忙回公司。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 184,
+        "jlptLevel": "N4",
+        "word": "もらう",
+        "reading": "もらう",
+        "meaning": "收到、接受",
+        "example": {
+          "jp": "誕生日にプレゼントをもらう。",
+          "zh": "生日收到禮物。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 185,
+        "jlptLevel": "N4",
+        "word": "焼く",
+        "reading": "やく",
+        "meaning": "烤、燒、燒烤、沖印",
+        "example": {
+          "jp": "パンを焼く。",
+          "zh": "烤麵包。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 186,
+        "jlptLevel": "N4",
+        "word": "役に立つ",
+        "reading": "やくにたつ",
+        "meaning": "有幫助、有用",
+        "example": {
+          "jp": "この辞書は英語の勉強に役に立つ。",
+          "zh": "這本字典對英語學習很有幫助。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 187,
+        "jlptLevel": "N4",
+        "word": "焼ける",
+        "reading": "やける",
+        "meaning": "著火、燒烤、燃燒、曬黑",
+        "example": {
+          "jp": "魚がおいしく焼ける。",
+          "zh": "魚烤得很好吃。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 188,
+        "jlptLevel": "N4",
+        "word": "やせる",
+        "reading": "やせる",
+        "meaning": "瘦",
+        "example": {
+          "jp": "病気でやせた。",
+          "zh": "因生病變瘦。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 189,
+        "jlptLevel": "N4",
+        "word": "やむ",
+        "reading": "やむ",
+        "meaning": "停止、中止",
+        "example": {
+          "jp": "雨がやむ。",
+          "zh": "雨停了。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 190,
+        "jlptLevel": "N4",
+        "word": "やめる",
+        "reading": "やめる",
+        "meaning": "停止、放棄、戒掉",
+        "example": {
+          "jp": "タバコをやめる。",
+          "zh": "把煙戒掉。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 191,
+        "jlptLevel": "N4",
+        "word": "やる",
+        "reading": "やる",
+        "meaning": "給予、做～する的口語說法",
+        "example": {
+          "jp": "宿題をやる。",
+          "zh": "做作業。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 192,
+        "jlptLevel": "N4",
+        "word": "揺れる",
+        "reading": "ゆれる",
+        "meaning": "搖晃",
+        "example": {
+          "jp": "地震で家が揺れる。",
+          "zh": "房子因為地震而搖晃。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 193,
+        "jlptLevel": "N4",
+        "word": "汚れる",
+        "reading": "よごれる",
+        "meaning": "弄髒",
+        "example": {
+          "jp": "汚れた手を洗う。",
+          "zh": "清洗髒髒的手。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 194,
+        "jlptLevel": "N4",
+        "word": "寄る",
+        "reading": "よる",
+        "meaning": "順便去、靠近",
+        "example": {
+          "jp": "会社の帰りに書店に寄る。",
+          "zh": "回公司的路上順便去書店。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 195,
+        "jlptLevel": "N4",
+        "word": "喜ぶ",
+        "reading": "よろこぶ",
+        "meaning": "高興、歡喜",
+        "example": {
+          "jp": "合格を喜ぶ。",
+          "zh": "為及格而高興。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 196,
+        "jlptLevel": "N4",
+        "word": "沸かす",
+        "reading": "わかす",
+        "meaning": "使沸騰、燒開",
+        "example": {
+          "jp": "お湯を沸かす。",
+          "zh": "燒熱水。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 197,
+        "jlptLevel": "N4",
+        "word": "別れる",
+        "reading": "わかれる",
+        "meaning": "分離、分開",
+        "example": {
+          "jp": "駅で友達と別れて家に帰る。",
+          "zh": "在車站與朋友道別後回家。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 198,
+        "jlptLevel": "N4",
+        "word": "沸く",
+        "reading": "わく",
+        "meaning": "沸騰、煮開",
+        "example": {
+          "jp": "お湯が沸く。",
+          "zh": "熱水沸騰。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 199,
+        "jlptLevel": "N4",
+        "word": "忘れる",
+        "reading": "わすれる",
+        "meaning": "遺忘、忘記",
+        "example": {
+          "jp": "約束を忘れる。",
+          "zh": "忘記約定。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 200,
+        "jlptLevel": "N4",
+        "word": "渡す",
+        "reading": "わたす",
+        "meaning": "交給、交付",
+        "example": {
+          "jp": "プレゼントを渡す。",
+          "zh": "把禮物交給你。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 201,
+        "jlptLevel": "N4",
+        "word": "渡る",
+        "reading": "わたる",
+        "meaning": "渡、過",
+        "example": {
+          "jp": "道を渡る。",
+          "zh": "過馬路。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 202,
+        "jlptLevel": "N4",
+        "word": "笑う",
+        "reading": "わらう",
+        "meaning": "笑",
+        "example": {
+          "jp": "大声で笑う。",
+          "zh": "大聲笑。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 203,
+        "jlptLevel": "N4",
+        "word": "割る",
+        "reading": "わる",
+        "meaning": "切、割、打破",
+        "example": {
+          "jp": "ガラスを割る。",
+          "zh": "打破玻璃。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 204,
+        "jlptLevel": "N4",
+        "word": "割れる",
+        "reading": "われる",
+        "meaning": "破掉、裂開",
+        "example": {
+          "jp": "皿が割れる。",
+          "zh": "盤子破掉。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      }
+    ]
+  }
+  

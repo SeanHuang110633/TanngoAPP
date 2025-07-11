@@ -1,0 +1,555 @@
+{
+    "category": "名詞",
+    "total": 30,
+    "words": [
+        {
+          "id": 1,
+          "jlptLevel": "N4",
+          "word": "あいさつ",
+          "reading": "あいさつ",
+          "meaning": "問候、寒暄、致詞",
+          "example": {
+            "jp": "朝は元気にあいさつしましょう。",
+            "zh": "早上要有精神地打招呼。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 2,
+          "jlptLevel": "N4",
+          "word": "間",
+          "reading": "あいだ",
+          "meaning": "之間、間隔、期間",
+          "example": {
+            "jp": "休みの間に旅行したいです。",
+            "zh": "想在假期間去旅行。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 3,
+          "jlptLevel": "N4",
+          "word": "赤ちゃん",
+          "reading": "あかちゃん",
+          "meaning": "嬰兒",
+          "example": {
+            "jp": "赤ちゃんが笑っています。",
+            "zh": "嬰兒正在笑。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 4,
+          "jlptLevel": "N4",
+          "word": "あご",
+          "reading": "あご",
+          "meaning": "下巴",
+          "example": {
+            "jp": "あごが痛いです。",
+            "zh": "下巴很痛。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 5,
+          "jlptLevel": "N4",
+          "word": "味",
+          "reading": "あじ",
+          "meaning": "味道",
+          "example": {
+            "jp": "この料理はいい味ですね。",
+            "zh": "這道料理味道真不錯。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 6,
+          "jlptLevel": "N4",
+          "word": "足音",
+          "reading": "あしおと",
+          "meaning": "腳步聲",
+          "example": {
+            "jp": "後ろから足音が聞こえます。",
+            "zh": "聽到從後方傳來的腳步聲。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 7,
+          "jlptLevel": "N4",
+          "word": "明日",
+          "reading": "あす",
+          "meaning": "明天",
+          "example": {
+            "jp": "明日は試験があります。",
+            "zh": "明天有考試。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 8,
+          "jlptLevel": "N4",
+          "word": "汗",
+          "reading": "あせ",
+          "meaning": "汗、汗水",
+          "example": {
+            "jp": "運動して汗をかきました。",
+            "zh": "運動後流了汗。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 9,
+          "jlptLevel": "N4",
+          "word": "遊び",
+          "reading": "あそび",
+          "meaning": "遊玩、消遣、沒事做",
+          "example": {
+            "jp": "週末は友達と遊びに行きます。",
+            "zh": "週末要和朋友出去玩。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 10,
+          "jlptLevel": "N4",
+          "word": "暑さ",
+          "reading": "あつさ",
+          "meaning": "暑氣、熱",
+          "example": {
+            "jp": "今年の暑さは厳しいです。",
+            "zh": "今年的炎熱很嚴重。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 11,
+          "jlptLevel": "N4",
+          "word": "飴",
+          "reading": "あめ",
+          "meaning": "糖果",
+          "example": {
+            "jp": "子どもは飴が好きです。",
+            "zh": "小孩喜歡糖果。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 12,
+          "jlptLevel": "N4",
+          "word": "安心",
+          "reading": "あんしん",
+          "meaning": "安心",
+          "example": {
+            "jp": "無事で安心しました。",
+            "zh": "平安無事讓我放心了。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 13,
+          "jlptLevel": "N4",
+          "word": "案内",
+          "reading": "あんない",
+          "meaning": "引導、帶路",
+          "example": {
+            "jp": "駅まで案内します。",
+            "zh": "我帶你去車站。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 14,
+          "jlptLevel": "N4",
+          "word": "以下",
+          "reading": "いか",
+          "meaning": "以下",
+          "example": {
+            "jp": "点数が60点以下でした。",
+            "zh": "分數在 60 分以下。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 15,
+          "jlptLevel": "N4",
+          "word": "以外",
+          "reading": "いがい",
+          "meaning": "以外",
+          "example": {
+            "jp": "私以外は全員参加しました。",
+            "zh": "除了我之外大家都參加了。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 16,
+          "jlptLevel": "N4",
+          "word": "医学",
+          "reading": "いがく",
+          "meaning": "醫學",
+          "example": {
+            "jp": "彼は医学を勉強しています。",
+            "zh": "他正在學醫。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 17,
+          "jlptLevel": "N4",
+          "word": "生き方",
+          "reading": "いきかた",
+          "meaning": "生活方式",
+          "example": {
+            "jp": "自分の生き方を大切にしたいです。",
+            "zh": "我想珍惜自己的生活方式。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 18,
+          "jlptLevel": "N4",
+          "word": "行き方",
+          "reading": "いきかた",
+          "meaning": "交通方式",
+          "example": {
+            "jp": "駅への行き方を教えてください。",
+            "zh": "請告訴我去車站的交通方式。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 19,
+          "jlptLevel": "N4",
+          "word": "意見",
+          "reading": "いけん",
+          "meaning": "意見",
+          "example": {
+            "jp": "あなたの意見を聞かせてください。",
+            "zh": "請讓我聽聽你的意見。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 20,
+          "jlptLevel": "N4",
+          "word": "石",
+          "reading": "いし",
+          "meaning": "石頭",
+          "example": {
+            "jp": "川で石を拾いました。",
+            "zh": "在河邊撿了石頭。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+            "id": 21,
+            "jlptLevel": "N4",
+            "word": "以上",
+            "reading": "いじょう",
+            "meaning": "以上",
+            "example": {
+              "jp": "説明は以上です。",
+              "zh": "說明到此為止。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 22,
+            "jlptLevel": "N4",
+            "word": "一度",
+            "reading": "いちど",
+            "meaning": "一次、一回、一旦",
+            "example": {
+              "jp": "一度やってみてください。",
+              "zh": "請試一次看看。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 23,
+            "jlptLevel": "N4",
+            "word": "一日中",
+            "reading": "いちにちじゅう",
+            "meaning": "一整天",
+            "example": {
+              "jp": "昨日は一日中勉強しました。",
+              "zh": "昨天一整天都在讀書。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 24,
+            "jlptLevel": "N4",
+            "word": "糸",
+            "reading": "いと",
+            "meaning": "線",
+            "example": {
+              "jp": "赤い糸で縫います。",
+              "zh": "用紅線縫。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 25,
+            "jlptLevel": "N4",
+            "word": "以内",
+            "reading": "いない",
+            "meaning": "以內",
+            "example": {
+              "jp": "五分以内に来てください。",
+              "zh": "請在五分鐘內來。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 26,
+            "jlptLevel": "N4",
+            "word": "田舎",
+            "reading": "いなか",
+            "meaning": "鄉下",
+            "example": {
+              "jp": "夏休みに田舎へ帰ります。",
+              "zh": "暑假要回鄉下。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 27,
+            "jlptLevel": "N4",
+            "word": "命",
+            "reading": "いのち",
+            "meaning": "命、生命",
+            "example": {
+              "jp": "命は大切にしなければなりません。",
+              "zh": "生命必須珍惜。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 28,
+            "jlptLevel": "N4",
+            "word": "居間",
+            "reading": "いま",
+            "meaning": "起居室",
+            "example": {
+              "jp": "家族は居間に集まります。",
+              "zh": "家人會聚集在客廳。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 29,
+            "jlptLevel": "N4",
+            "word": "色紙",
+            "reading": "いろがみ",
+            "meaning": "彩色紙",
+            "example": {
+              "jp": "子どもは色紙で折り紙をしました。",
+              "zh": "小朋友用彩色紙摺了紙。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 30,
+            "jlptLevel": "N4",
+            "word": "飲酒",
+            "reading": "いんしゅ",
+            "meaning": "喝酒",
+            "example": {
+              "jp": "未成年の飲酒は禁止です。",
+              "zh": "未成年禁止喝酒。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 31,
+            "jlptLevel": "N4",
+            "word": "受付",
+            "reading": "うけつけ",
+            "meaning": "櫃檯",
+            "example": {
+              "jp": "受付で名前を書いてください。",
+              "zh": "請在櫃檯填寫名字。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 32,
+            "jlptLevel": "N4",
+            "word": "嘘",
+            "reading": "うそ",
+            "meaning": "謊言",
+            "example": {
+              "jp": "嘘をついてはいけません。",
+              "zh": "不可以說謊。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 33,
+            "jlptLevel": "N4",
+            "word": "内",
+            "reading": "うち",
+            "meaning": "內、裡面、之內、心中",
+            "example": {
+              "jp": "家の内で話しましょう。",
+              "zh": "在家裡談吧。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 34,
+            "jlptLevel": "N4",
+            "word": "内側",
+            "reading": "うちがわ",
+            "meaning": "內側",
+            "example": {
+              "jp": "靴の内側が破れました。",
+              "zh": "鞋子內側破了。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 35,
+            "jlptLevel": "N4",
+            "word": "腕",
+            "reading": "うで",
+            "meaning": "手臂",
+            "example": {
+              "jp": "腕に時計をつけています。",
+              "zh": "手上戴著手錶。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 36,
+            "jlptLevel": "N4",
+            "word": "裏",
+            "reading": "うら",
+            "meaning": "背面",
+            "example": {
+              "jp": "紙の裏に書いてください。",
+              "zh": "請寫在紙的背面。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 37,
+            "jlptLevel": "N4",
+            "word": "売り場",
+            "reading": "うりば",
+            "meaning": "賣場、販售處、出售的時機",
+            "example": {
+              "jp": "この商品は三階の売り場にあります。",
+              "zh": "這個商品在三樓的賣場。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 38,
+            "jlptLevel": "N4",
+            "word": "運",
+            "reading": "うん",
+            "meaning": "命運、運氣",
+            "example": {
+              "jp": "今日は運がいいです。",
+              "zh": "今天運氣不錯。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 39,
+            "jlptLevel": "N4",
+            "word": "運転",
+            "reading": "うんてん",
+            "meaning": "開車",
+            "example": {
+              "jp": "父は車を運転しています。",
+              "zh": "爸爸在開車。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 40,
+            "jlptLevel": "N4",
+            "word": "運転手",
+            "reading": "うんてんしゅ",
+            "meaning": "司機",
+            "example": {
+              "jp": "運転手に行き先を伝えました。",
+              "zh": "告訴司機目的地了。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 41,
+            "jlptLevel": "N4",
+            "word": "運動",
+            "reading": "うんどう",
+            "meaning": "運動",
+            "example": {
+              "jp": "毎朝運動しています。",
+              "zh": "每天早上都有運動。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 42,
+            "jlptLevel": "N4",
+            "word": "運動会",
+            "reading": "うんどうかい",
+            "meaning": "運動會",
+            "example": {
+              "jp": "来週は学校の運動会です。",
+              "zh": "下週是學校的運動會。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          
+      ]
+      
+  }
+  
