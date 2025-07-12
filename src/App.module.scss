@@ -1,0 +1,245 @@
+/* --- 全域變數與樣式 --- */
+$primary-color: #4f46e5; // Indigo
+$secondary-color: #10b981; // Green
+$danger-color: #ef4444; // Red
+$light-gray: #f3f4f6;
+$text-color: #1f2937;
+$font-family: 'Helvetica Neue', 'Hiragino Sans GB', 'WenQuanYi Micro Hei', 'Microsoft YaHei', sans-serif;
+
+body {
+  font-family: $font-family;
+  background-color: $light-gray;
+  color: $text-color;
+  margin: 0;
+}
+
+.app-container {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+/* --- 按鈕樣式 --- */
+.btn {
+  display: block;
+  width: 100%;
+  padding: 1rem;
+  border: none;
+  border-radius: 0.75rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 7px 10px rgba(0,0,0,0.1);
+  }
+}
+
+.btn-primary {
+  background-color: $primary-color;
+  &:hover { background-color: darken($primary-color, 5%); }
+}
+
+.btn-secondary {
+  background-color: $secondary-color;
+  &:hover { background-color: darken($secondary-color, 5%); }
+}
+
+.btn-danger {
+  background-color: $danger-color;
+  &:hover { background-color: darken($danger-color, 5%); }
+}
+
+.btn-back {
+  background-color: #6b7280;
+  margin-top: 1.5rem;
+  &:hover { background-color: darken(#6b7280, 5%); }
+}
+
+/* --- 頁面容器 --- */
+.page-container {
+  background-color: white;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 10px 15px rgba(0,0,0,0.05);
+  text-align: center;
+
+  .page-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: $primary-color;
+    margin-bottom: 2rem;
+  }
+}
+
+/* --- 首頁 (HomePage) --- */
+.home-page {
+  .level-selection {
+    display: grid;
+    gap: 1.5rem;
+  }
+}
+
+/* --- 等級頁 (LevelPage) --- */
+.level-page {
+  .category-list {
+    display: grid;
+    gap: 1rem;
+    text-align: left;
+  }
+
+  .category-item {
+    padding: 1.2rem;
+    border: 2px solid #e5e7eb;
+    border-radius: 0.75rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 1.1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    &:hover {
+      border-color: $primary-color;
+      background-color: lighten($primary-color, 40%);
+    }
+
+    &.highlight {
+      border-color: $secondary-color;
+      font-weight: bold;
+      animation: pulse 2s infinite;
+    }
+  }
+}
+
+@keyframes pulse {
+  0% { box-shadow: 0 0 0 0 rgba($secondary-color, 0.7); }
+  70% { box-shadow: 0 0 0 10px rgba($secondary-color, 0); }
+  100% { box-shadow: 0 0 0 0 rgba($secondary-color, 0); }
+}
+
+
+/* --- 複習頁 (ReviewPage) --- */
+.review-page {
+  .progress-bar {
+    width: 100%;
+    height: 8px;
+    background-color: #e5e7eb;
+    border-radius: 4px;
+    margin-bottom: 1.5rem;
+    overflow: hidden;
+    
+    .progress {
+      height: 100%;
+      background-color: $primary-color;
+      transition: width 0.5s ease;
+    }
+  }
+
+  .flashcard-container {
+    perspective: 1000px;
+    margin-bottom: 1.5rem;
+  }
+
+  .flashcard {
+    position: relative;
+    width: 100%;
+    height: 350px;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+
+    &.is-flipped {
+      transform: rotateY(180deg);
+    }
+
+    .card-face {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      backface-visibility: hidden;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 1.5rem;
+      border-radius: 1rem;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      border: 1px solid #e5e7eb;
+      box-sizing: border-box; // 確保 padding 不會影響大小
+    }
+
+    .card-front {
+      background-color: white;
+      .word {
+        font-size: 4rem;
+        font-weight: bold;
+        &.is-new {
+          color: $danger-color;
+        }
+      }
+      .hint {
+        margin-top: 2rem;
+        color: #9ca3af;
+      }
+    }
+
+    .card-back {
+      background-color: lighten($primary-color, 42%);
+      transform: rotateY(180deg);
+      .reading {
+        font-size: 1.8rem;
+        color: $primary-color;
+      }
+      .meaning {
+        font-size: 1.5rem;
+        margin: 1rem 0;
+      }
+      .example {
+        text-align: center;
+        color: #4b5563;
+        .jp { font-size: 1.1rem; }
+        .zh { font-size: 0.9rem; color: #6b7280; }
+      }
+    }
+  }
+
+  .action-buttons {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+}
+
+/* --- 總結頁 (SummaryPage) --- */
+.summary-page {
+  .summary-list {
+    list-style: none;
+    padding: 0;
+    text-align: left;
+    .summary-item {
+      background-color: #f9fafb;
+      padding: 1rem;
+      border-radius: 0.5rem;
+      margin-bottom: 0.75rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      .word-info {
+        .word { font-weight: bold; font-size: 1.2rem; }
+        .reading { font-size: 0.9rem; color: #6b7280; }
+        .meaning { color: $text-color; }
+      }
+      .status {
+        font-weight: bold;
+        &.remembered { color: $secondary-color; }
+        &.forgotten { color: $danger-color; }
+      }
+    }
+  }
+}

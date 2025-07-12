@@ -1,0 +1,137 @@
+{
+    "category": "い形容詞",
+    "total": 10,
+    "words": [
+      {
+        "id": 1,
+        "jlptLevel": "N5",
+        "word": "大きい",
+        "reading": "おおきい",
+        "meaning": "大的",
+        "example": {
+          "jp": "大きい家に住んでいます。",
+          "zh": "住在大房子裡。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 2,
+        "jlptLevel": "N5",
+        "word": "小さい",
+        "reading": "ちいさい",
+        "meaning": "小的",
+        "example": {
+          "jp": "小さい犬がいます。",
+          "zh": "有隻小狗。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 3,
+        "jlptLevel": "N5",
+        "word": "新しい",
+        "reading": "あたらしい",
+        "meaning": "新的",
+        "example": {
+          "jp": "新しい服を買いました。",
+          "zh": "買了新衣服。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 4,
+        "jlptLevel": "N5",
+        "word": "古い",
+        "reading": "ふるい",
+        "meaning": "舊的",
+        "example": {
+          "jp": "古い本です。",
+          "zh": "是本舊書。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 5,
+        "jlptLevel": "N5",
+        "word": "暑い",
+        "reading": "あつい",
+        "meaning": "熱的（天氣）",
+        "example": {
+          "jp": "今日はとても暑いです。",
+          "zh": "今天非常熱。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 6,
+        "jlptLevel": "N5",
+        "word": "寒い",
+        "reading": "さむい",
+        "meaning": "冷的（天氣）",
+        "example": {
+          "jp": "冬は寒いです。",
+          "zh": "冬天很冷。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 7,
+        "jlptLevel": "N5",
+        "word": "楽しい",
+        "reading": "たのしい",
+        "meaning": "開心的、有趣的",
+        "example": {
+          "jp": "旅行は楽しいです。",
+          "zh": "旅行很有趣。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 8,
+        "jlptLevel": "N5",
+        "word": "難しい",
+        "reading": "むずかしい",
+        "meaning": "困難的",
+        "example": {
+          "jp": "この問題は難しいです。",
+          "zh": "這題很難。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 9,
+        "jlptLevel": "N5",
+        "word": "安い",
+        "reading": "やすい",
+        "meaning": "便宜的",
+        "example": {
+          "jp": "この店は安いです。",
+          "zh": "這家店很便宜。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 10,
+        "jlptLevel": "N5",
+        "word": "高い",
+        "reading": "たかい",
+        "meaning": "高的、貴的",
+        "example": {
+          "jp": "このビルは高いです。",
+          "zh": "這棟大樓很高。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      }
+    ]
+  }
+  

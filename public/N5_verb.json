@@ -1,0 +1,150 @@
+{
+    "category": "動詞",
+    "total": 10,
+    "words": [
+      {
+        "id": 1,
+        "jlptLevel": "N5",
+        "word": "合う",
+        "reading": "あう",
+        "meaning": "符合、適合",
+        "example": {
+          "jp": "答えが合わない。",
+          "zh": "答案不對。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 2,
+        "jlptLevel": "N5",
+        "word": "空く",
+        "reading": "あく",
+        "meaning": "空出、空著",
+        "example": {
+          "jp": "空いた席に座る。",
+          "zh": "坐在空位上。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 3,
+        "jlptLevel": "N5",
+        "word": "集まる",
+        "reading": "あつまる",
+        "meaning": "集合",
+        "example": {
+          "jp": "みんな集まってください。",
+          "zh": "請大家集合。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 4,
+        "jlptLevel": "N5",
+        "word": "集める",
+        "reading": "あつめる",
+        "meaning": "收集",
+        "example": {
+          "jp": "切手を集める。",
+          "zh": "收集郵票。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 5,
+        "jlptLevel": "N5",
+        "word": "謝る",
+        "reading": "あやまる",
+        "meaning": "道歉、謝罪",
+        "example": {
+          "jp": "待たせたことを謝る。",
+          "zh": "為讓人等而道歉。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 6,
+        "jlptLevel": "N5",
+        "word": "生きる",
+        "reading": "いきる",
+        "meaning": "活著、生存",
+        "example": {
+          "jp": "100歳まで生きる。",
+          "zh": "活到100歲。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 7,
+        "jlptLevel": "N5",
+        "word": "いじめる",
+        "reading": "いじめる",
+        "meaning": "欺負",
+        "example": {
+          "jp": "動物をいじめてはいけない。",
+          "zh": "不可以欺負動物。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 8,
+        "jlptLevel": "N5",
+        "word": "急ぐ",
+        "reading": "いそぐ",
+        "meaning": "趕快、急忙",
+        "example": {
+          "jp": "急いで家に帰る。",
+          "zh": "急忙回家。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 9,
+        "jlptLevel": "N5",
+        "word": "致す",
+        "reading": "いたす",
+        "meaning": "做（自謙語）",
+        "example": {
+          "jp": "これで失礼致します。",
+          "zh": "那麼我先告辭了。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 10,
+        "jlptLevel": "N5",
+        "word": "いただく",
+        "reading": "いただく",
+        "meaning": "領受（自謙語）",
+        "example": {
+          "jp": "プレゼントをいただく。",
+          "zh": "收到禮物。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 11,
+        "jlptLevel": "N5",
+        "word": "祈る",
+        "reading": "いのる",
+        "meaning": "祈禱、祝福",
+        "example": {
+          "jp": "合格を祈る。",
+          "zh": "祈求合格。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      }
+    ]
+  }
+  

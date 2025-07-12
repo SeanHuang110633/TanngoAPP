@@ -1,0 +1,261 @@
+.reviewPage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: calc(100vh - 120px);
+  padding: 2rem;
+  background-color: #f5f7fa;
+}
+
+.progress {
+  font-size: 1.1rem;
+  color: #666;
+  margin-bottom: 2rem;
+  font-weight: 500;
+  
+  span {
+    color: #4a6cf7;
+    font-weight: 600;
+  }
+}
+
+.flashcard {
+  width: 100%;
+  max-width: 500px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  padding: 2rem;
+  margin: 0 auto;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+  border: 1px solid #eaeef5;
+  
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  }
+}
+
+.cardContent {
+  text-align: center;
+}
+
+.word {
+  font-size: 2.2rem;
+  color: #2d3748;
+  margin-bottom: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.reading {
+  font-size: 1.3rem;
+  color: #4a5568;
+  margin-bottom: 1.2rem;
+  font-weight: 500;
+}
+
+.meaning {
+  font-size: 1.6rem;
+  color: #2d3748;
+  margin: 1.2rem 0;
+  font-weight: 600;
+  padding: 0.8rem;
+  background-color: #f8f9fe;
+  border-radius: 8px;
+  display: inline-block;
+  min-width: 180px;
+}
+
+.example {
+  margin-top: 2rem;
+  padding: 1.2rem;
+  background-color: #f8f9fe;
+  border-radius: 8px;
+  text-align: left;
+  border-left: 4px solid #4a6cf7;
+  
+  .jp {
+    font-size: 1.2rem;
+    color: #2d3748;
+    margin-bottom: 0.5rem;
+    font-style: italic;
+  }
+  
+  .zh {
+    font-size: 1rem;
+    color: #718096;
+  }
+}
+
+.hint {
+  font-size: 1.1rem;
+  color: #718096;
+  margin-top: 1.5rem;
+  padding: 0.8rem 1.5rem;
+  background-color: #f0f4ff;
+  border-radius: 20px;
+  display: inline-block;
+  font-weight: 500;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 1.2rem;
+  width: 100%;
+  
+  .navButtonContainer {
+    width: 100%;
+    max-width: 300px;
+    margin-bottom: 0.5rem;
+    
+    .navButton {
+      width: 100%;
+      padding: 0.6rem;
+      background-color: #f1f5f9;
+      border: 1px solid #e2e8f0;
+      border-radius: 6px;
+      color: #4b5563;
+      font-size: 0.9rem;
+      cursor: pointer;
+      transition: all 0.2s;
+      
+      &:hover:not(:disabled) {
+        background-color: #e2e8f0;
+      }
+      
+      &:active:not(:disabled) {
+        transform: translateY(1px);
+      }
+      
+      &:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+      }
+    }
+  }
+
+  .buttonGroup {
+    display: flex;
+    gap: 1rem;
+    width: 100%;
+    max-width: 300px;
+    justify-content: center;
+    margin-bottom: 0.5rem;
+  }
+
+.rememberButton, .forgotButton {
+  flex: 1;
+  padding: 0.7rem 1.2rem;
+  border: none;
+  border-radius: 50px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  
+  &:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+  }
+  
+  &:active {
+    transform: translateY(1px);
+  }
+}
+
+.rememberButton {
+  background: linear-gradient(135deg, #4CAF50 0%, #66BB6A 100%);
+  color: white;
+  
+  &:hover {
+    background: linear-gradient(135deg, #43A047 0%, #5CB860 100%);
+  }
+}
+
+.forgotButton {
+  background: linear-gradient(135deg, #FF5252 0%, #FF867C 100%);
+  color: white;
+  
+  &:hover {
+    background: linear-gradient(135deg, #E53935 0%, #F44336 100%);
+  }
+}
+
+  .bottomButtons {
+    width: 100%;
+    max-width: 300px;
+    display: flex;
+    justify-content: center;
+    margin-top: 0.3rem;
+    
+    .toggleButton {
+      background-color: #f1f5f9;
+      color: #4b5563;
+      padding: 0.5rem 1.2rem;
+      border-radius: 20px;
+      font-size: 0.9rem;
+      border: 1px solid #e2e8f0;
+      cursor: pointer;
+      transition: all 0.2s;
+    
+      &:hover {
+        background-color: #e2e8f0;
+      }
+      
+      &:active {
+        transform: translateY(1px);
+      }
+    }
+  }
+
+  // 響應式設計
+  @media (max-width: 768px) {
+    .flashcard {
+      padding: 1.2rem;
+      max-width: 100%;
+    }
+    
+    .buttons {
+      .navButtonContainer,
+      .buttonGroup,
+      .bottomButtons {
+        max-width: 100%;
+      }
+    }
+    
+    .word {
+      font-size: 1.8rem;
+    }
+    
+    .reading {
+      font-size: 1.2rem;
+    }
+    
+    .meaning {
+      font-size: 1.4rem;
+    }
+    
+    .buttonGroup {
+      flex-direction: column;
+      max-width: 100%;
+      gap: 0.6rem;
+      
+      .rememberButton, 
+      .forgotButton {
+        width: 100%;
+        padding: 0.8rem;
+      }
+    }
+  }
+}
