@@ -26,6 +26,7 @@ dist-ssr
 # scripts
 scripts
 
+
 # Environment variables
 .env
 .env.local

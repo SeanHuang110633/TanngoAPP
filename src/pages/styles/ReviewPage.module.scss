@@ -2,10 +2,15 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  min-height: calc(100vh - 120px);
-  padding: 2rem;
+  justify-content: flex-start;
+  min-height: calc(100vh - 70px);
+  padding: 0.5rem 0.5rem 1.5rem;
   background-color: #f5f7fa;
+  
+  @media (max-width: 480px) {
+    padding: 0.3rem 0.3rem 1.2rem;
+    min-height: calc(100vh - 50px);
+  }
 }
 
 .progress {
@@ -22,15 +27,29 @@
 
 .flashcard {
   width: 100%;
-  max-width: 500px;
+  max-width: 650px;
   background: white;
-  border-radius: 12px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
-  padding: 2rem;
-  margin: 0 auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
+  padding: 1rem 1.2rem;
+  margin: 0.3rem auto;
   cursor: pointer;
   transition: transform 0.2s, box-shadow 0.2s;
   border: 1px solid #eaeef5;
+  
+  @media (min-width: 1200px) {
+    max-width: 700px;
+  }
+  
+  @media (max-width: 768px) {
+    max-width: 95%;
+  }
+  
+  @media (max-width: 480px) {
+    padding: 0.8rem;
+    max-width: 98%;
+    margin: 0.2rem auto;
+  }
   
   &:hover {
     transform: translateY(-4px);
@@ -43,70 +62,143 @@
 }
 
 .word {
-  font-size: 2.2rem;
+  font-size: 1.6rem;
   color: #2d3748;
-  margin-bottom: 1.2rem;
+  margin: 0.2rem 0 0.4rem;
   font-weight: 700;
-  line-height: 1.2;
+  line-height: 1.1;
+  word-break: break-word;
+  
+  @media (max-width: 768px) {
+    font-size: 1.5rem;
+  }
+  
+  @media (max-width: 480px) {
+    font-size: 1.35rem;
+    margin: 0.15rem 0 0.3rem;
+  }
 }
 
 .reading {
-  font-size: 1.3rem;
+  font-size: 1rem;
   color: #4a5568;
-  margin-bottom: 1.2rem;
+  margin-bottom: 0.6rem;
   font-weight: 500;
+  
+  @media (max-width: 480px) {
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+  }
 }
 
 .meaning {
-  font-size: 1.6rem;
+  font-size: 1.1rem;
   color: #2d3748;
-  margin: 1.2rem 0;
+  margin: 0.4rem 0;
   font-weight: 600;
-  padding: 0.8rem;
+  padding: 0.4rem 0.7rem;
   background-color: #f8f9fe;
-  border-radius: 8px;
+  border-radius: 5px;
   display: inline-block;
-  min-width: 180px;
+  min-width: 130px;
+  line-height: 1.3;
+  word-break: break-word;
+  
+  @media (max-width: 768px) {
+    font-size: 1.05rem;
+    padding: 0.35rem 0.6rem;
+  }
+  
+  @media (max-width: 480px) {
+    font-size: 0.95rem;
+    padding: 0.3rem 0.55rem;
+    min-width: 120px;
+    margin: 0.3rem 0;
+  }
 }
 
 .example {
-  margin-top: 2rem;
-  padding: 1.2rem;
+  margin: 0.6rem 0 0;
+  padding: 0.6rem 0.8rem;
   background-color: #f8f9fe;
-  border-radius: 8px;
+  border-radius: 5px;
   text-align: left;
-  border-left: 4px solid #4a6cf7;
+  border-left: 2px solid #4a6cf7;
   
   .jp {
-    font-size: 1.2rem;
+    font-size: 0.95rem;
     color: #2d3748;
-    margin-bottom: 0.5rem;
+    margin: 0 0 0.2rem;
     font-style: italic;
+    line-height: 1.35;
+    word-break: break-word;
   }
   
   .zh {
-    font-size: 1rem;
+    font-size: 0.85rem;
     color: #718096;
+    line-height: 1.35;
+    word-break: break-word;
+  }
+  
+  @media (max-width: 768px) {
+    padding: 0.6rem 0.75rem;
+    margin-top: 0.7rem;
+    
+    .jp {
+      font-size: 0.9rem;
+      margin-bottom: 0.15rem;
+    }
+    
+    .zh {
+      font-size: 0.8rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    padding: 0.5rem 0.7rem;
+    margin-top: 0.6rem;
+    
+    .jp {
+      font-size: 0.85rem;
+      margin-bottom: 0.1rem;
+    }
+    
+    .zh {
+      font-size: 0.78rem;
+    }
   }
 }
 
 .hint {
-  font-size: 1.1rem;
+  font-size: 0.8rem;
   color: #718096;
-  margin-top: 1.5rem;
-  padding: 0.8rem 1.5rem;
+  margin: 0.6rem 0 0;
+  padding: 0.3rem 0.8rem;
   background-color: #f0f4ff;
-  border-radius: 20px;
+  border-radius: 12px;
   display: inline-block;
   font-weight: 500;
+  
+  @media (max-width: 768px) {
+    font-size: 0.75rem;
+    padding: 0.25rem 0.7rem;
+    margin-top: 0.5rem;
+  }
+  
+  @media (max-width: 480px) {
+    font-size: 0.7rem;
+    padding: 0.2rem 0.6rem;
+    margin-top: 0.4rem;
+  }
 }
 
 .buttons {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 1rem;
-  margin-top: 1.2rem;
+  gap: 0.6rem;
+  margin: 0.8rem 0 0;
   width: 100%;
   
   .navButtonContainer {
@@ -151,18 +243,18 @@
 
 .rememberButton, .forgotButton {
   flex: 1;
-  padding: 0.7rem 1.2rem;
+  padding: 0.5rem 1rem;
   border: none;
-  border-radius: 50px;
-  font-size: 1rem;
+  border-radius: 40px;
+  font-size: 0.9rem;
   font-weight: 600;
   cursor: pointer;
   transition: all 0.2s ease;
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 0.4rem;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  gap: 0.3rem;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
   
   &:hover {
     transform: translateY(-1px);

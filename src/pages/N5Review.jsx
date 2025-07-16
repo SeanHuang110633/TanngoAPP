@@ -10,8 +10,9 @@ import styles from './styles/ReviewPage.module.scss';
 const N5Review = () => {
   const currentUser = JSON.parse(localStorage.getItem('currentUser')).name;
   const { category } = useParams();
-  const [words, setWords] = useState([]);
-  const [wordsToReview, setWordsToReview] = useState([]);
+  const [words, setWords] = useState([]); // 拿到整個目前複習的進度
+  const [wordsToReview, setWordsToReview] = useState([]); // 拿到這次需要複習的單字
+  const [updatedWords, setUpdatedWords] = useState([]); // 紀錄需要更新的單字
   const [currentIndex, setCurrentIndex] = useState(0);
   const [showAnswer, setShowAnswer] = useState(false);
   const [sessionResults, setSessionResults] = useState([]);
@@ -19,8 +20,9 @@ const N5Review = () => {
   const [minDate, setMinDate] = useState('');
   const navigate = useNavigate();
 
-  // 從 Firebase 加載單字數據
+  // 從 Firebase 加載N5單字數據(是單字原始資料，非個人複習進度)
   useEffect(() => {
+    console.log('N5Review useEffect' + currentUser);
     const fetchWords = async () => {
       if (!currentUser) return;
       
@@ -39,7 +41,6 @@ const N5Review = () => {
         }
 
         const fetchedWords = docSnap.data().words;
-        console.log("data: ", fetchedWords);
         
         // 先設置 words，然後使用 fetchedWords 進行後續操作
         setWords(fetchedWords);
@@ -55,12 +56,10 @@ const N5Review = () => {
               wordsWithReview.map(word => word.nextReview.split('T')[0])
             )].sort();
             
-            console.log('所有不重複的日期:', uniqueDates);
             
             if (uniqueDates.length >= 2) {
               // 3. 取得第二個不重複的日期
               const secondUniqueDate = uniqueDates[1];
-              console.log('第二個不重複的日期:', secondUniqueDate);
               setMinDate(secondUniqueDate);
             } else {
               console.log('不重複的日期不足 2 個');
@@ -73,7 +72,8 @@ const N5Review = () => {
         } else {
           console.log("單字數量不足 2 個");
           setMinDate('');
-        }
+        }        
+
 
         // 2. 篩選出需要複習的單字(nextReview日期小於等於今天)
         const wordsReview = fetchedWords.filter(word => 
@@ -81,6 +81,7 @@ const N5Review = () => {
         );
         
         setWordsToReview(wordsReview);
+        setUpdatedWords(wordsReview);
       } catch (error) {
         console.error('加載單字時出錯:', error);
       } finally {
@@ -89,20 +90,20 @@ const N5Review = () => {
     };
     
     fetchWords();
-  }, [category, currentUser]);
+  }, [category, currentUser]); // 當類別或使用者改變時重新載入
 
 
   // 處理返回上一個單字
   const handlePrevious = () => {
     if (currentIndex > 0) {
       setCurrentIndex(prev => prev - 1);
-      setIsFlipped(false);
       // 移除上一個結果
       setSessionResults(prev => prev.slice(0, -1));
     }
   };
 
-  // 批次更新所有單字到資料庫
+  // 資料庫更新
+  // 更新單字
   const updateAllWords = async (wordsToUpdate) => {
     if (!currentUser) return;
     
@@ -130,11 +131,41 @@ const N5Review = () => {
     }
   };
 
-  // 處理顯示/隱藏答案
+
+  // 更新下次複習日期 (N5_record)
+  const updateRecord = async (updatedWords) => {
+    if (!currentUser) return;
+    let nextReviewDate;
+    try {
+      // 獲取所有單字中最早的 nextReview 日期
+      updatedWords.forEach(word => {
+        // 找到目前最小的日期
+        nextReviewDate = updatedWords.reduce((min, word) => {
+          return word.nextReview < min ? word.nextReview : min;
+        }, updatedWords[0].nextReview);
+      })
+
+      console.log("這次複習中最小的日期:" + nextReviewDate);
+      console.log("所有單字中第二小的日期:" + minDate);
+        
+      // 比較nextReviewDate與minDate
+      const finalDate = nextReviewDate < minDate ? nextReviewDate : minDate;
+
+      // 更新 N5_record
+      await updateN5Record(currentUser, category, finalDate)
+      
+    } catch (error) {
+      console.error('更新 N5_record 時出錯:', error);
+    }
+  };
+
+
   // 處理用戶回答
   const handleAnswer = async (wasRemembered) => {
     const today = getTodayString();
     const word = wordsToReview[currentIndex];
+    console.log("來看看有沒有每次都被更新 word: ", wordsToReview);
+    console.log("比較一下 updatedWords: ", updatedWords);
     let newLevel;
     let nextReviewDate;
 
@@ -143,6 +174,8 @@ const N5Review = () => {
       newLevel = Math.min((word.level || 1) + 1, SPACING_INTERVALS.length);
       const daysToAdd = SPACING_INTERVALS[newLevel - 2];
       nextReviewDate = addDays(today, daysToAdd);
+      console.log("newLevel: ", newLevel);
+      console.log("newReviewDate: ", nextReviewDate);
     } else {
       newLevel = word.level;
       nextReviewDate = today; // 忘記的話，下次複習日期設為今天
@@ -156,10 +189,11 @@ const N5Review = () => {
       nextReview: nextReviewDate
     };
 
-    // 更新本地狀態
-    const updatedWords = [...wordsToReview];
-    updatedWords[currentIndex] = updatedWord;
-    setWordsToReview(updatedWords);
+    
+    const temp_updatedWords = [...updatedWords];
+    temp_updatedWords[currentIndex] = updatedWord;
+    // 只更新 updatedWords 狀態 (維持 wordsToReview 再更新之前都與資料庫同步)
+    setUpdatedWords(temp_updatedWords);
     setShowAnswer(false);
 
     // 準備當前單字的結果
@@ -216,32 +250,7 @@ const N5Review = () => {
     }
   };
 
-  // 更新 N5_record 中的下次複習日期
-  const updateRecord = async (updatedWords) => {
-    if (!currentUser) return;
-    let nextReviewDate;
-    try {
-      // 獲取所有單字中最早的 nextReview 日期
-      updatedWords.forEach(word => {
-        // 找到目前最小的日期
-        nextReviewDate = updatedWords.reduce((min, word) => {
-          return word.nextReview < min ? word.nextReview : min;
-        }, updatedWords[0].nextReview);
-      })
-
-      console.log("這次複習中最小的日期:" + nextReviewDate);
-      console.log("所有單字中第二小的日期:" + minDate);
-        
-      // 比較nextReviewDate與minDate
-      const finalDate = nextReviewDate < minDate ? nextReviewDate : minDate;
-
-      // 更新 N5_record
-      await updateN5Record(currentUser, category, finalDate)
-      
-    } catch (error) {
-      console.error('更新 N5_record 時出錯:', error);
-    }
-  };
+  
 
   if (isLoading) return <div className={styles.loading}>載入中...</div>;
   if (wordsToReview.length === 0) return <div className={styles.noWords}>沒有需要複習的單字！</div>;
