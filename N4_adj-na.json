@@ -1,0 +1,126 @@
+{
+    "category": "い形容詞",
+    "total": 12,
+    "words": [
+        {
+          "id": 1,
+          "jlptLevel": "N4",
+          "word": "安全",
+          "reading": "あんぜん",
+          "meaning": "安全",
+          "example": { "jp": "安全なコースを選んで歩く。", "zh": "挑選安全的道路行走。" },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 2,
+          "jlptLevel": "N4",
+          "word": "簡単",
+          "reading": "かんたん",
+          "meaning": "簡單",
+          "example": { "jp": "簡単に説明する。", "zh": "簡單地說明。" },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 3,
+          "jlptLevel": "N4",
+          "word": "危険",
+          "reading": "きけん",
+          "meaning": "危險",
+          "example": { "jp": "この道は車が多くて危険だ。", "zh": "這條馬路車多有危險。" },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 4,
+          "jlptLevel": "N4",
+          "word": "けっこう",
+          "reading": "けっこう",
+          "meaning": "充足、足夠、很好",
+          "example": { "jp": "けっこうな入学祝いをもらう。", "zh": "收到體面的入學祝賀。" },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 5,
+          "jlptLevel": "N4",
+          "word": "盛ん",
+          "reading": "さかん",
+          "meaning": "興盛、繁榮",
+          "example": { "jp": "工業が盛んになる。", "zh": "工業興盛。" },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 6,
+          "jlptLevel": "N4",
+          "word": "残念",
+          "reading": "ざんねん",
+          "meaning": "可惜、遺憾、懊悔",
+          "example": { "jp": "試合に負けて残念だ。", "zh": "輸了比賽感到可惜。" },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 7,
+          "jlptLevel": "N4",
+          "word": "十分",
+          "reading": "じゅうぶん",
+          "meaning": "充足、足夠",
+          "example": { "jp": "十分に説明する。", "zh": "充分地說明。" },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 8,
+          "jlptLevel": "N4",
+          "word": "大事",
+          "reading": "だいじ",
+          "meaning": "重要、慎重",
+          "example": { "jp": "家族を大事に考えている。", "zh": "我很重視家人。" },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 9,
+          "jlptLevel": "N4",
+          "word": "大切",
+          "reading": "たいせつ",
+          "meaning": "重要、珍惜",
+          "example": { "jp": "上手になるためには、練習が大切だ。", "zh": "想變成高手就要勤加練習。" },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+            "id": 10,
+            "jlptLevel": "N4",
+            "word": "無理",
+            "reading": "むり",
+            "meaning": "不可能、勉強（勉強這裡是勉強做某事的意思）",
+            "example": { "jp": "その仕事は一人では無理だ。", "zh": "這項工作一個人實在做不來。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 11,
+            "jlptLevel": "N4",
+            "word": "有名",
+            "reading": "ゆうめい",
+            "meaning": "有名、出名",
+            "example": { "jp": "彼の作品は有名だ。", "zh": "他的作品很有名。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 12,
+            "jlptLevel": "N4",
+            "word": "立派",
+            "reading": "りっぱ",
+            "meaning": "優秀、漂亮",
+            "example": { "jp": "スーツを着ると立派に見える。", "zh": "穿上西裝，看起來就很莊嚴堂堂。" },
+            "reviewHistory": [],
+            "level": 1
+          }
+      ]
+}

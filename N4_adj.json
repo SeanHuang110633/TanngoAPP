@@ -1,0 +1,426 @@
+{
+    "category": "い形容詞",
+    "total": 42,
+    "words": [
+        {
+            "id": 1,
+            "jlptLevel": "N4",
+            "word": "浅い",
+            "reading": "あさい",
+            "meaning": "淺",
+            "example": { "jp": "この川は浅い。", "zh": "這條河很淺。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 2,
+            "jlptLevel": "N4",
+            "word": "熱い",
+            "reading": "あつい",
+            "meaning": "熱",
+            "example": { "jp": "熱いお茶を飲む。", "zh": "喝熱茶。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 3,
+            "jlptLevel": "N4",
+            "word": "厚い",
+            "reading": "あつい",
+            "meaning": "厚",
+            "example": { "jp": "厚いコートを着る。", "zh": "穿著厚外套。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 4,
+            "jlptLevel": "N4",
+            "word": "美しい",
+            "reading": "うつくしい",
+            "meaning": "美麗",
+            "example": { "jp": "秋は紅葉が美しい。", "zh": "秋天楓葉很美。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 5,
+            "jlptLevel": "N4",
+            "word": "うまい",
+            "reading": "うまい",
+            "meaning": "美味、高明",
+            "example": { "jp": "うまい料理を食べる。", "zh": "品嚐美味的料理。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 6,
+            "jlptLevel": "N4",
+            "word": "嬉しい",
+            "reading": "うれしい",
+            "meaning": "開心、愉快",
+            "example": { "jp": "友達に会って嬉しかった。", "zh": "見到朋友很開心。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 7,
+            "jlptLevel": "N4",
+            "word": "おかしい",
+            "reading": "おかしい",
+            "meaning": "可笑、有趣、奇怪",
+            "example": { "jp": "おなかの調子がおかしい。", "zh": "肚子不舒服。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 8,
+            "jlptLevel": "N4",
+            "word": "おとなしい",
+            "reading": "おとなしい",
+            "meaning": "老實、規矩",
+            "example": { "jp": "おとなしく座っていなさい。", "zh": "你給我安安靜靜地坐著。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 9,
+            "jlptLevel": "N4",
+            "word": "固い",
+            "reading": "かたい",
+            "meaning": "硬",
+            "example": { "jp": "固いパンが好きだ。", "zh": "我喜歡吃硬麵包。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 10,
+            "jlptLevel": "N4",
+            "word": "かっこいい",
+            "reading": "かっこいい",
+            "meaning": "帥氣、很棒",
+            "example": { "jp": "自分をかっこよく見せたい。", "zh": "我想讓自己看起來很帥氣。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 11,
+            "jlptLevel": "N4",
+            "word": "かっこ悪い",
+            "reading": "かっこわるい",
+            "meaning": "不好、很遜",
+            "example": { "jp": "階段で転んでかっこ悪かった。", "zh": "從樓梯摔下來前面超糗。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 12,
+            "jlptLevel": "N4",
+            "word": "悲しい",
+            "reading": "かなしい",
+            "meaning": "悲傷、難過",
+            "example": { "jp": "別れは悲しい。", "zh": "離別令人傷心的。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 13,
+            "jlptLevel": "N4",
+            "word": "厳しい",
+            "reading": "きびしい",
+            "meaning": "嚴格、嚴厲",
+            "example": { "jp": "厳しく注意する。", "zh": "我會嚴格注意。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 14,
+            "jlptLevel": "N4",
+            "word": "苦しい",
+            "reading": "くるしい",
+            "meaning": "痛苦、難受",
+            "example": { "jp": "息が苦しい。", "zh": "呼吸困難。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 15,
+            "jlptLevel": "N4",
+            "word": "細かい",
+            "reading": "こまかい",
+            "meaning": "細、詳細",
+            "example": { "jp": "細かく説明する。", "zh": "詳細說明。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 16,
+            "jlptLevel": "N4",
+            "word": "怖い",
+            "reading": "こわい",
+            "meaning": "可怕、害怕",
+            "example": { "jp": "地震が怖い。", "zh": "地震很可怕。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 17,
+            "jlptLevel": "N4",
+            "word": "寂しい",
+            "reading": "さびしい",
+            "meaning": "寂寞",
+            "example": { "jp": "君がいなくて寂しい。", "zh": "你不在我很寂寞。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 18,
+            "jlptLevel": "N4",
+            "word": "仕方ない",
+            "reading": "しかたない",
+            "meaning": "沒辦法、不得已",
+            "example": { "jp": "考えても仕方ない。", "zh": "想了又想還是沒辦法。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 19,
+            "jlptLevel": "N4",
+            "word": "親しい",
+            "reading": "したしい",
+            "meaning": "親近",
+            "example": { "jp": "彼は田中さんと親しい。", "zh": "他和田中很親近。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 20,
+            "jlptLevel": "N4",
+            "word": "すごい",
+            "reading": "すごい",
+            "meaning": "很、非常",
+            "example": { "jp": "すごくおもしろい。", "zh": "非常有趣。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 21,
+            "jlptLevel": "N4",
+            "word": "涼しい",
+            "reading": "すずしい",
+            "meaning": "涼快、涼爽、明亮",
+            "example": { "jp": "涼しい風が吹く。", "zh": "涼爽的風吹著。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 22,
+            "jlptLevel": "N4",
+            "word": "素晴らしい",
+            "reading": "すばらしい",
+            "meaning": "極好、優佳",
+            "example": { "jp": "山からの景色は素晴らしい。", "zh": "從山上看下來的景色太美了。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 23,
+            "jlptLevel": "N4",
+            "word": "正しい",
+            "reading": "ただしい",
+            "meaning": "正確",
+            "example": { "jp": "その答えは正しい。", "zh": "答案正確。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 24,
+            "jlptLevel": "N4",
+            "word": "足りない",
+            "reading": "たりない",
+            "meaning": "不足、不夠",
+            "example": { "jp": "お金が足りない。", "zh": "錢不夠。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 25,
+            "jlptLevel": "N4",
+            "word": "つまらない",
+            "reading": "つまらない",
+            "meaning": "無聊、乏味",
+            "example": { "jp": "この映画はつまらない。", "zh": "這部電影很無趣。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 26,
+            "jlptLevel": "N4",
+            "word": "冷たい",
+            "reading": "つめたい",
+            "meaning": "冰冷、冷淡",
+            "example": { "jp": "冷たいジュースを飲む。", "zh": "喝用冰的果汁。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 27,
+            "jlptLevel": "N4",
+            "word": "苦い",
+            "reading": "にがい",
+            "meaning": "苦的、苦澀的",
+            "example": { "jp": "このコーヒーは少し苦い。", "zh": "這杯咖啡稍微苦。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 28,
+            "jlptLevel": "N4",
+            "word": "温い",
+            "reading": "ぬるい",
+            "meaning": "溫的、溫和",
+            "example": { "jp": "お茶が温くなった。", "zh": "茶變溫了。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 29,
+            "jlptLevel": "N4",
+            "word": "眠い",
+            "reading": "ねむい",
+            "meaning": "想睡、睏",
+            "example": { "jp": "寝不足で朝から眠い。", "zh": "因為睡眠不足，從早上開始就很睏。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 30,
+            "jlptLevel": "N4",
+            "word": "眠たい",
+            "reading": "ねむたい",
+            "meaning": "想睡",
+            "example": { "jp": "眠たそうな目をしている。", "zh": "那雙眼睛好像很睏。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 31,
+            "jlptLevel": "N4",
+            "word": "恥ずかしい",
+            "reading": "はずかしい",
+            "meaning": "羞恥、害羞",
+            "example": { "jp": "成績が悪くて恥ずかしい。", "zh": "成績不好很丟臉。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 32,
+            "jlptLevel": "N4",
+            "word": "ひどい",
+            "reading": "ひどい",
+            "meaning": "嚴重、過分、殘酷",
+            "example": { "jp": "今年の寒さはひどい。", "zh": "今年非常寒冷。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 33,
+            "jlptLevel": "N4",
+            "word": "深い",
+            "reading": "ふかい",
+            "meaning": "深、濃",
+            "example": { "jp": "深く考える。", "zh": "深切思考。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 34,
+            "jlptLevel": "N4",
+            "word": "太い",
+            "reading": "ふとい",
+            "meaning": "粗、胖",
+            "example": { "jp": "太い線を書く。", "zh": "畫粗線。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 35,
+            "jlptLevel": "N4",
+            "word": "欲しい",
+            "reading": "ほしい",
+            "meaning": "想要、希望",
+            "example": { "jp": "新しい車が欲しい。", "zh": "想要買新車。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 36,
+            "jlptLevel": "N4",
+            "word": "細い",
+            "reading": "ほそい",
+            "meaning": "細、瘦",
+            "example": { "jp": "細い道を歩く。", "zh": "走小路。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 37,
+            "jlptLevel": "N4",
+            "word": "珍しい",
+            "reading": "めずらしい",
+            "meaning": "珍奇、少見",
+            "example": { "jp": "珍しい鳥を見た。", "zh": "看到了奇特的鳥。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 38,
+            "jlptLevel": "N4",
+            "word": "易しい",
+            "reading": "やさしい",
+            "meaning": "簡單、容易",
+            "example": { "jp": "テストの問題は易しかった。", "zh": "考試題目很簡單。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 39,
+            "jlptLevel": "N4",
+            "word": "優しい",
+            "reading": "やさしい",
+            "meaning": "溫柔、體貼",
+            "example": { "jp": "優しい言葉をかける。", "zh": "溫和地說話。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 40,
+            "jlptLevel": "N4",
+            "word": "柔らかい",
+            "reading": "やわらかい",
+            "meaning": "柔軟的、溫和的",
+            "example": { "jp": "このパンは柔らかい。", "zh": "這個麵包很軟。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 41,
+            "jlptLevel": "N4",
+            "word": "よろしい",
+            "reading": "よろしい",
+            "meaning": "好、可以(比いい更敬重的意思)",
+            "example": { "jp": "今日は気分がよろしい。", "zh": "今天心情很好。" },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 42,
+            "jlptLevel": "N4",
+            "word": "若い",
+            "reading": "わかい",
+            "meaning": "年輕",
+            "example": { "jp": "年より若く見える。", "zh": "看起來比實際年輕。" },
+            "reviewHistory": [],
+            "level": 1
+          }
+    ]
+}
