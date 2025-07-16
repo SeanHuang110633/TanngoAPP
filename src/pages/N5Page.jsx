@@ -236,7 +236,7 @@ const N5Page = () => {
                 value={dailyGoal}
                 onChange={(e) => {
                   const value = parseInt(e.target.value);
-                  setDailyGoal(Math.min(Math.max(1, value), 50));
+                  setDailyGoal(Math.min(Math.max(1, value), 150));
                 }}
                 className={styles.goalInput}
               />
