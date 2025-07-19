@@ -94,7 +94,6 @@ const N4Review = () => {
   const handlePrevious = () => {
     if (currentIndex > 0) {
       setCurrentIndex(prev => prev - 1);
-      setIsFlipped(false);
       // 移除上一個結果
       setSessionResults(prev => prev.slice(0, -1));
     }
@@ -180,9 +179,9 @@ const N4Review = () => {
     };
 
     // 更新本地狀態
-    const temp_updatedWords = [...updatedWords];
-    temp_updatedWords[currentIndex] = updatedWord;
-    setUpdatedWords(temp_updatedWords);
+    const currentUpdatedWords = [...updatedWords];
+    currentUpdatedWords[currentIndex] = updatedWord;
+    setUpdatedWords(currentUpdatedWords);
     setShowAnswer(false);
 
     // 準備當前單字的結果
@@ -197,29 +196,34 @@ const N4Review = () => {
     };
 
     // 更新會話結果
-    const updatedResults = [...sessionResults, currentResult];
-    setSessionResults(updatedResults);
+    const currentResultsMap = new Map(sessionResults.map(r => [r.wordId, r]));
+    currentResultsMap.set(currentResult.wordId, currentResult);
+    setSessionResults(Array.from(currentResultsMap.values()));
 
     // 移動到下一個單字或結束會話
     if (currentIndex < wordsToReview.length-1) {
       // 還有單字，移動到下一個
       console.log('移動到下一個單字，當前索引:', currentIndex, '總單字數:', wordsToReview.length);
+      console.log("currentResult: ", sessionResults);
       setCurrentIndex(currentIndex + 1);
     } else {
       try {
         console.log('所有單字複習完成，準備更新記錄...');
+        console.log("updatedWords: ", currentUpdatedWords);
+        console.log("updatedResults: ", sessionResults);
         // 所有單字都複習完畢，批次更新所有單字
-        await updateAllWords(updatedWords);
+        await updateAllWords(currentUpdatedWords);
         
         // 更新 N4_record 中的下次複習日期
-        await updateRecord(updatedWords);
+        await updateRecord(currentUpdatedWords);
         
         // 導向總結頁面，傳遞所有結果和類別信息
-        console.log('準備導向總結頁面，結果:', updatedResults);
+        const finalResults = Array.from(currentResultsMap.values())
+        console.log('準備導向總結頁面，結果:', finalResults);
         
         navigate('/summary', { 
           state: { 
-            results: updatedResults,
+            results: finalResults,
             category: category ? category.charAt(0).toUpperCase() + category.slice(1) : 'N4'
           },
           replace: true
@@ -230,7 +234,7 @@ const N4Review = () => {
         console.log('出錯，但仍嘗試導向總結頁面');
         navigate('/summary', { 
           state: { 
-            results: updatedResults || [],
+            results: finalResults || [],
             category: category ? category.charAt(0).toUpperCase() + category.slice(1) : 'N4'
           },
           replace: true
@@ -246,6 +250,7 @@ const N4Review = () => {
 
   // 獲取當前單字
   const currentWord = wordsToReview[currentIndex];
+  console.log("currentWord: ", currentWord);
 
   return (
     <Layout>

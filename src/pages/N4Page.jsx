@@ -214,8 +214,8 @@ const N4Page = () => {
               >
                 <div className={styles.categoryName}>{category}</div>
                 <div className={styles.status}>
-                  {!status ? '開始學習' : 
-                   new Date(status) <= new Date() ? '需要複習' : '已完成'}
+                  {!status ? '開始學習⁉️' : 
+                   new Date(status) <= new Date() ? '需要複習➕' : '已完成✅'}
                 </div>
               </div>
             );

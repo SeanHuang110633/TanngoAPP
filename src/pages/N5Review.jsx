@@ -164,8 +164,6 @@ const N5Review = () => {
   const handleAnswer = async (wasRemembered) => {
     const today = getTodayString();
     const word = wordsToReview[currentIndex];
-    console.log("來看看有沒有每次都被更新 word: ", wordsToReview);
-    console.log("比較一下 updatedWords: ", updatedWords);
     let newLevel;
     let nextReviewDate;
 
@@ -190,10 +188,9 @@ const N5Review = () => {
     };
 
     
-    const temp_updatedWords = [...updatedWords];
-    temp_updatedWords[currentIndex] = updatedWord;
-    // 只更新 updatedWords 狀態 (維持 wordsToReview 再更新之前都與資料庫同步)
-    setUpdatedWords(temp_updatedWords);
+    const currentUpdatedWords = [...updatedWords];
+    currentUpdatedWords[currentIndex] = updatedWord;
+    setUpdatedWords(currentUpdatedWords);
     setShowAnswer(false);
 
     // 準備當前單字的結果
@@ -208,8 +205,12 @@ const N5Review = () => {
     };
 
     // 更新會話結果
-    const updatedResults = [...sessionResults, currentResult];
-    setSessionResults(updatedResults);
+    const currentResultsMap = new Map(sessionResults.map(r => [r.wordId, r]));
+    currentResultsMap.set(currentResult.wordId, currentResult);
+    setSessionResults(Array.from(currentResultsMap.values()));
+
+    // const updatedResults = [...sessionResults, currentResult];
+    // setSessionResults(updatedResults);
 
     // 移動到下一個單字或結束會話
     if (currentIndex < wordsToReview.length-1) {
@@ -220,17 +221,18 @@ const N5Review = () => {
       try {
         console.log('所有單字複習完成，準備更新記錄...');
         // 所有單字都複習完畢，批次更新所有單字
-        await updateAllWords(updatedWords);
+        await updateAllWords(currentUpdatedWords);
         
         // 更新 N5_record 中的下次複習日期
-        await updateRecord(updatedWords);
+        await updateRecord(currentUpdatedWords);
         
         // 導向總結頁面，傳遞所有結果和類別信息
-        console.log('準備導向總結頁面，結果:', updatedResults);
+        const finalResults = Array.from(currentResultsMap.values())
+        console.log('準備導向總結頁面，結果:', finalResults);
         
         navigate('/summary', { 
           state: { 
-            results: updatedResults,
+            results: finalResults,
             category: category ? category.charAt(0).toUpperCase() + category.slice(1) : 'N5'
           },
           replace: true
@@ -241,7 +243,7 @@ const N5Review = () => {
         console.log('出錯，但仍嘗試導向總結頁面');
         navigate('/summary', { 
           state: { 
-            results: updatedResults || [],
+            results: finalResults || [],
             category: category ? category.charAt(0).toUpperCase() + category.slice(1) : 'N5'
           },
           replace: true
