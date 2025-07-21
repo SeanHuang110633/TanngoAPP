@@ -1,337 +1,396 @@
 {
-    "category": "外來語",
-    "total": 30,
-    "words":[
-        {
-          "id": 1,
-          "jlptLevel": "N5",
-          "word": "アパート",
-          "reading": "apartment",
-          "meaning": "公寓",
-          "example": {
-            "jp": "アパートに住んでいる。",
-            "zh": "我住在公寓。"
-          }
-        },
-        {
-          "id": 2,
-          "jlptLevel": "N5",
-          "word": "エレベーター",
-          "reading": "elevator",
-          "meaning": "電梯",
-          "example": {
-            "jp": "エレベーターに乗る。",
-            "zh": "搭乘電梯。"
-          }
-        },
-        {
-          "id": 3,
-          "jlptLevel": "N5",
-          "word": "カップ",
-          "reading": "cup",
-          "meaning": "杯子（通常指有把手的杯）",
-          "example": {
-            "jp": "カップにコーヒーを入れる。",
-            "zh": "把咖啡倒進杯子裡。"
-          }
-        },
-        {
-          "id": 4,
-          "jlptLevel": "N5",
-          "word": "カメラ",
-          "reading": "camera",
-          "meaning": "相機",
-          "example": {
-            "jp": "カメラで写真を撮る。",
-            "zh": "用相機拍照。"
-          }
-        },
-        {
-          "id": 5,
-          "jlptLevel": "N5",
-          "word": "カレンダー",
-          "reading": "calendar",
-          "meaning": "日曆、月曆",
-          "example": {
-            "jp": "誕生日をカレンダーに書く。",
-            "zh": "把生日寫在日曆上。"
-          }
-        },
-        {
-          "id": 6,
-          "jlptLevel": "N5",
-          "word": "ギター",
-          "reading": "guitar",
-          "meaning": "吉他",
-          "example": {
-            "jp": "ギターを弾く。",
-            "zh": "彈吉他。"
-          }
-        },
-        {
-          "id": 7,
-          "jlptLevel": "N5",
-          "word": "クラス",
-          "reading": "class",
-          "meaning": "班級",
-          "example": {
-            "jp": "わたしのクラスは15人です。",
-            "zh": "我們班有15個人。"
-          }
-        },
-        {
-          "id": 8,
-          "jlptLevel": "N5",
-          "word": "グラス",
-          "reading": "glass",
-          "meaning": "玻璃杯、酒杯",
-          "example": {
-            "jp": "グラスでワインを飲む。",
-            "zh": "用玻璃杯喝葡萄酒。"
-          }
-        },
-        {
-          "id": 9,
-          "jlptLevel": "N5",
-          "word": "コート",
-          "reading": "coat",
-          "meaning": "大衣、外套",
-          "example": {
-            "jp": "コートを着て、家を出る。",
-            "zh": "穿上外套出門。"
-          }
-        },
-        {
-          "id": 10,
-          "jlptLevel": "N5",
-          "word": "コーヒー",
-          "reading": "coffee",
-          "meaning": "咖啡",
-          "example": {
-            "jp": "一杯のコーヒーを飲む。",
-            "zh": "喝一杯咖啡。"
-          }
-        },
-        {
-          "id": 11,
-          "jlptLevel": "N5",
-          "word": "コップ",
-          "reading": "glass",
-          "meaning": "玻璃杯、水杯",
-          "example": {
-            "jp": "コップで水を飲む。",
-            "zh": "用杯子喝水。"
-          }
-        },
-        {
-          "id": 12,
-          "jlptLevel": "N5",
-          "word": "コピー",
-          "reading": "copy",
-          "meaning": "影印、複印",
-          "example": {
-            "jp": "コピーをとる。",
-            "zh": "影印文件。"
-          }
-        },
-        {
-            "id": 13,
-            "jlptLevel": "N5",
-            "word": "シャツ",
-            "reading": "shirt",
-            "meaning": "襯衫",
-            "example": {
-                "jp": "シャツを洗う。",
-                "zh": "清洗襯衫。"
-            }
-          },
-          {
-            "id": 14,
-            "jlptLevel": "N5",
-            "word": "シャワー",
-            "reading": "shower",
-            "meaning": "淋浴",
-            "example": {
-              "jp": "シャワーをあびる。",
-              "zh": "淋浴。"
-            }
-          },
-          {
-            "id": 15,
-            "jlptLevel": "N5",
-            "word": "スカート",
-            "reading": "skirt",
-            "meaning": "裙子",
-            "example": {
-              "jp": "このスカートはちょっと短い。",
-              "zh": "這件裙子有點短。"
-            }
-          },
-          {
-            "id": 16,
-            "jlptLevel": "N5",
-            "word": "ストーブ",
-            "reading": "stove",
-            "meaning": "火爐、暖爐",
-            "example": {
-              "jp": "ストーブをつける。",
-              "zh": "點火爐。"
-            }
-          },
-          {
-            "id": 17,
-            "jlptLevel": "N5",
-            "word": "スプーン",
-            "reading": "spoon",
-            "meaning": "湯匙",
-            "example": {
-              "jp": "スプーンでカレーを食べる。",
-              "zh": "用湯匙吃咖哩。"
-            }
-          },
-          {
-            "id": 18,
-            "jlptLevel": "N5",
-            "word": "スポーツ",
-            "reading": "sports",
-            "meaning": "運動",
-            "example": {
-              "jp": "スポーツの中では野球が好きです。",
-              "zh": "我喜歡運動中的棒球。"
-            }
-          },
-          {
-            "id": 19,
-            "jlptLevel": "N5",
-            "word": "ズボン",
-            "reading": "ずぼん",
-            "meaning": "褲子",
-            "example": {
-              "jp": "ズボンをはく。",
-              "zh": "穿褲子。"
-            }
-          },
-          {
-            "id": 20,
-            "jlptLevel": "N5",
-            "word": "セーター",
-            "reading": "sweater",
-            "meaning": "毛衣",
-            "example": {
-              "jp": "このセーターは暖かい。",
-              "zh": "這件毛衣很溫暖。"
-            }
-          },
-          {
-            "id": 21,
-            "jlptLevel": "N5",
-            "word": "ゼロ",
-            "reading": "zero",
-            "meaning": "零",
-            "example": {
-              "jp": "ゼロから始める。",
-              "zh": "從零開始。"
-            }
-          },
-          {
-            "id": 22,
-            "jlptLevel": "N5",
-            "word": "タクシー",
-            "reading": "taxi",
-            "meaning": "計程車",
-            "example": {
-              "jp": "タクシーで行く。",
-              "zh": "坐計程車去。"
-            }
-          },
-          {
-            "id": 23,
-            "jlptLevel": "N5",
-            "word": "テープ",
-            "reading": "tape",
-            "meaning": "膠帶",
-            "example": {
-              "jp": "テープを切る。",
-              "zh": "剪膠帶。"
-            }
-          },
-          {
-            "id": 24,
-            "jlptLevel": "N5",
-            "word": "テーブル",
-            "reading": "table",
-            "meaning": "桌子",
-            "example": {
-              "jp": "テーブルの上にお皿を置く。",
-              "zh": "把盤子放在桌上。"
-            }
-          },
-          {
-            "id": 25,
-            "jlptLevel": "N5",
-            "word": "ボールペン",
-            "reading": "ballpen",
-            "meaning": "原子筆",
-            "example": {
-              "jp": "名前は黒いボールペンで書いてください。",
-              "zh": "姓名請用黑色原子筆書寫。"
-            }
-          },
-          {
-            "id": 26,
-            "jlptLevel": "N5",
-            "word": "ポケット",
-            "reading": "pocket",
-            "meaning": "口袋",
-            "example": {
-              "jp": "ポケットに手を入れる。",
-              "zh": "把手放進口袋。"
-            }
-          },
-          {
-            "id": 27,
-            "jlptLevel": "N5",
-            "word": "ボタン",
-            "reading": "button",
-            "meaning": "按鈕",
-            "example": {
-              "jp": "ボタンを押す。",
-              "zh": "按按鈕。"
-            }
-          },
-          {
-            "id": 28,
-            "jlptLevel": "N5",
-            "word": "ホテル",
-            "reading": "hotel",
-            "meaning": "飯店",
-            "example": {
-              "jp": "ホテルでパーティーをする。",
-              "zh": "在飯店辦舞會。"
-            }
-          },
-          {
-            "id": 29,
-            "jlptLevel": "N5",
-            "word": "ラジオ",
-            "reading": "radio",
-            "meaning": "收音機",
-            "example": {
-              "jp": "ラジオでニュースを聞く。",
-              "zh": "用收音機聽新聞。"
-            }
-          },
-          {
-            "id": 30,
-            "jlptLevel": "N5",
-            "word": "レストラン",
-            "reading": "restaurant",
-            "meaning": "餐廳",
-            "example": {
-              "jp": "レストランで食事をする。",
-              "zh": "在餐廳用餐。"
-            }
-          }
-      ] 
+  "category": "外來語",
+  "total": 30,
+  "words": [
+    {
+      "id": 1,
+      "jlptLevel": "N5",
+      "word": "アパート",
+      "reading": "apartment",
+      "meaning": "公寓",
+      "example": {
+        "jp": "アパートに住んでいる。",
+        "zh": "我住在公寓。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 2,
+      "jlptLevel": "N5",
+      "word": "エレベーター",
+      "reading": "elevator",
+      "meaning": "電梯",
+      "example": {
+        "jp": "エレベーターに乗る。",
+        "zh": "搭乘電梯。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 3,
+      "jlptLevel": "N5",
+      "word": "カップ",
+      "reading": "cup",
+      "meaning": "杯子（通常指有把手的杯）",
+      "example": {
+        "jp": "カップにコーヒーを入れる。",
+        "zh": "把咖啡倒進杯子裡。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 4,
+      "jlptLevel": "N5",
+      "word": "カメラ",
+      "reading": "camera",
+      "meaning": "相機",
+      "example": {
+        "jp": "カメラで写真を撮る。",
+        "zh": "用相機拍照。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 5,
+      "jlptLevel": "N5",
+      "word": "カレンダー",
+      "reading": "calendar",
+      "meaning": "日曆、月曆",
+      "example": {
+        "jp": "誕生日をカレンダーに書く。",
+        "zh": "把生日寫在日曆上。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 6,
+      "jlptLevel": "N5",
+      "word": "ギター",
+      "reading": "guitar",
+      "meaning": "吉他",
+      "example": {
+        "jp": "ギターを弾く。",
+        "zh": "彈吉他。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 7,
+      "jlptLevel": "N5",
+      "word": "クラス",
+      "reading": "class",
+      "meaning": "班級",
+      "example": {
+        "jp": "わたしのクラスは15人です。",
+        "zh": "我們班有15個人。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 8,
+      "jlptLevel": "N5",
+      "word": "グラス",
+      "reading": "glass",
+      "meaning": "玻璃杯、酒杯",
+      "example": {
+        "jp": "グラスでワインを飲む。",
+        "zh": "用玻璃杯喝葡萄酒。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 9,
+      "jlptLevel": "N5",
+      "word": "コート",
+      "reading": "coat",
+      "meaning": "大衣、外套",
+      "example": {
+        "jp": "コートを着て、家を出る。",
+        "zh": "穿上外套出門。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 10,
+      "jlptLevel": "N5",
+      "word": "コーヒー",
+      "reading": "coffee",
+      "meaning": "咖啡",
+      "example": {
+        "jp": "一杯のコーヒーを飲む。",
+        "zh": "喝一杯咖啡。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 11,
+      "jlptLevel": "N5",
+      "word": "コップ",
+      "reading": "glass",
+      "meaning": "玻璃杯、水杯",
+      "example": {
+        "jp": "コップで水を飲む。",
+        "zh": "用杯子喝水。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 12,
+      "jlptLevel": "N5",
+      "word": "コピー",
+      "reading": "copy",
+      "meaning": "影印、複印",
+      "example": {
+        "jp": "コピーをとる。",
+        "zh": "影印文件。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 13,
+      "jlptLevel": "N5",
+      "word": "シャツ",
+      "reading": "shirt",
+      "meaning": "襯衫",
+      "example": {
+        "jp": "シャツを洗う。",
+        "zh": "清洗襯衫。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 14,
+      "jlptLevel": "N5",
+      "word": "シャワー",
+      "reading": "shower",
+      "meaning": "淋浴",
+      "example": {
+        "jp": "シャワーをあびる。",
+        "zh": "淋浴。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 15,
+      "jlptLevel": "N5",
+      "word": "スカート",
+      "reading": "skirt",
+      "meaning": "裙子",
+      "example": {
+        "jp": "このスカートはちょっと短い。",
+        "zh": "這件裙子有點短。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 16,
+      "jlptLevel": "N5",
+      "word": "ストーブ",
+      "reading": "stove",
+      "meaning": "火爐、暖爐",
+      "example": {
+        "jp": "ストーブをつける。",
+        "zh": "點火爐。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 17,
+      "jlptLevel": "N5",
+      "word": "スプーン",
+      "reading": "spoon",
+      "meaning": "湯匙",
+      "example": {
+        "jp": "スプーンでカレーを食べる。",
+        "zh": "用湯匙吃咖哩。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 18,
+      "jlptLevel": "N5",
+      "word": "スポーツ",
+      "reading": "sports",
+      "meaning": "運動",
+      "example": {
+        "jp": "スポーツの中では野球が好きです。",
+        "zh": "我喜歡運動中的棒球。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 19,
+      "jlptLevel": "N5",
+      "word": "ズボン",
+      "reading": "ずぼん",
+      "meaning": "褲子",
+      "example": {
+        "jp": "ズボンをはく。",
+        "zh": "穿褲子。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 20,
+      "jlptLevel": "N5",
+      "word": "セーター",
+      "reading": "sweater",
+      "meaning": "毛衣",
+      "example": {
+        "jp": "このセーターは暖かい。",
+        "zh": "這件毛衣很溫暖。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 21,
+      "jlptLevel": "N5",
+      "word": "ゼロ",
+      "reading": "zero",
+      "meaning": "零",
+      "example": {
+        "jp": "ゼロから始める。",
+        "zh": "從零開始。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 22,
+      "jlptLevel": "N5",
+      "word": "タクシー",
+      "reading": "taxi",
+      "meaning": "計程車",
+      "example": {
+        "jp": "タクシーで行く。",
+        "zh": "坐計程車去。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 23,
+      "jlptLevel": "N5",
+      "word": "テープ",
+      "reading": "tape",
+      "meaning": "膠帶",
+      "example": {
+        "jp": "テープを切る。",
+        "zh": "剪膠帶。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 24,
+      "jlptLevel": "N5",
+      "word": "テーブル",
+      "reading": "table",
+      "meaning": "桌子",
+      "example": {
+        "jp": "テーブルの上にお皿を置く。",
+        "zh": "把盤子放在桌上。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 25,
+      "jlptLevel": "N5",
+      "word": "ボールペン",
+      "reading": "ballpen",
+      "meaning": "原子筆",
+      "example": {
+        "jp": "名前は黒いボールペンで書いてください。",
+        "zh": "姓名請用黑色原子筆書寫。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 26,
+      "jlptLevel": "N5",
+      "word": "ポケット",
+      "reading": "pocket",
+      "meaning": "口袋",
+      "example": {
+        "jp": "ポケットに手を入れる。",
+        "zh": "把手放進口袋。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 27,
+      "jlptLevel": "N5",
+      "word": "ボタン",
+      "reading": "button",
+      "meaning": "按鈕",
+      "example": {
+        "jp": "ボタンを押す。",
+        "zh": "按按鈕。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 28,
+      "jlptLevel": "N5",
+      "word": "ホテル",
+      "reading": "hotel",
+      "meaning": "飯店",
+      "example": {
+        "jp": "ホテルでパーティーをする。",
+        "zh": "在飯店辦舞會。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 29,
+      "jlptLevel": "N5",
+      "word": "ラジオ",
+      "reading": "radio",
+      "meaning": "收音機",
+      "example": {
+        "jp": "ラジオでニュースを聞く。",
+        "zh": "用收音機聽新聞。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 30,
+      "jlptLevel": "N5",
+      "word": "レストラン",
+      "reading": "restaurant",
+      "meaning": "餐廳",
+      "example": {
+        "jp": "レストランで食事をする。",
+        "zh": "在餐廳用餐。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    }
+  ]
 }
-  

@@ -1,557 +1,656 @@
 {
-    "category": "い形容詞",
-    "total": 50,
-    "words": [
-      {
-        "id": 1,
-        "jlptLevel": "N5",
-        "word": "青い",
-        "reading": "あおい",
-        "meaning": "藍色",
-        "example": {
-          "jp": "空が青い。",
-          "zh": "天空蔚藍。"
-        }
+  "category": "い形容詞",
+  "total": 50,
+  "words": [
+    {
+      "id": 1,
+      "jlptLevel": "N5",
+      "word": "青い",
+      "reading": "あおい",
+      "meaning": "藍色",
+      "example": {
+        "jp": "空が青い。",
+        "zh": "天空蔚藍。"
       },
-      {
-        "id": 2,
-        "jlptLevel": "N5",
-        "word": "赤い",
-        "reading": "あかい",
-        "meaning": "紅色",
-        "example": {
-          "jp": "顔が赤くなる。",
-          "zh": "臉變紅了。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 2,
+      "jlptLevel": "N5",
+      "word": "赤い",
+      "reading": "あかい",
+      "meaning": "紅色",
+      "example": {
+        "jp": "顔が赤くなる。",
+        "zh": "臉變紅了。"
       },
-      {
-        "id": 3,
-        "jlptLevel": "N5",
-        "word": "明るい",
-        "reading": "あかるい",
-        "meaning": "明亮的、開朗的",
-        "example": {
-          "jp": "部屋が明るい。",
-          "zh": "房間明亮。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 3,
+      "jlptLevel": "N5",
+      "word": "明るい",
+      "reading": "あかるい",
+      "meaning": "明亮的、開朗的",
+      "example": {
+        "jp": "部屋が明るい。",
+        "zh": "房間明亮。"
       },
-      {
-        "id": 4,
-        "jlptLevel": "N5",
-        "word": "暖かい",
-        "reading": "あたたかい",
-        "meaning": "溫暖的",
-        "example": {
-          "jp": "暖かい春が来た。",
-          "zh": "溫暖的春天來臨了。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 4,
+      "jlptLevel": "N5",
+      "word": "暖かい",
+      "reading": "あたたかい",
+      "meaning": "溫暖的",
+      "example": {
+        "jp": "暖かい春が来た。",
+        "zh": "溫暖的春天來臨了。"
       },
-      {
-        "id": 5,
-        "jlptLevel": "N5",
-        "word": "新しい",
-        "reading": "あたらしい",
-        "meaning": "新的",
-        "example": {
-          "jp": "新しい家に住む。",
-          "zh": "住新家。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 5,
+      "jlptLevel": "N5",
+      "word": "新しい",
+      "reading": "あたらしい",
+      "meaning": "新的",
+      "example": {
+        "jp": "新しい家に住む。",
+        "zh": "住新家。"
       },
-      {
-        "id": 6,
-        "jlptLevel": "N5",
-        "word": "暑い",
-        "reading": "あつい",
-        "meaning": "炎熱的",
-        "example": {
-          "jp": "今年の夏は暑い。",
-          "zh": "今年夏天很熱。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 6,
+      "jlptLevel": "N5",
+      "word": "暑い",
+      "reading": "あつい",
+      "meaning": "炎熱的",
+      "example": {
+        "jp": "今年の夏は暑い。",
+        "zh": "今年夏天很熱。"
       },
-      {
-        "id": 7,
-        "jlptLevel": "N5",
-        "word": "危ない",
-        "reading": "あぶない",
-        "meaning": "危險的",
-        "example": {
-          "jp": "道路で遊ぶのは危ない。",
-          "zh": "在馬路上玩很危險。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 7,
+      "jlptLevel": "N5",
+      "word": "危ない",
+      "reading": "あぶない",
+      "meaning": "危險的",
+      "example": {
+        "jp": "道路で遊ぶのは危ない。",
+        "zh": "在馬路上玩很危險。"
       },
-      {
-        "id": 8,
-        "jlptLevel": "N5",
-        "word": "甘い",
-        "reading": "あまい",
-        "meaning": "甜的",
-        "example": {
-          "jp": "このケーキは甘い。",
-          "zh": "這個蛋糕很甜。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 8,
+      "jlptLevel": "N5",
+      "word": "甘い",
+      "reading": "あまい",
+      "meaning": "甜的",
+      "example": {
+        "jp": "このケーキは甘い。",
+        "zh": "這個蛋糕很甜。"
       },
-      {
-        "id": 9,
-        "jlptLevel": "N5",
-        "word": "いい／よい",
-        "reading": "いい／よい",
-        "meaning": "好、良好",
-        "example": {
-          "jp": "天気がいい。",
-          "zh": "天氣很好。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 9,
+      "jlptLevel": "N5",
+      "word": "いい／よい",
+      "reading": "いい／よい",
+      "meaning": "好、良好",
+      "example": {
+        "jp": "天気がいい。",
+        "zh": "天氣很好。"
       },
-      {
-        "id": 10,
-        "jlptLevel": "N5",
-        "word": "忙しい",
-        "reading": "いそがしい",
-        "meaning": "忙碌的",
-        "example": {
-          "jp": "仕事で忙しい。",
-          "zh": "工作忙碌。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 10,
+      "jlptLevel": "N5",
+      "word": "忙しい",
+      "reading": "いそがしい",
+      "meaning": "忙碌的",
+      "example": {
+        "jp": "仕事で忙しい。",
+        "zh": "工作忙碌。"
       },
-      {
-        "id": 11,
-        "jlptLevel": "N5",
-        "word": "痛い",
-        "reading": "いたい",
-        "meaning": "疼痛的",
-        "example": {
-          "jp": "頭が痛い。",
-          "zh": "頭痛。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 11,
+      "jlptLevel": "N5",
+      "word": "痛い",
+      "reading": "いたい",
+      "meaning": "疼痛的",
+      "example": {
+        "jp": "頭が痛い。",
+        "zh": "頭痛。"
       },
-      {
-        "id": 12,
-        "jlptLevel": "N5",
-        "word": "薄い",
-        "reading": "うすい",
-        "meaning": "薄的、淡的",
-        "example": {
-          "jp": "肉を薄く切る。",
-          "zh": "把肉切薄。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 12,
+      "jlptLevel": "N5",
+      "word": "薄い",
+      "reading": "うすい",
+      "meaning": "薄的、淡的",
+      "example": {
+        "jp": "肉を薄く切る。",
+        "zh": "把肉切薄。"
       },
-      {
-        "id": 13,
-        "jlptLevel": "N5",
-        "word": "うるさい",
-        "reading": "うるさい",
-        "meaning": "吵鬧的",
-        "example": {
-          "jp": "電話の音がうるさい。",
-          "zh": "電話聲音很吵。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 13,
+      "jlptLevel": "N5",
+      "word": "うるさい",
+      "reading": "うるさい",
+      "meaning": "吵鬧的",
+      "example": {
+        "jp": "電話の音がうるさい。",
+        "zh": "電話聲音很吵。"
       },
-      {
-        "id": 14,
-        "jlptLevel": "N5",
-        "word": "おいしい",
-        "reading": "おいしい",
-        "meaning": "好吃的、美味的",
-        "example": {
-          "jp": "この料理はおいしい。",
-          "zh": "這道菜很好吃。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 14,
+      "jlptLevel": "N5",
+      "word": "おいしい",
+      "reading": "おいしい",
+      "meaning": "好吃的、美味的",
+      "example": {
+        "jp": "この料理はおいしい。",
+        "zh": "這道菜很好吃。"
       },
-      {
-        "id": 15,
-        "jlptLevel": "N5",
-        "word": "多い",
-        "reading": "おおい",
-        "meaning": "多的",
-        "example": {
-          "jp": "夏は雨が多い。",
-          "zh": "夏季雨量多。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 15,
+      "jlptLevel": "N5",
+      "word": "多い",
+      "reading": "おおい",
+      "meaning": "多的",
+      "example": {
+        "jp": "夏は雨が多い。",
+        "zh": "夏季雨量多。"
       },
-      {
-        "id": 16,
-        "jlptLevel": "N5",
-        "word": "大きい",
-        "reading": "おおきい",
-        "meaning": "大的",
-        "example": {
-          "jp": "字を大きく書く。",
-          "zh": "把字寫大一點。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 16,
+      "jlptLevel": "N5",
+      "word": "大きい",
+      "reading": "おおきい",
+      "meaning": "大的",
+      "example": {
+        "jp": "字を大きく書く。",
+        "zh": "把字寫大一點。"
       },
-      {
-        "id": 17,
-        "jlptLevel": "N5",
-        "word": "遅い",
-        "reading": "おそい",
-        "meaning": "遲的、慢的",
-        "example": {
-          "jp": "食べるのが遅い。",
-          "zh": "吃得慢。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 17,
+      "jlptLevel": "N5",
+      "word": "遅い",
+      "reading": "おそい",
+      "meaning": "遲的、慢的",
+      "example": {
+        "jp": "食べるのが遅い。",
+        "zh": "吃得慢。"
       },
-      {
-        "id": 18,
-        "jlptLevel": "N5",
-        "word": "重い",
-        "reading": "おもい",
-        "meaning": "重的",
-        "example": {
-          "jp": "このかばんは重い。",
-          "zh": "這個包很重。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 18,
+      "jlptLevel": "N5",
+      "word": "重い",
+      "reading": "おもい",
+      "meaning": "重的",
+      "example": {
+        "jp": "このかばんは重い。",
+        "zh": "這個包很重。"
       },
-      {
-        "id": 19,
-        "jlptLevel": "N5",
-        "word": "おもしろい",
-        "reading": "おもしろい",
-        "meaning": "有趣的",
-        "example": {
-          "jp": "昨日見た映画はおもしろかった。",
-          "zh": "昨天看的電影很有趣。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 19,
+      "jlptLevel": "N5",
+      "word": "おもしろい",
+      "reading": "おもしろい",
+      "meaning": "有趣的",
+      "example": {
+        "jp": "昨日見た映画はおもしろかった。",
+        "zh": "昨天看的電影很有趣。"
       },
-      {
-        "id": 20,
-        "jlptLevel": "N5",
-        "word": "辛い",
-        "reading": "からい",
-        "meaning": "辣的",
-        "example": {
-          "jp": "わたしは辛い食べ物が好きだ。",
-          "zh": "我喜歡吃辣的食物。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 20,
+      "jlptLevel": "N5",
+      "word": "辛い",
+      "reading": "からい",
+      "meaning": "辣的",
+      "example": {
+        "jp": "わたしは辛い食べ物が好きだ。",
+        "zh": "我喜歡吃辣的食物。"
       },
-      {
-        "id": 21,
-        "jlptLevel": "N5",
-        "word": "軽い",
-        "reading": "かるい",
-        "meaning": "輕的",
-        "example": {
-          "jp": "このいすは軽い。",
-          "zh": "這張椅子很輕。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 21,
+      "jlptLevel": "N5",
+      "word": "軽い",
+      "reading": "かるい",
+      "meaning": "輕的",
+      "example": {
+        "jp": "このいすは軽い。",
+        "zh": "這張椅子很輕。"
       },
-      {
-        "id": 22,
-        "jlptLevel": "N5",
-        "word": "かわいい",
-        "reading": "かわいい",
-        "meaning": "可愛的",
-        "example": {
-          "jp": "かわいい声で歌う。",
-          "zh": "用可愛的聲音唱歌。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 22,
+      "jlptLevel": "N5",
+      "word": "かわいい",
+      "reading": "かわいい",
+      "meaning": "可愛的",
+      "example": {
+        "jp": "かわいい声で歌う。",
+        "zh": "用可愛的聲音唱歌。"
       },
-      {
-        "id": 23,
-        "jlptLevel": "N5",
-        "word": "黄色い",
-        "reading": "きいろい",
-        "meaning": "黃色的",
-        "example": {
-          "jp": "黄色い花が咲く。",
-          "zh": "黃色的花開了。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 23,
+      "jlptLevel": "N5",
+      "word": "黄色い",
+      "reading": "きいろい",
+      "meaning": "黃色的",
+      "example": {
+        "jp": "黄色い花が咲く。",
+        "zh": "黃色的花開了。"
       },
-      {
-        "id": 24,
-        "jlptLevel": "N5",
-        "word": "汚い",
-        "reading": "きたない",
-        "meaning": "髒的",
-        "example": {
-          "jp": "部屋が汚い。",
-          "zh": "房間很髒。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 24,
+      "jlptLevel": "N5",
+      "word": "汚い",
+      "reading": "きたない",
+      "meaning": "髒的",
+      "example": {
+        "jp": "部屋が汚い。",
+        "zh": "房間很髒。"
       },
-      {
-        "id": 25,
-        "jlptLevel": "N5",
-        "word": "暗い",
-        "reading": "くらい",
-        "meaning": "暗的",
-        "example": {
-          "jp": "夜の道は暗い。",
-          "zh": "夜晚的道路很黑暗。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 25,
+      "jlptLevel": "N5",
+      "word": "暗い",
+      "reading": "くらい",
+      "meaning": "暗的",
+      "example": {
+        "jp": "夜の道は暗い。",
+        "zh": "夜晚的道路很黑暗。"
       },
-      {
-        "id": 26,
-        "jlptLevel": "N5",
-        "word": "黒い",
-        "reading": "くろい",
-        "meaning": "黑色的",
-        "example": {
-          "jp": "黒いスーツを買う。",
-          "zh": "買黑色的西裝。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 26,
+      "jlptLevel": "N5",
+      "word": "黒い",
+      "reading": "くろい",
+      "meaning": "黑色的",
+      "example": {
+        "jp": "黒いスーツを買う。",
+        "zh": "買黑色的西裝。"
       },
-      {
-        "id": 27,
-        "jlptLevel": "N5",
-        "word": "寒い",
-        "reading": "さむい",
-        "meaning": "寒冷的",
-        "example": {
-          "jp": "冬は寒い。",
-          "zh": "冬天很冷。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 27,
+      "jlptLevel": "N5",
+      "word": "寒い",
+      "reading": "さむい",
+      "meaning": "寒冷的",
+      "example": {
+        "jp": "冬は寒い。",
+        "zh": "冬天很冷。"
       },
-      {
-        "id": 28,
-        "jlptLevel": "N5",
-        "word": "白い",
-        "reading": "しろい",
-        "meaning": "白色的",
-        "example": {
-          "jp": "白い雪が降る。",
-          "zh": "下著白雪。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 28,
+      "jlptLevel": "N5",
+      "word": "白い",
+      "reading": "しろい",
+      "meaning": "白色的",
+      "example": {
+        "jp": "白い雪が降る。",
+        "zh": "下著白雪。"
       },
-      {
-        "id": 29,
-        "jlptLevel": "N5",
-        "word": "少ない",
-        "reading": "すくない",
-        "meaning": "少的",
-        "example": {
-          "jp": "この会社は休みが少ない。",
-          "zh": "這家公司假期很少。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 29,
+      "jlptLevel": "N5",
+      "word": "少ない",
+      "reading": "すくない",
+      "meaning": "少的",
+      "example": {
+        "jp": "この会社は休みが少ない。",
+        "zh": "這家公司假期很少。"
       },
-      {
-        "id": 30,
-        "jlptLevel": "N5",
-        "word": "狭い",
-        "reading": "せまい",
-        "meaning": "狹窄的",
-        "example": {
-          "jp": "わたしの部屋は狭い。",
-          "zh": "我的房間很狹小。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 30,
+      "jlptLevel": "N5",
+      "word": "狭い",
+      "reading": "せまい",
+      "meaning": "狹窄的",
+      "example": {
+        "jp": "わたしの部屋は狭い。",
+        "zh": "我的房間很狹小。"
       },
-      {
-        "id": 31,
-        "jlptLevel": "N5",
-        "word": "高い",
-        "reading": "たかい",
-        "meaning": "高的、貴的",
-        "example": {
-          "jp": "このかばんは高い。",
-          "zh": "這個包很貴。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 31,
+      "jlptLevel": "N5",
+      "word": "高い",
+      "reading": "たかい",
+      "meaning": "高的、貴的",
+      "example": {
+        "jp": "このかばんは高い。",
+        "zh": "這個包很貴。"
       },
-      {
-        "id": 32,
-        "jlptLevel": "N5",
-        "word": "楽しい",
-        "reading": "たのしい",
-        "meaning": "快樂的、愉快的",
-        "example": {
-          "jp": "友だちと遊んで楽しかった。",
-          "zh": "和朋友玩得很開心。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 32,
+      "jlptLevel": "N5",
+      "word": "楽しい",
+      "reading": "たのしい",
+      "meaning": "快樂的、愉快的",
+      "example": {
+        "jp": "友だちと遊んで楽しかった。",
+        "zh": "和朋友玩得很開心。"
       },
-      {
-        "id": 33,
-        "jlptLevel": "N5",
-        "word": "小さい",
-        "reading": "ちいさい",
-        "meaning": "小的",
-        "example": {
-          "jp": "小さい声で話す。",
-          "zh": "用小聲說話。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 33,
+      "jlptLevel": "N5",
+      "word": "小さい",
+      "reading": "ちいさい",
+      "meaning": "小的",
+      "example": {
+        "jp": "小さい声で話す。",
+        "zh": "用小聲說話。"
       },
-      {
-        "id": 34,
-        "jlptLevel": "N5",
-        "word": "近い",
-        "reading": "ちかい",
-        "meaning": "近的",
-        "example": {
-          "jp": "会社は駅に近い。",
-          "zh": "公司離車站很近。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 34,
+      "jlptLevel": "N5",
+      "word": "近い",
+      "reading": "ちかい",
+      "meaning": "近的",
+      "example": {
+        "jp": "会社は駅に近い。",
+        "zh": "公司離車站很近。"
       },
-      {
-        "id": 35,
-        "jlptLevel": "N5",
-        "word": "強い",
-        "reading": "つよい",
-        "meaning": "強的",
-        "example": {
-          "jp": "今日は風が強い。",
-          "zh": "今天風很強。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 35,
+      "jlptLevel": "N5",
+      "word": "強い",
+      "reading": "つよい",
+      "meaning": "強的",
+      "example": {
+        "jp": "今日は風が強い。",
+        "zh": "今天風很強。"
       },
-      {
-        "id": 36,
-        "jlptLevel": "N5",
-        "word": "遠い",
-        "reading": "とおい",
-        "meaning": "遠的",
-        "example": {
-          "jp": "学校は駅から遠い。",
-          "zh": "學校離車站很遠。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 36,
+      "jlptLevel": "N5",
+      "word": "遠い",
+      "reading": "とおい",
+      "meaning": "遠的",
+      "example": {
+        "jp": "学校は駅から遠い。",
+        "zh": "學校離車站很遠。"
       },
-      {
-        "id": 37,
-        "jlptLevel": "N5",
-        "word": "ない",
-        "reading": "ない",
-        "meaning": "沒有",
-        "example": {
-          "jp": "時間がない。",
-          "zh": "沒有時間。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 37,
+      "jlptLevel": "N5",
+      "word": "ない",
+      "reading": "ない",
+      "meaning": "沒有",
+      "example": {
+        "jp": "時間がない。",
+        "zh": "沒有時間。"
       },
-      {
-        "id": 38,
-        "jlptLevel": "N5",
-        "word": "長い",
-        "reading": "ながい",
-        "meaning": "長的",
-        "example": {
-          "jp": "電話で長く話す。",
-          "zh": "講很久電話。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 38,
+      "jlptLevel": "N5",
+      "word": "長い",
+      "reading": "ながい",
+      "meaning": "長的",
+      "example": {
+        "jp": "電話で長く話す。",
+        "zh": "講很久電話。"
       },
-      {
-        "id": 39,
-        "jlptLevel": "N5",
-        "word": "速い",
-        "reading": "はやい",
-        "meaning": "快的",
-        "example": {
-          "jp": "この車はスピードが速い。",
-          "zh": "這台車速度很快。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 39,
+      "jlptLevel": "N5",
+      "word": "速い",
+      "reading": "はやい",
+      "meaning": "快的",
+      "example": {
+        "jp": "この車はスピードが速い。",
+        "zh": "這台車速度很快。"
       },
-      {
-        "id": 40,
-        "jlptLevel": "N5",
-        "word": "早い",
-        "reading": "はやい",
-        "meaning": "早的",
-        "example": {
-          "jp": "朝早く起きる。",
-          "zh": "一早就起床。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 40,
+      "jlptLevel": "N5",
+      "word": "早い",
+      "reading": "はやい",
+      "meaning": "早的",
+      "example": {
+        "jp": "朝早く起きる。",
+        "zh": "一早就起床。"
       },
-      {
-        "id": 41,
-        "jlptLevel": "N5",
-        "word": "低い",
-        "reading": "ひくい",
-        "meaning": "低的",
-        "example": {
-          "jp": "田中さんは背が低い。",
-          "zh": "田中先生個子很矮。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 41,
+      "jlptLevel": "N5",
+      "word": "低い",
+      "reading": "ひくい",
+      "meaning": "低的",
+      "example": {
+        "jp": "田中さんは背が低い。",
+        "zh": "田中先生個子很矮。"
       },
-      {
-        "id": 42,
-        "jlptLevel": "N5",
-        "word": "広い",
-        "reading": "ひろい",
-        "meaning": "寬廣的",
-        "example": {
-          "jp": "家の前に広い公園がある。",
-          "zh": "家門前有一個寬敞的公園。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 42,
+      "jlptLevel": "N5",
+      "word": "広い",
+      "reading": "ひろい",
+      "meaning": "寬廣的",
+      "example": {
+        "jp": "家の前に広い公園がある。",
+        "zh": "家門前有一個寬敞的公園。"
       },
-      {
-        "id": 43,
-        "jlptLevel": "N5",
-        "word": "古い",
-        "reading": "ふるい",
-        "meaning": "舊的",
-        "example": {
-          "jp": "かばんが古くなる。",
-          "zh": "包包變舊了。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 43,
+      "jlptLevel": "N5",
+      "word": "古い",
+      "reading": "ふるい",
+      "meaning": "舊的",
+      "example": {
+        "jp": "かばんが古くなる。",
+        "zh": "包包變舊了。"
       },
-      {
-        "id": 44,
-        "jlptLevel": "N5",
-        "word": "まずい",
-        "reading": "まずい",
-        "meaning": "不好吃的",
-        "example": {
-          "jp": "まずくて食べたくない。",
-          "zh": "因為難吃不想吃。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 44,
+      "jlptLevel": "N5",
+      "word": "まずい",
+      "reading": "まずい",
+      "meaning": "不好吃的",
+      "example": {
+        "jp": "まずくて食べたくない。",
+        "zh": "因為難吃不想吃。"
       },
-      {
-        "id": 45,
-        "jlptLevel": "N5",
-        "word": "丸い",
-        "reading": "まるい",
-        "meaning": "圓的",
-        "example": {
-          "jp": "ボールは丸い。",
-          "zh": "球是圓的。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 45,
+      "jlptLevel": "N5",
+      "word": "丸い",
+      "reading": "まるい",
+      "meaning": "圓的",
+      "example": {
+        "jp": "ボールは丸い。",
+        "zh": "球是圓的。"
       },
-      {
-        "id": 46,
-        "jlptLevel": "N5",
-        "word": "短い",
-        "reading": "みじかい",
-        "meaning": "短的",
-        "example": {
-          "jp": "髪を短く切る。",
-          "zh": "把頭髮剪短。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 46,
+      "jlptLevel": "N5",
+      "word": "短い",
+      "reading": "みじかい",
+      "meaning": "短的",
+      "example": {
+        "jp": "髪を短く切る。",
+        "zh": "把頭髮剪短。"
       },
-      {
-        "id": 47,
-        "jlptLevel": "N5",
-        "word": "難しい",
-        "reading": "むずかしい",
-        "meaning": "困難的、難的",
-        "example": {
-          "jp": "難しい漢字を書く。",
-          "zh": "書寫有難度的漢字。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 47,
+      "jlptLevel": "N5",
+      "word": "難しい",
+      "reading": "むずかしい",
+      "meaning": "困難的、難的",
+      "example": {
+        "jp": "難しい漢字を書く。",
+        "zh": "書寫有難度的漢字。"
       },
-      {
-        "id": 48,
-        "jlptLevel": "N5",
-        "word": "安い",
-        "reading": "やすい",
-        "meaning": "便宜的",
-        "example": {
-          "jp": "この店は安くておいしい。",
-          "zh": "這間店便宜又好吃。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 48,
+      "jlptLevel": "N5",
+      "word": "安い",
+      "reading": "やすい",
+      "meaning": "便宜的",
+      "example": {
+        "jp": "この店は安くておいしい。",
+        "zh": "這間店便宜又好吃。"
       },
-      {
-        "id": 49,
-        "jlptLevel": "N5",
-        "word": "弱い",
-        "reading": "よわい",
-        "meaning": "虛弱的、弱的",
-        "example": {
-          "jp": "体が弱い。",
-          "zh": "身體虛弱。"
-        }
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 49,
+      "jlptLevel": "N5",
+      "word": "弱い",
+      "reading": "よわい",
+      "meaning": "虛弱的、弱的",
+      "example": {
+        "jp": "体が弱い。",
+        "zh": "身體虛弱。"
       },
-      {
-        "id": 50,
-        "jlptLevel": "N5",
-        "word": "悪い",
-        "reading": "わるい",
-        "meaning": "壞的、不好的",
-        "example": {
-          "jp": "天気が悪い。",
-          "zh": "天氣不好。"
-        }
-      }
-    ]
-  }
-  
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 50,
+      "jlptLevel": "N5",
+      "word": "悪い",
+      "reading": "わるい",
+      "meaning": "壞的、不好的",
+      "example": {
+        "jp": "天気が悪い。",
+        "zh": "天氣不好。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    }
+  ]
+}

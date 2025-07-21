@@ -112,7 +112,7 @@ const N4Page = () => {
       // 3. 創建學習記錄文檔
       // 文檔 ID 格式: N4_{category}，例如 N4_noun
       const docId = `N4_${selectedCategory}`;
-      const learningDocRef = doc(db, COLLECTIONS.SEAN, docId);
+      const learningDocRef = doc(db, currentUser, docId);
       
       // 獲取現有文檔（如果存在）
       const docSnap = await getDoc(learningDocRef);

@@ -1,0 +1,955 @@
+{
+    "category": "副詞",
+    "total": 74,
+    "words": [
+        {
+          "id": 1,
+          "jlptLevel": "N4",
+          "word": "あんなに",
+          "reading": "あんなに",
+          "meaning": "那樣地",
+          "example": {
+            "jp": "あんなにいい人はいない。",
+            "zh": "沒有那樣好的人。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 2,
+          "jlptLevel": "N4",
+          "word": "いかが",
+          "reading": "いかが",
+          "meaning": "如何",
+          "example": {
+            "jp": "もう一杯いかがですか。",
+            "zh": "再來一杯如何？"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 3,
+          "jlptLevel": "N4",
+          "word": "いくら",
+          "reading": "いくら",
+          "meaning": "（～ても）怎麼也、不論、不管",
+          "example": {
+            "jp": "いくら探しても見つからない。",
+            "zh": "怎麼找都找不到。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 4,
+          "jlptLevel": "N4",
+          "word": "いちいち",
+          "reading": "いちいち",
+          "meaning": "一個一個、一一",
+          "example": {
+            "jp": "いちいち説明する。",
+            "zh": "一一說明。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 5,
+          "jlptLevel": "N4",
+          "word": "いつか",
+          "reading": "いつか",
+          "meaning": "總有一天",
+          "example": {
+            "jp": "またいつかお会いしましょう。",
+            "zh": "我們總有一天會再見面的。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 6,
+          "jlptLevel": "N4",
+          "word": "一生懸命",
+          "reading": "いっしょうけんめい",
+          "meaning": "拚命、努力地",
+          "example": {
+            "jp": "一生懸命働く。",
+            "zh": "拚命努力工作。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 7,
+          "jlptLevel": "N4",
+          "word": "いったい",
+          "reading": "いったい",
+          "meaning": "到底",
+          "example": {
+            "jp": "一体何が言いたいんだ？",
+            "zh": "你到底想說什麼？"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 8,
+          "jlptLevel": "N4",
+          "word": "いっぱい",
+          "reading": "いっぱい",
+          "meaning": "滿、充滿",
+          "example": {
+            "jp": "お腹いっぱい食べる。",
+            "zh": "吃得好飽。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 9,
+          "jlptLevel": "N4",
+          "word": "必ず",
+          "reading": "かならず",
+          "meaning": "一定、必定",
+          "example": {
+            "jp": "宿題は必ずやりなさい。",
+            "zh": "功課一定要寫。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+          "id": 10,
+          "jlptLevel": "N4",
+          "word": "かなり",
+          "reading": "かなり",
+          "meaning": "相當、很",
+          "example": {
+            "jp": "かなり困っている。",
+            "zh": "相當困擾。"
+          },
+          "reviewHistory": [],
+          "level": 1    
+        },
+        {
+          "id": 11,
+          "jlptLevel": "N4",
+          "word": "きっと",
+          "reading": "きっと",
+          "meaning": "一定、必定",
+          "example": {
+            "jp": "君ならきっと合格するよ。",
+            "zh": "如果是你的話，一定會合格的。"
+          },
+          "reviewHistory": [],
+          "level": 1
+        },
+        {
+            "id": 12,
+            "jlptLevel": "N4",
+            "word": "急に",
+            "reading": "きゅうに",
+            "meaning": "突然",
+            "example": {
+              "jp": "急に雨が降り出した。",
+              "zh": "突然下起雨來。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 13,
+            "jlptLevel": "N4",
+            "word": "けっこう",
+            "reading": "けっこう",
+            "meaning": "相當、十分",
+            "example": {
+              "jp": "けっこうおいしい。",
+              "zh": "相當好吃。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 14,
+            "jlptLevel": "N4",
+            "word": "決して",
+            "reading": "けっして",
+            "meaning": "決不、絕對不",
+            "example": {
+              "jp": "決してうそは言いません。",
+              "zh": "我絕不說謊。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 15,
+            "jlptLevel": "N4",
+            "word": "これから",
+            "reading": "これから",
+            "meaning": "現在、今後",
+            "example": {
+              "jp": "これから学校に行きます。",
+              "zh": "我現在要去學校。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 16,
+            "jlptLevel": "N4",
+            "word": "こんなに",
+            "reading": "こんなに",
+            "meaning": "這麼、如此",
+            "example": {
+              "jp": "こんなに広とは思わなかった。",
+              "zh": "沒想到這麼寬。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 17,
+            "jlptLevel": "N4",
+            "word": "さっき",
+            "reading": "さっき",
+            "meaning": "剛才、剛剛",
+            "example": {
+              "jp": "さっきから雨が降っている。",
+              "zh": "從剛才就開始下雨了。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 18,
+            "jlptLevel": "N4",
+            "word": "しっかり",
+            "reading": "しっかり",
+            "meaning": "確實、牢牢地",
+            "example": {
+              "jp": "靴の紐(ひも)をしっかりと結(むす)ぶ",
+              "zh": "將鞋帶紮牢。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 19,
+            "jlptLevel": "N4",
+            "word": "ずいぶん",
+            "reading": "ずいぶん",
+            "meaning": "相當、非常",
+            "example": {
+              "jp": "体の調子がずいぶんよくなった。",
+              "zh": "身體狀況好多了。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 20,
+            "jlptLevel": "N4",
+            "word": "すっかり",
+            "reading": "すっかり",
+            "meaning": "全部、完全",
+            "example": {
+              "jp": "すっかり約束を忘れていた。",
+              "zh": "完全忘了約定。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 21,
+            "jlptLevel": "N4",
+            "word": "ずっと",
+            "reading": "ずっと",
+            "meaning": "一直、始終、得多",
+            "example": {
+              "jp": "昨日はずっと家にいた。",
+              "zh": "昨天整天都待在家裡。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 22,
+            "jlptLevel": "N4",
+            "word": "全然",
+            "reading": "ぜんぜん",
+            "meaning": "完全（後接否定）",
+            "example": {
+              "jp": "意味が全然分からない。",
+              "zh": "意思完全不明白。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 23,
+            "jlptLevel": "N4",
+            "word": "全部",
+            "reading": "ぜんぶ",
+            "meaning": "全部、所有",
+            "example": {
+              "jp": "料理を全部食べる。",
+              "zh": "吃光全部的料理。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 24,
+            "jlptLevel": "N4",
+            "word": "それほど",
+            "reading": "それほど",
+            "meaning": "那麼、那樣",
+            "example": {
+              "jp": "それほど難しくない。",
+              "zh": "沒那麼難。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 25,
+            "jlptLevel": "N4",
+            "word": "そろそろ",
+            "reading": "そろそろ",
+            "meaning": "就要、快要",
+            "example": {
+              "jp": "そろそろ出かけよう。",
+              "zh": "差不多要出發了。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 26,
+            "jlptLevel": "N4",
+            "word": "そんなに",
+            "reading": "そんなに",
+            "meaning": "那麼、那樣地",
+            "example": {
+              "jp": "そんなに心配しなくてもいい。",
+              "zh": "不用那麼擔心。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 27,
+            "jlptLevel": "N4",
+            "word": "大体",
+            "reading": "だいたい",
+            "meaning": "大致、大概",
+            "example": {
+              "jp": "説明は大体分かりました。",
+              "zh": "大致上明白說明了。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 28,
+            "jlptLevel": "N4",
+            "word": "大抵",
+            "reading": "たいてい",
+            "meaning": "大部分、大多數",
+            "example": {
+              "jp": "休日は大抵家で過ごす。",
+              "zh": "假日大多在家裡度過。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 29,
+            "jlptLevel": "N4",
+            "word": "だいぶ",
+            "reading": "だいぶ",
+            "meaning": "很、非常、相當",
+            "example": {
+              "jp": "今日はだいぶ寒い。",
+              "zh": "今天很冷。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 30,
+            "jlptLevel": "N4",
+            "word": "確か",
+            "reading": "たしか",
+            "meaning": "確實、的確",
+            "example": {
+              "jp": "確か今日は会議をしているはずだ。",
+              "zh": "今天應該正在開會。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 31,
+            "jlptLevel": "N4",
+            "word": "ただいま",
+            "reading": "ただいま",
+            "meaning": "我回來了（剛才、目前）= すぐに、もうすぐ",
+            "example": {
+              "jp": "ただいま参(まい)ります。",
+              "zh": "我馬上到。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 32,
+            "jlptLevel": "N4",
+            "word": "例えば",
+            "reading": "たとえば",
+            "meaning": "例如",
+            "example": {
+              "jp": "私は冬のスポーツ、例えばスキーが好きです。",
+              "zh": "我喜歡冬天的運動，例如滑雪。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 33,
+            "jlptLevel": "N4",
+            "word": "多分",
+            "reading": "たぶん",
+            "meaning": "應該、也許",
+            "example": {
+              "jp": "多分行けると思う。",
+              "zh": "也許可以去。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 34,
+            "jlptLevel": "N4",
+            "word": "たまに",
+            "reading": "たまに",
+            "meaning": "偶爾",
+            "example": {
+              "jp": "たまに映画を見る。",
+              "zh": "我偶爾會看電影。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 35,
+            "jlptLevel": "N4",
+            "word": "ちっとも",
+            "reading": "ちっとも",
+            "meaning": "一點也（後接否定）",
+            "example": {
+              "jp": "この本はちっともおもしろくない。",
+              "zh": "這本書一點也不好看。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 36,
+            "jlptLevel": "N4",
+            "word": "ちょうど",
+            "reading": "ちょうど",
+            "meaning": "正好、剛好",
+            "example": {
+              "jp": "ちょうど約束の時間に着く。",
+              "zh": "剛好在約定時間到。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 37,
+            "jlptLevel": "N4",
+            "word": "できるだけ",
+            "reading": "できるだけ",
+            "meaning": "儘量、盡可能",
+            "example": {
+              "jp": "できるだけ早く返事をください。",
+              "zh": "請盡可能早點回覆。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 38,
+            "jlptLevel": "N4",
+            "word": "とうとう",
+            "reading": "とうとう",
+            "meaning": "終於、到最後",
+            "example": {
+              "jp": "彼はとうとう来なかった。",
+              "zh": "他終究沒來。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 39,
+            "jlptLevel": "N4",
+            "word": "特に",
+            "reading": "とくに",
+            "meaning": "特別",
+            "example": {
+              "jp": "特に問題はなかった。",
+              "zh": "沒什麼特別的問題。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 40,
+            "jlptLevel": "N4",
+            "word": "どんどん",
+            "reading": "どんどん",
+            "meaning": "迅速、連續地",
+            "example": {
+              "jp": "工事がどんどん進める。",
+              "zh": "施工順利推進。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 41,
+            "jlptLevel": "N4",
+            "word": "どんなに",
+            "reading": "どんなに",
+            "meaning": "多麼地、如何地",
+            "example": {
+              "jp": "どんなに遅くても3時まではくる。",
+              "zh": "不管多晚，三點前一定會來。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 42,
+            "jlptLevel": "N4",
+            "word": "なかなか",
+            "reading": "なかなか",
+            "meaning": "相當、怎麼也不（後接否定）",
+            "example": {
+              "jp": "この本はなかなかおもしろい。/ タクシーがなかなかつかまらない。",
+              "zh": "這本書相當有趣/怎麼也招不到計程車。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 43,
+            "jlptLevel": "N4",
+            "word": "なるべく",
+            "reading": "なるべく",
+            "meaning": "儘可能、盡量",
+            "example": {
+              "jp": "なるべく出席してください。",
+              "zh": "請儘可能出席。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 44,
+            "jlptLevel": "N4",
+            "word": "なるほど",
+            "reading": "なるほど",
+            "meaning": "的確、的確如此",
+            "example": {
+              "jp": "なるほどこの本はおもしろい。",
+              "zh": "這本書的確很有趣。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 45,
+            "jlptLevel": "N4",
+            "word": "はじめて",
+            "reading": "はじめて",
+            "meaning": "初次",
+            "example": {
+              "jp": "はじめてお目にかかります。",
+              "zh": "初次見面。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 46,
+            "jlptLevel": "N4",
+            "word": "はじめに",
+            "reading": "はじめに",
+            "meaning": "首先、首先是",
+            "example": {
+              "jp": "はじめに私から報告いたします。",
+              "zh": "首先由我來報告。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 47,
+            "jlptLevel": "N4",
+            "word": "はっきり",
+            "reading": "はっきり",
+            "meaning": "明確、清楚",
+            "example": {
+              "jp": "はっきりと見える。",
+              "zh": "可以看得很清楚。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 48,
+            "jlptLevel": "N4",
+            "word": "非常に",
+            "reading": "ひじょうに",
+            "meaning": "非常、很",
+            "example": {
+              "jp": "非常に悲しい。",
+              "zh": "非常難過。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 49,
+            "jlptLevel": "N4",
+            "word": "びっくり",
+            "reading": "びっくり",
+            "meaning": "吃驚、嚇一跳",
+            "example": {
+              "jp": "値段を聞いてびっくりする。",
+              "zh": "聽到價格嚇了一跳。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 50,
+            "jlptLevel": "N4",
+            "word": "ぺらぺら",
+            "reading": "ぺらぺら",
+            "meaning": "流利地、滔滔不絕",
+            "example": {
+              "jp": "人の秘密をぺらぺら話す。",
+              "zh": "滔滔不絕地說出他人的祕密。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 52,
+            "jlptLevel": "N4",
+            "word": "ほとんど",
+            "reading": "ほとんど",
+            "meaning": "幾乎",
+            "example": {
+              "jp": "ほとんど終わりました。",
+              "zh": "幾乎都結束了。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 53,
+            "jlptLevel": "N4",
+            "word": "まず",
+            "reading": "まず",
+            "meaning": "首先",
+            "example": {
+              "jp": "まずお茶でも飲んでください。",
+              "zh": "請先喝杯茶吧。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 54,
+            "jlptLevel": "N4",
+            "word": "もう",
+            "reading": "もう",
+            "meaning": "已經",
+            "example": {
+              "jp": "会議はもう終わりました。",
+              "zh": "會議已經結束了。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 55,
+            "jlptLevel": "N4",
+            "word": "もうすぐ",
+            "reading": "もうすぐ",
+            "meaning": "馬上、不久",
+            "example": {
+              "jp": "もうすぐ来るでしょう。",
+              "zh": "馬上就會來了吧。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 56,
+            "jlptLevel": "N4",
+            "word": "もし",
+            "reading": "もし",
+            "meaning": "如果",
+            "example": {
+              "jp": "もし明日雨が降ったら中止になります。",
+              "zh": "如果明天下雨的話就會取消。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 57,
+            "jlptLevel": "N4",
+            "word": "もちろん",
+            "reading": "もちろん",
+            "meaning": "當然",
+            "example": {
+              "jp": "もちろん出席します。",
+              "zh": "我當然會出席。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 58,
+            "jlptLevel": "N4",
+            "word": "やっと",
+            "reading": "やっと",
+            "meaning": "終於",
+            "example": {
+              "jp": "やっと成功した。",
+              "zh": "終於成功了。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 59,
+            "jlptLevel": "N4",
+            "word": "やはり",
+            "reading": "やはり",
+            "meaning": "果然、還是",
+            "example": {
+              "jp": "彼はやはり来なかった。",
+              "zh": "他果然沒來。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 60,
+            "jlptLevel": "N4",
+            "word": "よく",
+            "reading": "よく",
+            "meaning": "常常、很～",
+            "example": {
+              "jp": "よく映画を見に行く。/星がよく見える。",
+              "zh": "常去看電影。/星星可以看得很清楚。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 61,
+            "jlptLevel": "N4",
+            "word": "わざわざ",
+            "reading": "わざわざ",
+            "meaning": "特意、特地",
+            "example": {
+              "jp": "わざわざ行かなくてもいい。",
+              "zh": "不需要特地去。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 62,
+            "jlptLevel": "N4",
+            "word": "おや",
+            "reading": "おや",
+            "meaning": "咦（表示驚訝）",
+            "example": {
+              "jp": "おや、まだ帰らなかったの？",
+              "zh": "咦，你還沒回去啊？"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 63,
+            "jlptLevel": "N4",
+            "word": "けれども",
+            "reading": "けれども",
+            "meaning": "但是、然而",
+            "example": {
+              "jp": "安い。けれども、品質はよくない。",
+              "zh": "雖然便宜，但品質不好。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 64,
+            "jlptLevel": "N4",
+            "word": "しかし",
+            "reading": "しかし",
+            "meaning": "可是",
+            "example": {
+              "jp": "天気は悪い。しかし、出かける。",
+              "zh": "天氣不好，但還是出門了。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 65,
+            "jlptLevel": "N4",
+            "word": "すると",
+            "reading": "すると",
+            "meaning": "於是、這麼一來",
+            "example": {
+              "jp": "ドアをノックした。すると誰か出てきた。",
+              "zh": "敲了門，結果有人出來了。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 66,
+            "jlptLevel": "N4",
+            "word": "そして",
+            "reading": "そして",
+            "meaning": "而且、然後",
+            "example": {
+              "jp": "中学校を卒業した。そして、高校へ入学した。",
+              "zh": "國中畢業了，然後升上高中。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 67,
+            "jlptLevel": "N4",
+            "word": "それから",
+            "reading": "それから",
+            "meaning": "然後、之後",
+            "example": {
+              "jp": "顔を洗って、それからご飯を食べる。",
+              "zh": "洗完臉，然後吃飯。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 68,
+            "jlptLevel": "N4",
+            "word": "それで",
+            "reading": "それで",
+            "meaning": "因此、所以",
+            "example": {
+              "jp": "昨日は天気が悪かった。それで出かけなかった。",
+              "zh": "昨天天氣不好，所以沒有出門。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 69,
+            "jlptLevel": "N4",
+            "word": "それでは",
+            "reading": "それでは",
+            "meaning": "那麼",
+            "example": {
+              "jp": "それでは始めましょう。",
+              "zh": "那我們開始吧。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 70,
+            "jlptLevel": "N4",
+            "word": "それに",
+            "reading": "それに",
+            "meaning": "而且",
+            "example": {
+              "jp": "この仕事は楽だ。それに給料もいい。",
+              "zh": "這個工作很輕鬆，而且薪水也不錯。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },{
+            "id": 71,
+            "jlptLevel": "N4",
+            "word": "だから",
+            "reading": "だから",
+            "meaning": "因為、所以",
+            "example": {
+              "jp": "もう時間がない。だから急がなければならない。",
+              "zh": "沒時間了，所以必須要快點。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 72,
+            "jlptLevel": "N4",
+            "word": "または",
+            "reading": "または",
+            "meaning": "或者",
+            "example": {
+              "jp": "電話またはメールで知らせます。",
+              "zh": "用電話或電子郵件通知。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 73,
+            "jlptLevel": "N4",
+            "word": "など",
+            "reading": "など",
+            "meaning": "等等（列舉）",
+            "example": {
+              "jp": "休みの日は、掃除や洗濯などをします。",
+              "zh": "假日會打掃或洗衣服等等。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          },
+          {
+            "id": 74,
+            "jlptLevel": "N4",
+            "word": "ばかり",
+            "reading": "ばかり",
+            "meaning": "只、總是",
+            "example": {
+              "jp": "いつも怒ってばかりいる。",
+              "zh": "老是在生氣。"
+            },
+            "reviewHistory": [],
+            "level": 1
+          }
+      ]
+      
+}
