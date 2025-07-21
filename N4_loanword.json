@@ -1,0 +1,1176 @@
+{
+    "category": "外來語",
+    "total": 90,
+    "words": [
+      {
+        "id": 1,
+        "jlptLevel": "N4",
+        "word": "アイディア",
+        "reading": "idea",
+        "meaning": "主意、想法",
+        "example": {
+          "jp": "いいアイディアを出す。",
+          "zh": "提出好主意。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 2,
+        "jlptLevel": "N4",
+        "word": "アイロン",
+        "reading": "iron",
+        "meaning": "熨斗",
+        "example": {
+          "jp": "アイロンをかける。",
+          "zh": "燙熨衣物。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 3,
+        "jlptLevel": "N4",
+        "word": "アクセサリー",
+        "reading": "accessory",
+        "meaning": "飾品",
+        "example": {
+          "jp": "アクセサリーをつける。",
+          "zh": "戴飾品。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 4,
+        "jlptLevel": "N4",
+        "word": "アジア",
+        "reading": "Asia",
+        "meaning": "亞洲",
+        "example": {
+          "jp": "アジアには多くの国がある。",
+          "zh": "亞洲有很多國家。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 5,
+        "jlptLevel": "N4",
+        "word": "アナウンサー",
+        "reading": "announcer",
+        "meaning": "廣播員",
+        "example": {
+          "jp": "アナウンサーがニュースを読む。",
+          "zh": "廣播員播報新聞。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 6,
+        "jlptLevel": "N4",
+        "word": "アニメ",
+        "reading": "anime",
+        "meaning": "卡通、動畫",
+        "example": {
+          "jp": "テレビでアニメを見る。",
+          "zh": "用電視看動畫。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 7,
+        "jlptLevel": "N4",
+        "word": "アフリカ",
+        "reading": "Africa",
+        "meaning": "非洲",
+        "example": {
+          "jp": "アフリカを旅行する。",
+          "zh": "在非洲旅行。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 8,
+        "jlptLevel": "N4",
+        "word": "アメリカ",
+        "reading": "America",
+        "meaning": "美國",
+        "example": {
+          "jp": "アメリカに留学に行く。",
+          "zh": "去美國留學。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 9,
+        "jlptLevel": "N4",
+        "word": "アルコール",
+        "reading": "alcohol",
+        "meaning": "酒精",
+        "example": {
+          "jp": "この飲み物にはアルコールが入っている。",
+          "zh": "這種飲料有酒精成分。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 10,
+        "jlptLevel": "N4",
+        "word": "アルバイト",
+        "reading": "Arbeit",
+        "meaning": "打工",
+        "example": {
+          "jp": "本屋でアルバイトをする。",
+          "zh": "在書店打工。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 11,
+        "jlptLevel": "N4",
+        "word": "イヤリング",
+        "reading": "earring",
+        "meaning": "耳環",
+        "example": {
+          "jp": "イヤリングをつける。",
+          "zh": "戴耳環。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 12,
+        "jlptLevel": "N4",
+        "word": "エアコン",
+        "reading": "air conditioner",
+        "meaning": "冷氣",
+        "example": {
+          "jp": "エアコンが壊れている。",
+          "zh": "冷氣壞掉了。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 13,
+        "jlptLevel": "N4",
+        "word": "エスカレーター",
+        "reading": "escalator",
+        "meaning": "電扶梯",
+        "example": {
+          "jp": "4階まではエスカレーターで上がる。",
+          "zh": "到四樓搭電扶梯上樓。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 14,
+        "jlptLevel": "N4",
+        "word": "オートバイ",
+        "reading": "autobike",
+        "meaning": "機車",
+        "example": {
+          "jp": "オートバイに乗って走る。",
+          "zh": "騎機車奔馳。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 15,
+        "jlptLevel": "N4",
+        "word": "カーテン",
+        "reading": "curtain",
+        "meaning": "窗簾",
+        "example": {
+          "jp": "部屋のカーテンを閉める。",
+          "zh": "把房間的窗簾拉上。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 16,
+        "jlptLevel": "N4",
+        "word": "ガス",
+        "reading": "gas",
+        "meaning": "瓦斯",
+        "example": {
+          "jp": "ガスの火を強くする。",
+          "zh": "把火調大一點。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 17,
+        "jlptLevel": "N4",
+        "word": "ガソリン",
+        "reading": "gasoline",
+        "meaning": "汽油",
+        "example": {
+          "jp": "ガソリンの値段が上がる。",
+          "zh": "汽油價格上漲。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 18,
+        "jlptLevel": "N4",
+        "word": "ガソリンスタンド",
+        "reading": "gasoline stand",
+        "meaning": "加油站",
+        "example": {
+          "jp": "近くのガソリンスタンドを探す。",
+          "zh": "尋找附近的加油站。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 19,
+        "jlptLevel": "N4",
+        "word": "ガラス",
+        "reading": "glass",
+        "meaning": "玻璃",
+        "example": {
+          "jp": "ガラスは割れやすい。",
+          "zh": "玻璃很容易破。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 20,
+        "jlptLevel": "N4",
+        "word": "カレー",
+        "reading": "curry",
+        "meaning": "咖哩",
+        "example": {
+          "jp": "昼食はカレーにする。",
+          "zh": "中餐要吃咖哩。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 21,
+        "jlptLevel": "N4",
+        "word": "キッチン",
+        "reading": "kitchen",
+        "meaning": "廚房",
+        "example": {
+          "jp": "キッチンで料理をする。",
+          "zh": "在廚房煮飯。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 22,
+        "jlptLevel": "N4",
+        "word": "キログラム",
+        "reading": "kilogram",
+        "meaning": "公斤",
+        "example": {
+          "jp": "体重が5キログラムも増えてしまった。",
+          "zh": "體重增加了五公斤。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 23,
+        "jlptLevel": "N4",
+        "word": "キロメートル",
+        "reading": "kilometer",
+        "meaning": "公里",
+        "example": {
+          "jp": "時速100キロメートルで走る。",
+          "zh": "以時速100公里奔馳。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 24,
+        "jlptLevel": "N4",
+        "word": "ケーキ",
+        "reading": "cake",
+        "meaning": "蛋糕",
+        "example": {
+          "jp": "ケーキを半分に切る。",
+          "zh": "把蛋糕切一半。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 25,
+        "jlptLevel": "N4",
+        "word": "ゲーム",
+        "reading": "game",
+        "meaning": "遊戲",
+        "example": {
+          "jp": "毎日ゲームばかりしている。",
+          "zh": "每天只顧著玩遊戲。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 26,
+        "jlptLevel": "N4",
+        "word": "コート",
+        "reading": "coat",
+        "meaning": "大衣",
+        "example": {
+          "jp": "コートを着る。",
+          "zh": "穿大衣。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 27,
+        "jlptLevel": "N4",
+        "word": "コンサート",
+        "reading": "concert",
+        "meaning": "演唱會",
+        "example": {
+          "jp": "市民ホールでコンサートが開かれた。",
+          "zh": "市民會館舉行了音樂會。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 28,
+        "jlptLevel": "N4",
+        "word": "コンピューター",
+        "reading": "computer",
+        "meaning": "電腦",
+        "example": {
+          "jp": "コンピューターを使ってメールを送る。",
+          "zh": "用電腦寄信。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 29,
+        "jlptLevel": "N4",
+        "word": "サイン",
+        "reading": "sign",
+        "meaning": "簽名",
+        "example": {
+          "jp": "作家にサインをもらう。",
+          "zh": "請作家簽名。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 30,
+        "jlptLevel": "N4",
+        "word": "サラダ",
+        "reading": "salad",
+        "meaning": "沙拉",
+        "example": {
+          "jp": "野菜サラダを食べる。",
+          "zh": "吃生菜沙拉。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 31,
+        "jlptLevel": "N4",
+        "word": "サンダル",
+        "reading": "sandal",
+        "meaning": "涼鞋",
+        "example": {
+          "jp": "海はやはりサンダルがいい。",
+          "zh": "去海邊還是穿涼鞋好。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 32,
+        "jlptLevel": "N4",
+        "word": "サンドイッチ",
+        "reading": "sandwich",
+        "meaning": "三明治",
+        "example": {
+          "jp": "ハムと野菜の入ったサンドイッチを食べた。",
+          "zh": "吃了有火腿和蔬菜的三明治。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 33,
+        "jlptLevel": "N4",
+        "word": "ジャム",
+        "reading": "jam",
+        "meaning": "果醬",
+        "example": {
+          "jp": "イチゴジャムを塗って食べる。",
+          "zh": "塗上草莓果醬吃。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 34,
+        "jlptLevel": "N4",
+        "word": "ジュース",
+        "reading": "juice",
+        "meaning": "果汁",
+        "example": {
+          "jp": "オレンジジュースを飲む。",
+          "zh": "喝柳橙汁。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 35,
+        "jlptLevel": "N4",
+        "word": "スーツ",
+        "reading": "suit",
+        "meaning": "西裝",
+        "example": {
+          "jp": "黒いスーツを着る。",
+          "zh": "穿黑色西裝。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 36,
+        "jlptLevel": "N4",
+        "word": "スーツケース",
+        "reading": "suitcase",
+        "meaning": "皮箱",
+        "example": {
+          "jp": "スーツケースを持ち歩く。",
+          "zh": "提著皮箱走來走去。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 37,
+        "jlptLevel": "N4",
+        "word": "スーパー",
+        "reading": "supermarket",
+        "meaning": "超市",
+        "example": {
+          "jp": "スーパーに買い物に行く。",
+          "zh": "去超市購物。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 38,
+        "jlptLevel": "N4",
+        "word": "スクリーン",
+        "reading": "screen",
+        "meaning": "螢幕、銀幕",
+        "example": {
+          "jp": "映画をスクリーンに映す。",
+          "zh": "把電影放映在螢幕上。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 39,
+        "jlptLevel": "N4",
+        "word": "ステーキ",
+        "reading": "steak",
+        "meaning": "牛排",
+        "example": {
+          "jp": "ステーキを焼く。",
+          "zh": "煎牛排。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 40,
+        "jlptLevel": "N4",
+        "word": "ステレオ",
+        "reading": "stereo",
+        "meaning": "立體音響",
+        "example": {
+          "jp": "このステレオは音がいい。",
+          "zh": "這台音響音質很好。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 41,
+        "jlptLevel": "N4",
+        "word": "スピーカー",
+        "reading": "speaker",
+        "meaning": "喇叭",
+        "example": {
+          "jp": "スピーカーで音を出す。",
+          "zh": "用喇叭播放聲音。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 42,
+        "jlptLevel": "N4",
+        "word": "スピーチ",
+        "reading": "speech",
+        "meaning": "演講",
+        "example": {
+          "jp": "みんなの前でスピーチをする。",
+          "zh": "在大家面前演講。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 43,
+        "jlptLevel": "N4",
+        "word": "スピード",
+        "reading": "speed",
+        "meaning": "速度",
+        "example": {
+          "jp": "スピードを上げる。",
+          "zh": "加快速度。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 44,
+        "jlptLevel": "N4",
+        "word": "スリッパ",
+        "reading": "slipper",
+        "meaning": "拖鞋",
+        "example": {
+          "jp": "室内でスリッパをはく。",
+          "zh": "在室內穿拖鞋。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 45,
+        "jlptLevel": "N4",
+        "word": "セット",
+        "reading": "set",
+        "meaning": "組、套、套餐",
+        "example": {
+          "jp": "コーヒーセットをプレゼントする。",
+          "zh": "贈送咖啡組合。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 46,
+        "jlptLevel": "N4",
+        "word": "ソフト",
+        "reading": "soft",
+        "meaning": "柔軟",
+        "example": {
+          "jp": "ソフトに言う。",
+          "zh": "婉轉地說。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 47,
+        "jlptLevel": "N4",
+        "word": "タイプ",
+        "reading": "type",
+        "meaning": "類型、型式",
+        "example": {
+          "jp": "新しいタイプの車を作る。",
+          "zh": "製造新型的汽車。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 48,
+        "jlptLevel": "N4",
+        "word": "ダンス",
+        "reading": "dance",
+        "meaning": "跳舞",
+        "example": {
+          "jp": "ダンスパーティーを開く。",
+          "zh": "舉辦舞會。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 49,
+        "jlptLevel": "N4",
+        "word": "チェック",
+        "reading": "check",
+        "meaning": "確認",
+        "example": {
+          "jp": "明日のスケジュールをチェックする。",
+          "zh": "確認明天的行程。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 50,
+        "jlptLevel": "N4",
+        "word": "チケット",
+        "reading": "ticket",
+        "meaning": "票、門票",
+        "example": {
+          "jp": "コンサートのチケットを買う。",
+          "zh": "買音樂會門票。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 51,
+        "jlptLevel": "N4",
+        "word": "テキスト",
+        "reading": "text",
+        "meaning": "教科書、教材",
+        "example": {
+          "jp": "このテキストから試験の問題が出ます。",
+          "zh": "考試題目會從這本教材出。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 52,
+        "jlptLevel": "N4",
+        "word": "テニス",
+        "reading": "tennis",
+        "meaning": "網球",
+        "example": {
+          "jp": "友だちとテニスをした。",
+          "zh": "和朋友打網球。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 53,
+        "jlptLevel": "N4",
+        "word": "トラック",
+        "reading": "truck",
+        "meaning": "卡車",
+        "example": {
+          "jp": "トラックで荷物を運ぶ。",
+          "zh": "用卡車搬運貨物。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 54,
+        "jlptLevel": "N4",
+        "word": "ドラマ",
+        "reading": "drama",
+        "meaning": "連續劇",
+        "example": {
+          "jp": "朝のテレビドラマを見る。",
+          "zh": "看早上的電視劇。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 55,
+        "jlptLevel": "N4",
+        "word": "ドレス",
+        "reading": "dress",
+        "meaning": "洋裝、禮服",
+        "example": {
+          "jp": "長いドレスを着る。",
+          "zh": "穿上長禮服。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 56,
+        "jlptLevel": "N4",
+        "word": "ニュース",
+        "reading": "news",
+        "meaning": "新聞",
+        "example": {
+          "jp": "地震のニュースを見る。",
+          "zh": "看地震的新聞。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 57,
+        "jlptLevel": "N4",
+        "word": "パーティー",
+        "reading": "party",
+        "meaning": "宴會、酒會",
+        "example": {
+          "jp": "パーティーを開く。",
+          "zh": "舉辦宴會。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 58,
+        "jlptLevel": "N4",
+        "word": "パートタイム",
+        "reading": "part-time",
+        "meaning": "打工、兼職",
+        "example": {
+          "jp": "パートタイムで働く。",
+          "zh": "以兼職方式工作。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 59,
+        "jlptLevel": "N4",
+        "word": "バケツ",
+        "reading": "bucket",
+        "meaning": "水桶",
+        "example": {
+          "jp": "バケツに水を入れる。",
+          "zh": "把水裝進水桶裡。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 60,
+        "jlptLevel": "N4",
+        "word": "パソコン",
+        "reading": "personal computer",
+        "meaning": "個人電腦",
+        "example": {
+          "jp": "パソコンが壊れたので新しいのを買った。",
+          "zh": "電腦壞了所以買了新的。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 61,
+        "jlptLevel": "N4",
+        "word": "バター",
+        "reading": "butter",
+        "meaning": "奶油",
+        "example": {
+          "jp": "パンにバターをつける。",
+          "zh": "在麵包上塗奶油。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 62,
+        "jlptLevel": "N4",
+        "word": "ハンバーグ",
+        "reading": "hamburg",
+        "meaning": "漢堡排",
+        "example": {
+          "jp": "牛肉でハンバーグステーキを作る。",
+          "zh": "用牛肉做漢堡排。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 63,
+        "jlptLevel": "N4",
+        "word": "ピアノ",
+        "reading": "piano",
+        "meaning": "鋼琴",
+        "example": {
+          "jp": "ピアノを練習する。",
+          "zh": "練習鋼琴。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 64,
+        "jlptLevel": "N4",
+        "word": "ビール",
+        "reading": "beer",
+        "meaning": "啤酒",
+        "example": {
+          "jp": "ビールを飲む。",
+          "zh": "喝啤酒。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 65,
+        "jlptLevel": "N4",
+        "word": "ピクニック",
+        "reading": "picnic",
+        "meaning": "郊遊",
+        "example": {
+          "jp": "ピクニックに出かける。",
+          "zh": "去郊遊。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 66,
+        "jlptLevel": "N4",
+        "word": "ピンク",
+        "reading": "pink",
+        "meaning": "粉紅色",
+        "example": {
+          "jp": "ピンク色のブラウスを着る。",
+          "zh": "穿粉紅色的襯衫。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 67,
+        "jlptLevel": "N4",
+        "word": "フィルム",
+        "reading": "film",
+        "meaning": "底片",
+        "example": {
+          "jp": "フィルムを一本買う。",
+          "zh": "買一捲底片。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 68,
+        "jlptLevel": "N4",
+        "word": "プール",
+        "reading": "pool",
+        "meaning": "游泳池",
+        "example": {
+          "jp": "プールで泳ぐ。",
+          "zh": "在游泳池游泳。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 69,
+        "jlptLevel": "N4",
+        "word": "フォーク",
+        "reading": "fork",
+        "meaning": "叉子",
+        "example": {
+          "jp": "ナイフとフォークを使って食事をする。",
+          "zh": "用刀叉吃飯。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 70,
+        "jlptLevel": "N4",
+        "word": "プリント",
+        "reading": "print",
+        "meaning": "講義印刷品、印刷物",
+        "example": {
+          "jp": "プリントを渡す。",
+          "zh": "發講義印刷品。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 71,
+        "jlptLevel": "N4",
+        "word": "プレゼント",
+        "reading": "present",
+        "meaning": "禮物",
+        "example": {
+          "jp": "誕生日のプレゼントをあげる。",
+          "zh": "送生日禮物。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 72,
+        "jlptLevel": "N4",
+        "word": "ページ",
+        "reading": "page",
+        "meaning": "頁",
+        "example": {
+          "jp": "テキストの35ページを開いてください。",
+          "zh": "請翻開課本第35頁。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 73,
+        "jlptLevel": "N4",
+        "word": "ベッド",
+        "reading": "bed",
+        "meaning": "床",
+        "example": {
+          "jp": "ベッドに入る。",
+          "zh": "上床睡覺。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 74,
+        "jlptLevel": "N4",
+        "word": "ペット",
+        "reading": "pet",
+        "meaning": "寵物",
+        "example": {
+          "jp": "ペットを飼う。",
+          "zh": "飼養寵物。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 75,
+        "jlptLevel": "N4",
+        "word": "ベル",
+        "reading": "bell",
+        "meaning": "鈴、門鈴",
+        "example": {
+          "jp": "電話のベルが鳴る。",
+          "zh": "電話鈴響了。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 76,
+        "jlptLevel": "N4",
+        "word": "ボート",
+        "reading": "boat",
+        "meaning": "小船、划艇",
+        "example": {
+          "jp": "三人でボートに乗る。",
+          "zh": "三人一起搭船。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 77,
+        "jlptLevel": "N4",
+        "word": "ボール",
+        "reading": "ball",
+        "meaning": "球",
+        "example": {
+          "jp": "ボールを投げる。",
+          "zh": "投球。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 78,
+        "jlptLevel": "N4",
+        "word": "ポスト",
+        "reading": "post",
+        "meaning": "郵筒、信箱",
+        "example": {
+          "jp": "ポストに手紙を入れる。",
+          "zh": "把信投入郵筒。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 79,
+        "jlptLevel": "N4",
+        "word": "マスク",
+        "reading": "mask",
+        "meaning": "面具、口罩",
+        "example": {
+          "jp": "マスクをかける。",
+          "zh": "戴口罩。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 80,
+        "jlptLevel": "N4",
+        "word": "マッチ",
+        "reading": "match",
+        "meaning": "火柴",
+        "example": {
+          "jp": "マッチで火をつける。",
+          "zh": "用火柴點火。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 81,
+        "jlptLevel": "N4",
+        "word": "メートル",
+        "reading": "meter",
+        "meaning": "公尺",
+        "example": {
+          "jp": "家の前に高さ10メートルぐらいの木がある。",
+          "zh": "我們家門前有一棵約10公尺高的樹。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 82,
+        "jlptLevel": "N4",
+        "word": "メロン",
+        "reading": "melon",
+        "meaning": "哈密瓜",
+        "example": {
+          "jp": "このメロンはとても甘い。",
+          "zh": "這顆哈密瓜非常甜。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 83,
+        "jlptLevel": "N4",
+        "word": "ラジカセ",
+        "reading": "radio cassette",
+        "meaning": "收錄音機",
+        "example": {
+          "jp": "電気屋でラジカセを買った。",
+          "zh": "在電器店買了收錄音機。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 84,
+        "jlptLevel": "N4",
+        "word": "レコード",
+        "reading": "record",
+        "meaning": "唱片",
+        "example": {
+          "jp": "レコードをかけて音楽を楽しむ。",
+          "zh": "放唱片聽音樂。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 85,
+        "jlptLevel": "N4",
+        "word": "レジ",
+        "reading": "register",
+        "meaning": "收銀台、收銀機",
+        "example": {
+          "jp": "レジでお金を払う。",
+          "zh": "在收銀台付款。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 86,
+        "jlptLevel": "N4",
+        "word": "レベル",
+        "reading": "level",
+        "meaning": "水準、程度",
+        "example": {
+          "jp": "生活のレベルが高い。",
+          "zh": "生活水準高。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 87,
+        "jlptLevel": "N4",
+        "word": "レポート",
+        "reading": "report",
+        "meaning": "報告",
+        "example": {
+          "jp": "レポートを書く。",
+          "zh": "寫報告。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 88,
+        "jlptLevel": "N4",
+        "word": "ワープロ",
+        "reading": "word processor",
+        "meaning": "文字處理機",
+        "example": {
+          "jp": "ワープロで文書を作る。",
+          "zh": "用文字處理機寫文書。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 89,
+        "jlptLevel": "N4",
+        "word": "ワイシャツ",
+        "reading": "white shirt",
+        "meaning": "白襯衫",
+        "example": {
+          "jp": "ワイシャツを洗う。",
+          "zh": "洗白襯衫。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      },
+      {
+        "id": 90,
+        "jlptLevel": "N4",
+        "word": "ワンピース",
+        "reading": "one-piece",
+        "meaning": "連身裙",
+        "example": {
+          "jp": "姉にワンピースを買ってあげた。",
+          "zh": "買連身裙送給姊姊。"
+        },
+        "reviewHistory": [],
+        "level": 1
+      }
+    ]
+  }

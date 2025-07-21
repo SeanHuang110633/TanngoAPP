@@ -1,272 +1,318 @@
 {
-    "category": "副詞",
-    "total": 24,
-    "words": [
-        {
-          "id": 1,
-          "jlptLevel": "N5",
-          "word": "あまり",
-          "reading": "あまり",
-          "meaning": "不太～（接否定）",
-          "example": {
-            "jp": "甘いものはあまり好きではない。",
-            "zh": "我不太愛吃甜食。"
-          }
-        },
-        {
-          "id": 2,
-          "jlptLevel": "N5",
-          "word": "一番",
-          "reading": "いちばん",
-          "meaning": "最～、第一",
-          "example": {
-            "jp": "りんごが一番好きです。",
-            "zh": "我最喜歡蘋果。"
-          }
-        },
-        {
-          "id": 3,
-          "jlptLevel": "N5",
-          "word": "いっしょに",
-          "reading": "いっしょに",
-          "meaning": "一起",
-          "example": {
-            "jp": "母といっしょに出かける。",
-            "zh": "和媽媽一起出門。"
-          }
-        },
-        {
-          "id": 4,
-          "jlptLevel": "N5",
-          "word": "いつも",
-          "reading": "いつも",
-          "meaning": "經常、總是",
-          "example": {
-            "jp": "いつも歩いて学校に行く。",
-            "zh": "我經常走路去學校。"
-          }
-        },
-        {
-          "id": 5,
-          "jlptLevel": "N5",
-          "word": "おおぜい",
-          "reading": "おおぜい",
-          "meaning": "一群人、大批的人",
-          "example": {
-            "jp": "人が おおぜい 集まる。",
-            "zh": "一群人聚集在一起。"
-          }
-        },
-        {
-          "id": 6,
-          "jlptLevel": "N5",
-          "word": "すぐ",
-          "reading": "すぐ",
-          "meaning": "馬上",
-          "example": {
-            "jp": "もうすぐ冬になる。",
-            "zh": "馬上要變冬天了。"
-          }
-        },
-        {
-          "id": 7,
-          "jlptLevel": "N5",
-          "word": "少し",
-          "reading": "すこし",
-          "meaning": "一點點、少量",
-          "example": {
-            "jp": "お酒を少し飲む。",
-            "zh": "喝一點點酒。"
-          }
-        },
-        {
-          "id": 8,
-          "jlptLevel": "N5",
-          "word": "たいへん",
-          "reading": "たいへん",
-          "meaning": "非常、很",
-          "example": {
-            "jp": "たいへん おもしろい。",
-            "zh": "非常有趣。"
-          }
-        },
-        {
-          "id": 9,
-          "jlptLevel": "N5",
-          "word": "たくさん",
-          "reading": "たくさん",
-          "meaning": "很多",
-          "example": {
-            "jp": "ご飯をたくさん食べる。",
-            "zh": "吃很多飯。"
-          }
-        },
-        {
-          "id": 10,
-          "jlptLevel": "N5",
-          "word": "だんだん",
-          "reading": "だんだん",
-          "meaning": "漸漸地",
-          "example": {
-            "jp": "だんだん寒くなる。",
-            "zh": "漸漸變冷了。"
-          }
-        },
-        {
-            "id": 11,
-            "jlptLevel": "N5",
-            "word": "ちょっと",
-            "reading": "ちょっと",
-            "meaning": "稍微、一會兒",
-            "example": {
-              "jp": "ちょっと待ってください。",
-              "zh": "請稍等一下。"
-            }
-          },
-          {
-            "id": 12,
-            "jlptLevel": "N5",
-            "word": "どう",
-            "reading": "どう",
-            "meaning": "如何",
-            "example": {
-              "jp": "どうしましょうか。",
-              "zh": "要怎麼做呢？"
-            }
-          },
-          {
-            "id": 13,
-            "jlptLevel": "N5",
-            "word": "どうして",
-            "reading": "どうして",
-            "meaning": "為什麼",
-            "example": {
-              "jp": "どうして来なかったの？",
-              "zh": "為什麼沒來呢？"
-            }
-          },
-          {
-            "id": 14,
-            "jlptLevel": "N5",
-            "word": "どうぞ",
-            "reading": "どうぞ",
-            "meaning": "請",
-            "example": {
-              "jp": "どうぞよろしくお願いします。",
-              "zh": "請多指教。"
-            }
-          },
-          {
-            "id": 15,
-            "jlptLevel": "N5",
-            "word": "どうも",
-            "reading": "どうも",
-            "meaning": "非常、實在",
-            "example": {
-              "jp": "どうもすみません。",
-              "zh": "非常抱歉。"
-            }
-          },
-          {
-            "id": 16,
-            "jlptLevel": "N5",
-            "word": "時々",
-            "reading": "ときどき",
-            "meaning": "有時候",
-            "example": {
-              "jp": "時々映画を見に行く。",
-              "zh": "偶爾會去看電影。"
-            }
-          },
-          {
-            "id": 17,
-            "jlptLevel": "N5",
-            "word": "とても",
-            "reading": "とても",
-            "meaning": "非常、很",
-            "example": {
-              "jp": "今日はとても寒い。",
-              "zh": "今天很冷。"
-            }
-          },
-          {
-            "id": 18,
-            "jlptLevel": "N5",
-            "word": "なぜ",
-            "reading": "なぜ",
-            "meaning": "為什麼",
-            "example": {
-              "jp": "なぜ遅刻したの？",
-              "zh": "為什麼遲到了？"
-            }
-          },
-          {
-            "id": 19,
-            "jlptLevel": "N5",
-            "word": "また",
-            "reading": "また",
-            "meaning": "又、再",
-            "example": {
-              "jp": "あしたまた来ます。",
-              "zh": "明天再來。"
-            }
-          },
-          {
-            "id": 20,
-            "jlptLevel": "N5",
-            "word": "まだ",
-            "reading": "まだ",
-            "meaning": "尚未、還",
-            "example": {
-              "jp": "まだ雨が降っている。",
-              "zh": "還在下雨。"
-            }
-          },
-          {
-            "id": 21,
-            "jlptLevel": "N5",
-            "word": "まっすぐ",
-            "reading": "まっすぐ",
-            "meaning": "筆直、直接",
-            "example": {
-              "jp": "まっすぐ家に帰る。",
-              "zh": "直接回家。"
-            }
-          },
-          {
-            "id": 22,
-            "jlptLevel": "N5",
-            "word": "もう一度",
-            "reading": "もういちど",
-            "meaning": "再一次",
-            "example": {
-              "jp": "もう一度 言ってください。",
-              "zh": "請再說一次。"
-            }
-          },
-          {
-            "id": 23,
-            "jlptLevel": "N5",
-            "word": "もっと",
-            "reading": "もっと",
-            "meaning": "更加",
-            "example": {
-              "jp": "もっと寒くなる。",
-              "zh": "變得更冷了。"
-            }
-          },
-          {
-            "id": 24,
-            "jlptLevel": "N5",
-            "word": "ゆっくり",
-            "reading": "ゆっくり",
-            "meaning": "慢慢地",
-            "example": {
-              "jp": "ゆっくり歩く。",
-              "zh": "慢慢地走。"
-            }
-          }
-      ]
-      
-  }
-  
+  "category": "副詞",
+  "total": 24,
+  "words": [
+    {
+      "id": 1,
+      "jlptLevel": "N5",
+      "word": "あまり",
+      "reading": "あまり",
+      "meaning": "不太～（接否定）",
+      "example": {
+        "jp": "甘いものはあまり好きではない。",
+        "zh": "我不太愛吃甜食。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 2,
+      "jlptLevel": "N5",
+      "word": "一番",
+      "reading": "いちばん",
+      "meaning": "最～、第一",
+      "example": {
+        "jp": "りんごが一番好きです。",
+        "zh": "我最喜歡蘋果。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 3,
+      "jlptLevel": "N5",
+      "word": "いっしょに",
+      "reading": "いっしょに",
+      "meaning": "一起",
+      "example": {
+        "jp": "母といっしょに出かける。",
+        "zh": "和媽媽一起出門。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 4,
+      "jlptLevel": "N5",
+      "word": "いつも",
+      "reading": "いつも",
+      "meaning": "經常、總是",
+      "example": {
+        "jp": "いつも歩いて学校に行く。",
+        "zh": "我經常走路去學校。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 5,
+      "jlptLevel": "N5",
+      "word": "おおぜい",
+      "reading": "おおぜい",
+      "meaning": "一群人、大批的人",
+      "example": {
+        "jp": "人が おおぜい 集まる。",
+        "zh": "一群人聚集在一起。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 6,
+      "jlptLevel": "N5",
+      "word": "すぐ",
+      "reading": "すぐ",
+      "meaning": "馬上",
+      "example": {
+        "jp": "もうすぐ冬になる。",
+        "zh": "馬上要變冬天了。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 7,
+      "jlptLevel": "N5",
+      "word": "少し",
+      "reading": "すこし",
+      "meaning": "一點點、少量",
+      "example": {
+        "jp": "お酒を少し飲む。",
+        "zh": "喝一點點酒。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 8,
+      "jlptLevel": "N5",
+      "word": "たいへん",
+      "reading": "たいへん",
+      "meaning": "非常、很",
+      "example": {
+        "jp": "たいへん おもしろい。",
+        "zh": "非常有趣。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 9,
+      "jlptLevel": "N5",
+      "word": "たくさん",
+      "reading": "たくさん",
+      "meaning": "很多",
+      "example": {
+        "jp": "ご飯をたくさん食べる。",
+        "zh": "吃很多飯。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 10,
+      "jlptLevel": "N5",
+      "word": "だんだん",
+      "reading": "だんだん",
+      "meaning": "漸漸地",
+      "example": {
+        "jp": "だんだん寒くなる。",
+        "zh": "漸漸變冷了。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 11,
+      "jlptLevel": "N5",
+      "word": "ちょっと",
+      "reading": "ちょっと",
+      "meaning": "稍微、一會兒",
+      "example": {
+        "jp": "ちょっと待ってください。",
+        "zh": "請稍等一下。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 12,
+      "jlptLevel": "N5",
+      "word": "どう",
+      "reading": "どう",
+      "meaning": "如何",
+      "example": {
+        "jp": "どうしましょうか。",
+        "zh": "要怎麼做呢？"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 13,
+      "jlptLevel": "N5",
+      "word": "どうして",
+      "reading": "どうして",
+      "meaning": "為什麼",
+      "example": {
+        "jp": "どうして来なかったの？",
+        "zh": "為什麼沒來呢？"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 14,
+      "jlptLevel": "N5",
+      "word": "どうぞ",
+      "reading": "どうぞ",
+      "meaning": "請",
+      "example": {
+        "jp": "どうぞよろしくお願いします。",
+        "zh": "請多指教。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 15,
+      "jlptLevel": "N5",
+      "word": "どうも",
+      "reading": "どうも",
+      "meaning": "非常、實在",
+      "example": {
+        "jp": "どうもすみません。",
+        "zh": "非常抱歉。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 16,
+      "jlptLevel": "N5",
+      "word": "時々",
+      "reading": "ときどき",
+      "meaning": "有時候",
+      "example": {
+        "jp": "時々映画を見に行く。",
+        "zh": "偶爾會去看電影。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 17,
+      "jlptLevel": "N5",
+      "word": "とても",
+      "reading": "とても",
+      "meaning": "非常、很",
+      "example": {
+        "jp": "今日はとても寒い。",
+        "zh": "今天很冷。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 18,
+      "jlptLevel": "N5",
+      "word": "なぜ",
+      "reading": "なぜ",
+      "meaning": "為什麼",
+      "example": {
+        "jp": "なぜ遅刻したの？",
+        "zh": "為什麼遲到了？"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 19,
+      "jlptLevel": "N5",
+      "word": "また",
+      "reading": "また",
+      "meaning": "又、再",
+      "example": {
+        "jp": "あしたまた来ます。",
+        "zh": "明天再來。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 20,
+      "jlptLevel": "N5",
+      "word": "まだ",
+      "reading": "まだ",
+      "meaning": "尚未、還",
+      "example": {
+        "jp": "まだ雨が降っている。",
+        "zh": "還在下雨。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 21,
+      "jlptLevel": "N5",
+      "word": "まっすぐ",
+      "reading": "まっすぐ",
+      "meaning": "筆直、直接",
+      "example": {
+        "jp": "まっすぐ家に帰る。",
+        "zh": "直接回家。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 22,
+      "jlptLevel": "N5",
+      "word": "もう一度",
+      "reading": "もういちど",
+      "meaning": "再一次",
+      "example": {
+        "jp": "もう一度 言ってください。",
+        "zh": "請再說一次。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 23,
+      "jlptLevel": "N5",
+      "word": "もっと",
+      "reading": "もっと",
+      "meaning": "更加",
+      "example": {
+        "jp": "もっと寒くなる。",
+        "zh": "變得更冷了。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 24,
+      "jlptLevel": "N5",
+      "word": "ゆっくり",
+      "reading": "ゆっくり",
+      "meaning": "慢慢地",
+      "example": {
+        "jp": "ゆっくり歩く。",
+        "zh": "慢慢地走。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    }
+  ]
+}

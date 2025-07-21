@@ -1,248 +1,292 @@
 {
-    "category": "な形容詞",
-    "total": 22,
-    "words": [
-        {
-          "id": 1,
-          "jlptLevel": "N5",
-          "word": "いや（な）",
-          "reading": "いや（な）",
-          "meaning": "討厭的、不喜歡的",
-          "example": {
-            "jp": "仕事がいやになる。",
-            "zh": "工作變得厭煩。"
-          }
-        },
-        {
-          "id": 2,
-          "jlptLevel": "N5",
-          "word": "いろいろ（な）",
-          "reading": "いろいろ（な）",
-          "meaning": "各種各樣的",
-          "example": {
-            "jp": "いろいろな花が咲く。",
-            "zh": "各式各樣的花開了。"
-          }
-        },
-        {
-          "id": 3,
-          "jlptLevel": "N5",
-          "word": "大き（な）",
-          "reading": "おおき（な）",
-          "meaning": "大的",
-          "example": {
-            "jp": "大きな音がする。",
-            "zh": "發出巨大的聲響。"
-          }
-        },
-        {
-          "id": 4,
-          "jlptLevel": "N5",
-          "word": "同じ（な）",
-          "reading": "おなじ（な）",
-          "meaning": "相同的",
-          "example": {
-            "jp": "兄と同じ学校に入学する。",
-            "zh": "和哥哥進入同一所學校。"
-          }
-        },
-        {
-          "id": 5,
-          "jlptLevel": "N5",
-          "word": "きらい（な）",
-          "reading": "きらい（な）",
-          "meaning": "討厭的",
-          "example": {
-            "jp": "魚はきらいだ。",
-            "zh": "我討厭魚。"
-          }
-        },
-        {
-          "id": 6,
-          "jlptLevel": "N5",
-          "word": "きれい（な）",
-          "reading": "きれい（な）",
-          "meaning": "漂亮的、乾淨的",
-          "example": {
-            "jp": "きれいな花が咲く。",
-            "zh": "美麗的花開了。"
-          }
-        },
-        {
-          "id": 7,
-          "jlptLevel": "N5",
-          "word": "元気（な）",
-          "reading": "げんき（な）",
-          "meaning": "有精神的、健康的",
-          "example": {
-            "jp": "早く元気になってください。",
-            "zh": "請早日恢復精神。"
-          }
-        },
-        {
-          "id": 8,
-          "jlptLevel": "N5",
-          "word": "静か（な）",
-          "reading": "しずか（な）",
-          "meaning": "安靜的",
-          "example": {
-            "jp": "静かにしなさい。",
-            "zh": "請安靜。"
-          }
-        },
-        {
-          "id": 9,
-          "jlptLevel": "N5",
-          "word": "上手（な）",
-          "reading": "じょうず（な）",
-          "meaning": "擅長的",
-          "example": {
-            "jp": "英語を上手に話す。",
-            "zh": "擅長說英語。"
-          }
-        },
-        {
-          "id": 10,
-          "jlptLevel": "N5",
-          "word": "丈夫（な）",
-          "reading": "じょうぶ（な）",
-          "meaning": "結實的、堅固的",
-          "example": {
-            "jp": "このくつは丈夫だ。",
-            "zh": "這雙鞋子很耐穿。"
-          }
-        },
-        {
-            "id": 11,
-            "jlptLevel": "N5",
-            "word": "好き（な）",
-            "reading": "すき（な）",
-            "meaning": "喜歡的",
-            "example": {
-              "jp": "父はお酒が好きだ。",
-              "zh": "爸爸喜歡喝酒。"
-            }
-          },
-          {
-            "id": 12,
-            "jlptLevel": "N5",
-            "word": "大丈夫（な）",
-            "reading": "だいじょうぶ（な）",
-            "meaning": "沒問題的、沒事的",
-            "example": {
-              "jp": "時間は大丈夫ですか。",
-              "zh": "時間上沒問題嗎？"
-            }
-          },
-          {
-            "id": 13,
-            "jlptLevel": "N5",
-            "word": "大好き（な）",
-            "reading": "だいすき（な）",
-            "meaning": "非常喜歡的",
-            "example": {
-              "jp": "ゲームが大好きだ。",
-              "zh": "我超喜歡玩遊戲。"
-            }
-          },
-          {
-            "id": 14,
-            "jlptLevel": "N5",
-            "word": "大変（な）",
-            "reading": "たいへん（な）",
-            "meaning": "辛苦的、嚴重的",
-            "example": {
-              "jp": "この仕事はなかなか大変だ。",
-              "zh": "這項工作挺辛苦的。"
-            }
-          },
-          {
-            "id": 15,
-            "jlptLevel": "N5",
-            "word": "小さ（な）",
-            "reading": "ちいさ（な）",
-            "meaning": "小的",
-            "example": {
-              "jp": "小さな家に住む。",
-              "zh": "住在很小的房子。"
-            }
-          },
-          {
-            "id": 16,
-            "jlptLevel": "N5",
-            "word": "にぎやか（な）",
-            "reading": "にぎやか（な）",
-            "meaning": "熱鬧的",
-            "example": {
-              "jp": "この町はにぎやかだ。",
-              "zh": "這個城鎮很熱鬧。"
-            }
-          },
-          {
-            "id": 17,
-            "jlptLevel": "N5",
-            "word": "ひま（な）",
-            "reading": "ひま（な）",
-            "meaning": "有空的、閒暇的",
-            "example": {
-              "jp": "明日はひまです。",
-              "zh": "明天有空。"
-            }
-          },
-          {
-            "id": 18,
-            "jlptLevel": "N5",
-            "word": "便利（な）",
-            "reading": "べんり（な）",
-            "meaning": "便利的",
-            "example": {
-              "jp": "近くにスーパーがあって便利だ。",
-              "zh": "附近有超市很方便。"
-            }
-          },
-          {
-            "id": 19,
-            "jlptLevel": "N5",
-            "word": "こんな（な）",
-            "reading": "こんな（な）",
-            "meaning": "這樣的",
-            "example": {
-              "jp": "こんなことをしてはいけない。",
-              "zh": "不能做這種事。"
-            }
-          },
-          {
-            "id": 20,
-            "jlptLevel": "N5",
-            "word": "そんな（な）",
-            "reading": "そんな（な）",
-            "meaning": "那樣的",
-            "example": {
-              "jp": "そんな物はほしくない。",
-              "zh": "我不想要那種東西。"
-            }
-          },
-          {
-            "id": 21,
-            "jlptLevel": "N5",
-            "word": "あんな（な）",
-            "reading": "あんな（な）",
-            "meaning": "那樣的",
-            "example": {
-              "jp": "あんなまずい店には行きたくない。",
-              "zh": "我不想去那種難吃的餐廳。"
-            }
-          },
-          {
-            "id": 22,
-            "jlptLevel": "N5",
-            "word": "どんな（な）",
-            "reading": "どんな（な）",
-            "meaning": "怎樣的、什麼樣的",
-            "example": {
-              "jp": "どんなところに行きたいですか。",
-              "zh": "你想去什麼樣的地方？"
-            }
-          }
-      ]
+  "category": "な形容詞",
+  "total": 22,
+  "words": [
+    {
+      "id": 1,
+      "jlptLevel": "N5",
+      "word": "いや（な）",
+      "reading": "いや（な）",
+      "meaning": "討厭的、不喜歡的",
+      "example": {
+        "jp": "仕事がいやになる。",
+        "zh": "工作變得厭煩。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 2,
+      "jlptLevel": "N5",
+      "word": "いろいろ（な）",
+      "reading": "いろいろ（な）",
+      "meaning": "各種各樣的",
+      "example": {
+        "jp": "いろいろな花が咲く。",
+        "zh": "各式各樣的花開了。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 3,
+      "jlptLevel": "N5",
+      "word": "大き（な）",
+      "reading": "おおき（な）",
+      "meaning": "大的",
+      "example": {
+        "jp": "大きな音がする。",
+        "zh": "發出巨大的聲響。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 4,
+      "jlptLevel": "N5",
+      "word": "同じ（な）",
+      "reading": "おなじ（な）",
+      "meaning": "相同的",
+      "example": {
+        "jp": "兄と同じ学校に入学する。",
+        "zh": "和哥哥進入同一所學校。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 5,
+      "jlptLevel": "N5",
+      "word": "きらい（な）",
+      "reading": "きらい（な）",
+      "meaning": "討厭的",
+      "example": {
+        "jp": "魚はきらいだ。",
+        "zh": "我討厭魚。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 6,
+      "jlptLevel": "N5",
+      "word": "きれい（な）",
+      "reading": "きれい（な）",
+      "meaning": "漂亮的、乾淨的",
+      "example": {
+        "jp": "きれいな花が咲く。",
+        "zh": "美麗的花開了。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 7,
+      "jlptLevel": "N5",
+      "word": "元気（な）",
+      "reading": "げんき（な）",
+      "meaning": "有精神的、健康的",
+      "example": {
+        "jp": "早く元気になってください。",
+        "zh": "請早日恢復精神。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 8,
+      "jlptLevel": "N5",
+      "word": "静か（な）",
+      "reading": "しずか（な）",
+      "meaning": "安靜的",
+      "example": {
+        "jp": "静かにしなさい。",
+        "zh": "請安靜。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 9,
+      "jlptLevel": "N5",
+      "word": "上手（な）",
+      "reading": "じょうず（な）",
+      "meaning": "擅長的",
+      "example": {
+        "jp": "英語を上手に話す。",
+        "zh": "擅長說英語。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 10,
+      "jlptLevel": "N5",
+      "word": "丈夫（な）",
+      "reading": "じょうぶ（な）",
+      "meaning": "結實的、堅固的",
+      "example": {
+        "jp": "このくつは丈夫だ。",
+        "zh": "這雙鞋子很耐穿。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 11,
+      "jlptLevel": "N5",
+      "word": "好き（な）",
+      "reading": "すき（な）",
+      "meaning": "喜歡的",
+      "example": {
+        "jp": "父はお酒が好きだ。",
+        "zh": "爸爸喜歡喝酒。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 12,
+      "jlptLevel": "N5",
+      "word": "大丈夫（な）",
+      "reading": "だいじょうぶ（な）",
+      "meaning": "沒問題的、沒事的",
+      "example": {
+        "jp": "時間は大丈夫ですか。",
+        "zh": "時間上沒問題嗎？"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 13,
+      "jlptLevel": "N5",
+      "word": "大好き（な）",
+      "reading": "だいすき（な）",
+      "meaning": "非常喜歡的",
+      "example": {
+        "jp": "ゲームが大好きだ。",
+        "zh": "我超喜歡玩遊戲。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 14,
+      "jlptLevel": "N5",
+      "word": "大変（な）",
+      "reading": "たいへん（な）",
+      "meaning": "辛苦的、嚴重的",
+      "example": {
+        "jp": "この仕事はなかなか大変だ。",
+        "zh": "這項工作挺辛苦的。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 15,
+      "jlptLevel": "N5",
+      "word": "小さ（な）",
+      "reading": "ちいさ（な）",
+      "meaning": "小的",
+      "example": {
+        "jp": "小さな家に住む。",
+        "zh": "住在很小的房子。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 16,
+      "jlptLevel": "N5",
+      "word": "にぎやか（な）",
+      "reading": "にぎやか（な）",
+      "meaning": "熱鬧的",
+      "example": {
+        "jp": "この町はにぎやかだ。",
+        "zh": "這個城鎮很熱鬧。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 17,
+      "jlptLevel": "N5",
+      "word": "ひま（な）",
+      "reading": "ひま（な）",
+      "meaning": "有空的、閒暇的",
+      "example": {
+        "jp": "明日はひまです。",
+        "zh": "明天有空。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 18,
+      "jlptLevel": "N5",
+      "word": "便利（な）",
+      "reading": "べんり（な）",
+      "meaning": "便利的",
+      "example": {
+        "jp": "近くにスーパーがあって便利だ。",
+        "zh": "附近有超市很方便。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 19,
+      "jlptLevel": "N5",
+      "word": "こんな（な）",
+      "reading": "こんな（な）",
+      "meaning": "這樣的",
+      "example": {
+        "jp": "こんなことをしてはいけない。",
+        "zh": "不能做這種事。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 20,
+      "jlptLevel": "N5",
+      "word": "そんな（な）",
+      "reading": "そんな（な）",
+      "meaning": "那樣的",
+      "example": {
+        "jp": "そんな物はほしくない。",
+        "zh": "我不想要那種東西。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 21,
+      "jlptLevel": "N5",
+      "word": "あんな（な）",
+      "reading": "あんな（な）",
+      "meaning": "那樣的",
+      "example": {
+        "jp": "あんなまずい店には行きたくない。",
+        "zh": "我不想去那種難吃的餐廳。"
+      },
+      "reviewHistory": [],
+      "level": 1
+    },
+    {
+      "id": 22,
+      "jlptLevel": "N5",
+      "word": "どんな（な）",
+      "reading": "どんな（な）",
+      "meaning": "怎樣的、什麼樣的",
+      "example": {
+        "jp": "どんなところに行きたいですか。",
+        "zh": "你想去什麼樣的地方？"
+      },
+      "reviewHistory": [],
+      "level": 1
+    }
+  ]
 }
