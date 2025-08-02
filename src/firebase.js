@@ -153,7 +153,6 @@ export {
   db,
   COLLECTIONS,
   getUserData,
-  updateN4Record,
   updateRecord,
   saveWord,
   updateWord,
