@@ -9,8 +9,8 @@ const Home = () => {
       <div className={styles.homePage}>
         <h1 className={styles.title}>日文單字間隔複習</h1>
         <div className={styles.levelSelection}>
-          <Link to="/n5" className={`${styles.btn} ${styles.primary}`}>N5</Link>
-          <Link to="/n4" className={`${styles.btn} ${styles.secondary}`}>N4</Link>
+          <Link to="/N5" className={`${styles.btn} ${styles.primary}`}>N5</Link>
+          <Link to="/N4" className={`${styles.btn} ${styles.secondary}`}>N4</Link>
         </div>
       </div>
     </Layout>

@@ -2,12 +2,10 @@ import React from 'react';
 import { Routes, Route, Navigate, useLocation } from 'react-router-dom';
 import { AuthProvider, useAuth } from './contexts/AuthContext';
 import Home from './pages/Home';
-import N4Page from './pages/N4Page';
-import N5Page from './pages/N5Page';
-import N4Review from './pages/N4Review';
-import N5Review from './pages/N5Review';
+import Review from './pages/Review';
 import Summary from './pages/Summary';
 import LoginPage from './pages/LoginPage';
+import LevelPage from './pages/LevelPage';
 import Navbar from './components/Shared/Navbar';
 import './App.css';
 
@@ -17,6 +15,7 @@ const ProtectedRoute = ({ children }) => {
   const location = useLocation();
 
   if (!currentUser) {
+    console.log('no user found, redirecting to login...');
     // 保存用戶嘗試訪問的頁面，登入後重定向回去
     return <Navigate to="/login" state={{ from: location }} replace />;
   }
@@ -37,34 +36,18 @@ const AppRoutes = () => {
         }
       />
       <Route
-        path="/n4"
+        path="/:level"
         element={
           <ProtectedRoute>
-            <N4Page />
+            <LevelPage />
           </ProtectedRoute>
         }
       />
       <Route
-        path="/n5"
+        path="/:level/review/:category"
         element={
           <ProtectedRoute>
-            <N5Page />
-          </ProtectedRoute>
-        }
-      />
-      <Route
-        path="/n4/review/:category"
-        element={
-          <ProtectedRoute>
-            <N4Review />
-          </ProtectedRoute>
-        }
-      />
-      <Route
-        path="/n5/review/:category"
-        element={
-          <ProtectedRoute>
-            <N5Review />
+            <Review />
           </ProtectedRoute>
         }
       />

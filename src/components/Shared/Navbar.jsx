@@ -23,8 +23,8 @@ const Navbar = () => {
         {currentUser ? (
           // 已登入狀態
           <>
-            <button onClick={() => navigate('/n5')} className={styles.navLink}>N5</button>
-            <button onClick={() => navigate('/n4')} className={styles.navLink}>N4</button>
+            <button onClick={() => navigate('/N5')} className={styles.navLink}>N5</button>
+            <button onClick={() => navigate('/N4')} className={styles.navLink}>N4</button>
             <div className={styles.userSection}>
               <span className={styles.username}>歡迎, {currentUser.name}</span>
               <button onClick={handleLogout} className={`${styles.navLink} ${styles.logoutButton}`}>

@@ -23,8 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
+# # scripts
 # scripts
-scripts
 
 
 # Environment variables
