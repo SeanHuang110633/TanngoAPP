@@ -1,6 +1,7 @@
 // src/firebase.js
 import { initializeApp } from "firebase/app";
 import { getFirestore, collection, doc, getDoc, setDoc, updateDoc, deleteDoc, query, where, getDocs } from "firebase/firestore";
+import { getAuth } from "firebase/auth";
 
 // 檢查必要的環境變數
 const requiredEnvVars = [
@@ -32,6 +33,7 @@ const firebaseConfig = {
 // 初始化 Firebase
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
+const auth = getAuth(app);
 
 // 定義了要操作的「集合名稱（collections）」，避免 hardcode，增加可維護性。
 // COLLECTIONS 相當於table
@@ -152,6 +154,7 @@ const deleteWord = async (userId, wordId) => {
 export {
   db,
   COLLECTIONS,
+  auth,
   getUserData,
   updateRecord,
   saveWord,
