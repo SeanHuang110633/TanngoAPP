@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { useParams, useNavigate } from 'react-router-dom';
+import { useParams, useNavigate, useLocation } from 'react-router-dom';
 import { getRecord, db, COLLECTIONS } from '../firebase';
 import { doc, getDoc, setDoc } from 'firebase/firestore';
 import Layout from '../components/Shared/Layout';
@@ -24,6 +24,7 @@ const LevelPage = () => {
   const [selectedCategory, setSelectedCategory] = useState('');
   const [dailyGoal, setDailyGoal] = useState('');
   const [categoryTotalWords, setCategoryTotalWords] = useState(0);
+  const location = useLocation();
   const navigate = useNavigate();
   
   useEffect(() => {
@@ -35,6 +36,7 @@ const LevelPage = () => {
   // 獲取分類的單字總數
   const fetchCategoryTotalWords = async (category) => {
     try {
+      console.log('Fetching total words for category:',level, category);
       const categoryDocRef = doc(db, COLLECTIONS[level], `${category}`);
       const categoryDoc = await getDoc(categoryDocRef);
       
@@ -44,7 +46,7 @@ const LevelPage = () => {
       }
       return 0;
     } catch (error) {
-      console.error(`獲取 ${category} 單字總數時出錯:`, error);
+      console.error(`獲取 ${level}_${category} 單字總數時出錯:`, error);
       return 0;
     }
   };
@@ -73,7 +75,7 @@ const LevelPage = () => {
     };
 
     loadRecord();
-  }, [currentUser, level]);
+  }, [currentUser, level, location.key]);
 
   // 當選擇分類時，獲取該分類的單字總數
   useEffect(() => {

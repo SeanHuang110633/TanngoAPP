@@ -5,7 +5,7 @@ import styles from './styles/SummaryPage.module.scss';
 const Summary = () => {
   const location = useLocation();
   const navigate = useNavigate();
-  const { results = [], category = 'N5' } = location.state || {};
+  const { results = [], currentLevel = 'N5' } = location.state || {};
 
   // 計算統計數據
   const totalWords = results.length;
@@ -15,14 +15,22 @@ const Summary = () => {
 
   // 獲取對應的目錄路徑
   const getCategoryPath = () => {
-    switch (category) {
+    switch (currentLevel) {
       case 'N5':
-        return '/n5';
+        return '/N5';
       case 'N4':
-        return '/n4';
+        return '/N4';
       // 可以根據需要添加更多級別
+      case 'N3':
+        return '/N3';
+      case 'N2':
+        return '/N2';
+      case 'N1':
+        return '/N1';
+      case 'GRE':
+        return '/GRE';
       default:
-        return '/n5'; // 預設返回 N5 目錄
+        return '/N5'; // 預設返回 N5 目錄
     }
   };
 
@@ -88,7 +96,7 @@ const Summary = () => {
           className={styles.backButton}
           onClick={handleBackToCategory}
         >
-          返回{category}目錄
+          返回{currentLevel}目錄
         </button>
       </div>
     </Layout>

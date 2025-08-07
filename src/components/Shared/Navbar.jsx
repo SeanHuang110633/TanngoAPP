@@ -25,6 +25,8 @@ const Navbar = () => {
           <>
             <button onClick={() => navigate('/N5')} className={styles.navLink}>N5</button>
             <button onClick={() => navigate('/N4')} className={styles.navLink}>N4</button>
+            <button onClick={() => navigate('/N3')} className={styles.navLink}>N3</button>
+            <button onClick={() => navigate('/GRE')} className={styles.navLink}>GRE</button>
             <div className={styles.userSection}>
               <span className={styles.username}>歡迎, {currentUser.name}</span>
               <button onClick={handleLogout} className={`${styles.navLink} ${styles.logoutButton}`}>

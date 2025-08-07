@@ -174,8 +174,6 @@ const Review = () => {
       newLevel = Math.min((word.level || 1) + 1, SPACING_INTERVALS.length);
       const daysToAdd = SPACING_INTERVALS[newLevel - 2];
       nextReviewDate = addDays(today, daysToAdd);
-      console.log("newLevel: ", newLevel);
-      console.log("newReviewDate: ", nextReviewDate);
     } else {
       newLevel = word.level;
       nextReviewDate = today; // 忘記的話，下次複習日期設為今天
@@ -233,7 +231,7 @@ const Review = () => {
         navigate('/summary', { 
           state: { 
             results: finalResults,
-            category: category ? category.charAt(0).toUpperCase() + category.slice(1) : level
+            currentLevel: level
           },
           replace: true
         });
@@ -244,7 +242,7 @@ const Review = () => {
         navigate('/summary', { 
           state: { 
             results: finalResults || [],
-            category: category ? category.charAt(0).toUpperCase() + category.slice(1) : level
+            currentLevel: level
           },
           replace: true
         });
