@@ -55,14 +55,14 @@ const CATEGORY_MAP = {
   'loanword': '外來語'
 };
 
-const level = 'N0';
+const level = 'N3';
 const files = [
-  { type: 'adj-na', file: 'N0_adj-na.json' },
-  // { type: 'verb', file: 'N5_verb.json' },
-  // { type: 'adj', file: 'N5_adj.json' },
-  // { type: 'adj-na', file: 'N5_adj-na.json'},
-  // { type: 'adv', file: 'N5_adv.json'},
-  // { type: 'loanword', file: 'N5_loanword.json'},
+  // { type: 'adj-na', file: 'N3_adj-na.json' },
+  { type: 'verb', file: 'N3_verb.json' },
+  // { type: 'adj', file: 'N3_adj.json' },
+  // { type: 'na-adj', file: 'N3_na-adj.json' },
+  // { type: 'adv', file: 'N3_adv.json'},
+  // { type: 'loanword', file: 'N3_loanword.json'},
 ];
 
 // 讀取 JSON 檔案

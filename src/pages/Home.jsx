@@ -11,6 +11,7 @@ const Home = () => {
         <div className={styles.levelSelection}>
           <Link to="/N5" className={`${styles.btn} ${styles.primary}`}>N5</Link>
           <Link to="/N4" className={`${styles.btn} ${styles.secondary}`}>N4</Link>
+          <Link to="/N3" className={`${styles.btn} ${styles.secondary}`}>N3</Link>
         </div>
       </div>
     </Layout>
